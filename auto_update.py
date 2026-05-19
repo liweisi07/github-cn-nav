@@ -114,7 +114,7 @@ def classify_repos(repos):
     classify_path = os.path.join(BASE, "phase3_enhanced.py")
     with open(classify_path, encoding="utf-8") as f:
         code = f.read().split("def main")[0]
-    loc = {}
+    loc = {"__file__": classify_path}
     exec(code, loc)
     classify_fn = loc["classify_repo"]
     
@@ -300,7 +300,7 @@ def rebuild_projects_json(repos):
     # Load classifier
     with open(os.path.join(BASE, "phase3_enhanced.py"), encoding="utf-8") as f:
         code = f.read().split("def main")[0]
-    loc = {}
+    loc = {"__file__": os.path.join(BASE, "phase3_enhanced.py")}
     exec(code, loc)
     classify = loc["classify_repo"]
     
