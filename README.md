@@ -2,9 +2,11 @@
 
 **把 GitHub 上最火的 6788 个开源项目，配上中文描述和大白话解读，做成一个能搜、能筛、能看的导航站。**
 
-👉 [在线浏览](https://aa63966243.github.io/github-) | [下载离线版](https://github.com/aa63966243/github-/releases/latest/download/standalone.html)
+👉 [在线浏览](https://SoulSpark-CN.github.io/github-cn-nav) | [下载离线版](https://github.com/SoulSpark-CN/github-cn-nav/releases/latest/download/standalone.html)
 
 就比如你看到 `codecrafters-io/build-your-own-x` 这个 50 万星的项目，英文描述就一句"Master programming by recreating your favorite technologies from scratch"——看完还是不知道这玩意儿干嘛的。我们告诉你：**这就是"手把手教你从零造轮子"，像学做饭不从外卖开始而是从洗菜切菜开始，适合想深入理解技术原理的中级开发者。**
+
+⚠️ 本仓库不是 GitHub 官方项目，是一个社区维护的中文开源导航站。
 
 ---
 
@@ -29,12 +31,12 @@
 直接访问 GitHub Pages：`https://你的用户名.github.io/仓库名`
 
 ### 2. 下载离线版
-从 [Releases](https://github.com/aa63966243/github-/releases) 下载 `standalone.html`，浏览器双击打开，不需要网络。
+从 [Releases](https://github.com/SoulSpark-CN/github-cn-nav/releases) 下载 `standalone.html`，浏览器双击打开，不需要网络。
 
 ### 3. 自己跑
 ```bash
-git clone https://github.com/aa63966243/github-.git
-cd github-/deploy
+git clone https://github.com/SoulSpark-CN/github-cn-nav.git
+cd github-cn-nav/deploy
 python3 -m http.server 8080
 # 浏览器打开 http://localhost:8080
 ```
