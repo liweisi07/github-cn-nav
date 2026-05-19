@@ -284,7 +284,7 @@ function createProjectItem(p) {
   div.dataset.rh = p.rh || '';
   
   const starsStr = p.stars >= 1000 ? '⭐ ' + (p.stars/1000).toFixed(1) + 'k' : '⭐ ' + p.stars.toLocaleString();
-  const surgeBadge = p.surge_5d ? ' <span style="color:#22c55e;font-weight:700;font-size:15px">+' + p.surge_5d + '</span>' : '';
+  const surgeBadge = p.surge_5d ? ' <span style="color:#22c55e;font-weight:700;font-size:15px" title="近5日新增' + p.surge_5d + ' ⭐">↑' + p.surge_5d + '</span>' : '';
   
   div.innerHTML = `<div class="project-top">
     <span class="rank">${p.id}</span>
