@@ -1,0 +1,76 @@
+name: Auto Update (Every 2 Days)
+
+on:
+  schedule:
+    # 每2天 UTC 8:00 (北京时间 16:00)
+    - cron: '0 8 */2 * *'
+  workflow_dispatch:  # 允许手动触发
+    inputs:
+      dry_run:
+        description: '干跑模式（不实际修改数据）'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write      # 需要 push 权限
+  pages: write         # GitHub Pages 部署
+  id-token: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+      
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+      
+      - name: 安装依赖
+        run: pip install requests urllib3
+      
+      - name: 运行更新
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: |
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            python3 auto_update.py --dry-run
+          else
+            python3 auto_update.py
+          fi
+      
+      - name: 提交变更
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add manifest.json 人话解读.json projects.json translate_batch_*_done.json deploy/ 分类统计.json
+          git diff --staged --quiet || (
+            git commit -m "🤖 auto-update: $(date +%Y-%m-%d)" &&
+            git push
+          )
+  
+  deploy-pages:
+    needs: update
+    if: ${{ github.event.inputs.dry_run != 'true' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      - name: 检出 main 分支（获取 deploy/）
+        uses: actions/checkout@v4
+      
+      - name: 部署到 GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./deploy
+          publish_branch: gh-pages
+          force_orphan: true
+          commit_message: "🤖 deploy: ${{ github.event.head_commit.message || 'auto' }}"
