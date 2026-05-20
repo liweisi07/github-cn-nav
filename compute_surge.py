@@ -34,7 +34,8 @@ def list_archive_hours(days=5):
     now = datetime.now(timezone.utc)
     # GH Archive 有 1-2 小时延迟，用 now - 2h 作为最新
     end = now - timedelta(hours=2)
-    start = end - timedelta(days=days)
+    # GH Archive 有 1-2 天延迟，加 2 天余量确保有效数据够 5 天
+    start = end - timedelta(days=days + 2)
     
     urls = []
     current = start.replace(minute=0, second=0, microsecond=0)
