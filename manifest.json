@@ -15611,6 +15611,39 @@
     "first_seen": "2026-05-19"
   },
   {
+    "id": 600596928,
+    "name": "danny-avila/LibreChat",
+    "desc": "Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active.",
+    "stars": 37270,
+    "url": "https://github.com/danny-avila/LibreChat",
+    "lang": "TypeScript",
+    "topics": [
+      "ai",
+      "anthropic",
+      "artifacts",
+      "aws",
+      "azure",
+      "chatgpt",
+      "chatgpt-clone",
+      "claude",
+      "clone",
+      "deepseek",
+      "gemini",
+      "google",
+      "gpt-5",
+      "librechat",
+      "mcp",
+      "o1",
+      "openai",
+      "responses-api",
+      "vision",
+      "webui"
+    ],
+    "created": "2023-02-12T01:06:52Z",
+    "updated": "2026-05-21T10:43:36Z",
+    "first_seen": "2026-05-21"
+  },
+  {
     "id": 667110339,
     "name": "drawdb-io/drawdb",
     "desc": "免费直观的在线数据库设计工具",
@@ -21422,6 +21455,32 @@
     "first_seen": "2026-05-19"
   },
   {
+    "id": 652712035,
+    "name": "lyogavin/airllm",
+    "desc": "AirLLM 70B inference with single 4GB GPU",
+    "stars": 18149,
+    "url": "https://github.com/lyogavin/airllm",
+    "lang": "Jupyter Notebook",
+    "topics": [
+      "chinese-llm",
+      "chinese-nlp",
+      "finetune",
+      "generative-ai",
+      "instruct-gpt",
+      "instruction-set",
+      "llama",
+      "llm",
+      "lora",
+      "open-models",
+      "open-source",
+      "open-source-models",
+      "qlora"
+    ],
+    "created": "2023-06-12T16:28:41Z",
+    "updated": "2026-05-21T10:53:37Z",
+    "first_seen": "2026-05-21"
+  },
+  {
     "id": 1195828337,
     "name": "titanwings/colleague-skill",
     "desc": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
@@ -21449,6 +21508,18 @@
     "created": "2022-12-03T00:05:09Z",
     "updated": "2026-05-18T02:00:18Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 65899476,
+    "name": "espressif/esp-idf",
+    "desc": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+    "stars": 18108,
+    "url": "https://github.com/espressif/esp-idf",
+    "lang": "C",
+    "topics": [],
+    "created": "2016-08-17T10:40:35Z",
+    "updated": "2026-05-21T09:09:16Z",
+    "first_seen": "2026-05-21"
   },
   {
     "id": 1113573066,
@@ -21484,6 +21555,43 @@
     "created": "2025-10-23T12:45:00Z",
     "updated": "2026-05-18T23:55:00Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 183483988,
+    "name": "ruffle-rs/ruffle",
+    "desc": "A Flash Player emulator written in Rust",
+    "stars": 18092,
+    "url": "https://github.com/ruffle-rs/ruffle",
+    "lang": "Rust",
+    "topics": [
+      "emulator",
+      "flash",
+      "hacktoberfest",
+      "reimplementation",
+      "rust",
+      "swf"
+    ],
+    "created": "2019-04-25T17:53:32Z",
+    "updated": "2026-05-21T00:21:56Z",
+    "first_seen": "2026-05-21"
+  },
+  {
+    "id": 76990209,
+    "name": "wled/WLED",
+    "desc": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!",
+    "stars": 18090,
+    "url": "https://github.com/wled/WLED",
+    "lang": "C++",
+    "topics": [
+      "esp32",
+      "esp8266",
+      "hacktoberfest",
+      "led",
+      "light"
+    ],
+    "created": "2016-12-20T20:42:27Z",
+    "updated": "2026-05-21T02:35:59Z",
+    "first_seen": "2026-05-21"
   },
   {
     "id": 1091534692,
@@ -55353,6 +55461,22 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 1219596233,
+    "name": "Yuan1z0825/nature-skills",
+    "desc": "符合nature论文学术表达和科研绘图的Skill",
+    "stars": 9849,
+    "url": "https://github.com/Yuan1z0825/nature-skills",
+    "lang": "Python",
+    "topics": [
+      "codex-skills",
+      "nature",
+      "nature-skills"
+    ],
+    "created": "2026-04-24T03:11:46Z",
+    "updated": "2026-05-21T11:21:39Z",
+    "first_seen": "2026-05-21"
+  },
+  {
     "id": 105699750,
     "name": "yzhao062/pyod",
     "desc": "A Python library for anomaly detection across tabular, time series, graph, text, and image data. 60+ detectors, benchmark-backed ADEngine orchestration, and an agentic workflow for AI agents.",
@@ -58778,6 +58902,28 @@
     "created": "2013-12-03T08:07:20Z",
     "updated": "2026-05-16T00:18:35Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 915128177,
+    "name": "caelestia-dots/shell",
+    "desc": "‼️ No waybar here ‼️",
+    "stars": 9596,
+    "url": "https://github.com/caelestia-dots/shell",
+    "lang": "QML",
+    "topics": [
+      "caelestia",
+      "dotfiles",
+      "hyprland",
+      "hyprland-rice",
+      "linux",
+      "qt6",
+      "quickshell",
+      "rice",
+      "wayland"
+    ],
+    "created": "2025-01-11T03:33:44Z",
+    "updated": "2026-05-21T11:10:42Z",
+    "first_seen": "2026-05-21"
   },
   {
     "id": 47440536,
