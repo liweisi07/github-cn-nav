@@ -4,11 +4,12 @@ Phase 3 Enhanced: 增强分类引擎 v2
 修复：编程语言缺失、中文描述不匹配、关键词覆盖不足
 """
 import json, os, sys, re, time
+from pathlib import Path
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-MANIFEST = os.path.join(BASE_DIR, "manifest.json")
-CLASSIFY_DIR = os.path.join(BASE_DIR, "分类")
-NAV_FILE = os.path.join(BASE_DIR, "导航索引.md")
+BASE_DIR = Path(__file__).resolve().parent.parent
+MANIFEST = str(BASE_DIR / "data" / "manifest.json")
+CLASSIFY_DIR = str(BASE_DIR / "data" / "分类")
+NAV_FILE = str(BASE_DIR / "data" / "导航索引.md")
 
 # ==============================
 # 分类规则引擎 v2
@@ -325,7 +326,7 @@ def main():
             cat_repos[category] = []
         cat_counts[category] = cat_counts.get(category, 0) + 1
         
-        readme_file = os.path.join(BASE_DIR, "原始README", name.replace("/", "_") + ".md")
+        readme_file = str(BASE_DIR / "data" / "原始README" / (name.replace("/", "_") + ".md"))
         summary = readme_summary(readme_file)
         
         cat_repos[category].append({
@@ -408,7 +409,7 @@ def main():
     print(f"  分类目录: {CLASSIFY_DIR}/", flush=True)
     
     # 保存统计
-    stats_file = os.path.join(BASE_DIR, "分类统计.json")
+    stats_file = str(BASE_DIR / "data" / "分类统计.json")
     with open(stats_file, "w", encoding="utf-8") as f:
         json.dump({
             "total": total_classified,

@@ -7,14 +7,19 @@ from typing import Any, Dict, Optional
 from pathlib import Path
 
 # ---------- 路径常量 ----------
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+BASE_DIR = Path(__file__).resolve().parent.parent
 
-MANIFEST_PATH = os.path.join(BASE_DIR, "manifest.json")
-PROJECTS_PATH = os.path.join(BASE_DIR, "projects.json")
-RENHUA_PATH = os.path.join(BASE_DIR, "人话解读.json")
-STATE_PATH = os.path.join(BASE_DIR, ".update_state.json")
-DISCOVERY_FILE = os.path.join(BASE_DIR, "discovery_candidates.json")
-SURGE_OUTPUT_FILE = os.path.join(BASE_DIR, "surge_top100.json")
+MANIFEST_PATH = str(BASE_DIR / "data" / "manifest.json")
+PROJECTS_PATH = str(BASE_DIR / "data" / "projects.json")
+RENHUA_PATH = str(BASE_DIR / "data" / "人话解读.json")
+STATE_PATH = str(BASE_DIR / "data" / ".update_state.json")
+DISCOVERY_FILE = str(BASE_DIR / "data" / "discovery_candidates.json")
+SURGE_OUTPUT_FILE = str(BASE_DIR / "data" / "surge_top100.json")
+
+
+def get_project_root() -> Path:
+    """返回项目根目录（src/ 的父目录）"""
+    return Path(__file__).resolve().parent.parent
 
 # ---------- 日志 ----------
 def setup_logger(name: Optional[str] = None) -> logging.Logger:

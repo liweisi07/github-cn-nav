@@ -5,11 +5,12 @@
 产出: deploy/ 目录，内含 index.html + projects.json + README.txt + serve.sh
 """
 import json, os, shutil
+from pathlib import Path
 
-BASE = os.path.dirname(os.path.abspath(__file__))  # github目录/ (parent of deploy/)
-DEPLOY = os.path.join(BASE, "deploy")
-HTML_SRC = os.path.join(DEPLOY, "index.html")  # 轻量版模板(已含 fetch)
-JSON_SRC = os.path.join(BASE, "projects.json")
+BASE = Path(__file__).resolve().parent.parent
+DEPLOY = str(BASE / "deploy")
+HTML_SRC = str(BASE / "deploy" / "index.html")
+JSON_SRC = str(BASE / "data" / "projects.json")
 
 os.makedirs(DEPLOY, exist_ok=True)
 
@@ -98,7 +99,7 @@ with open(JSON_SRC, encoding="utf-8") as f:
     data_json = f.read()
 
 # Inline surge data (may not exist yet — skip if missing)
-SURGE_SRC = os.path.join(BASE, "surge_top100.json")
+SURGE_SRC = str(BASE / "data" / "surge_top100.json")
 if os.path.exists(SURGE_SRC):
     with open(SURGE_SRC, encoding="utf-8") as f:
         surge_json = f.read()

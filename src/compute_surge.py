@@ -4,6 +4,7 @@
 v2: 添加超时、日志、安全的文件处理。
 """
 import json, os, sys, gzip, io, subprocess, re, tempfile, time as time_mod
+from pathlib import Path
 from datetime import datetime, timedelta, timezone
 from collections import Counter
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -14,10 +15,10 @@ from utils import setup_logger
 
 logger = setup_logger("compute_surge")
 
-BASE = os.path.dirname(os.path.abspath(__file__))
-PROJECTS_FILE = os.path.join(BASE, "projects.json")
-OUTPUT_FILE = os.path.join(BASE, "surge_top100.json")
-DISCOVERY_FILE = os.path.join(BASE, "discovery_candidates.json")
+BASE = Path(__file__).resolve().parent.parent
+PROJECTS_FILE = str(BASE / "data" / "projects.json")
+OUTPUT_FILE = str(BASE / "data" / "surge_top100.json")
+DISCOVERY_FILE = str(BASE / "data" / "discovery_candidates.json")
 GH_ARCHIVE_BASE = "https://data.gharchive.org"
 
 USER_AGENT = "surge-compute/2.0"
@@ -123,7 +124,7 @@ def compute_surge(days: int = 5, top_n: int = 100, workers: int = 20):
     logger.info("总 star 增量: %d, 涉及仓库: %d", total_stars, len(all_counts))
 
     # 原子写入
-    tmp_fd, tmp_path = tempfile.mkstemp(suffix='.json', dir=BASE)
+    tmp_fd, tmp_path = tempfile.mkstemp(suffix='.json', dir=str(BASE / 'data'))
     try:
         with os.fdopen(tmp_fd, 'w', encoding='utf-8') as f:
             json.dump(result, f, ensure_ascii=False, indent=2)
@@ -173,7 +174,7 @@ def discover_rising_stars(
             logger.info("    ... 还有 %d 个", len(candidates)-10)
 
         # 原子写入
-        tmp_fd, tmp_path = tempfile.mkstemp(suffix='.json', dir=BASE)
+        tmp_fd, tmp_path = tempfile.mkstemp(suffix='.json', dir=str(BASE / 'data'))
         try:
             with os.fdopen(tmp_fd, 'w', encoding='utf-8') as f:
                 json.dump(candidates, f, ensure_ascii=False, indent=2)

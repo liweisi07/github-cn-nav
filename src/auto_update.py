@@ -7,6 +7,7 @@ GitHub 5000+ Star 项目 增量更新器 v3
 import json, os, sys, time, re, requests, subprocess, logging
 from datetime import datetime, timezone, timedelta
 from typing import List, Dict, Any, Optional
+from pathlib import Path
 
 # 导入工具与分类模块
 from utils import (
@@ -22,10 +23,10 @@ os.environ["NO_PROXY"] = "*"
 import urllib3
 urllib3.disable_warnings()
 
-BASE = os.path.dirname(os.path.abspath(__file__))
-MANIFEST_PATH = os.path.join(BASE, "manifest.json")
-RENHUA_PATH = os.path.join(BASE, "人话解读.json")
-STATE_PATH = os.path.join(BASE, ".update_state.json")
+BASE = Path(__file__).resolve().parent.parent
+MANIFEST_PATH = BASE / "data" / "manifest.json"
+RENHUA_PATH = BASE / "data" / "人话解读.json"
+STATE_PATH = BASE / "data" / ".update_state.json"
 
 # ---------- Token & Headers ----------
 GH_TOKEN = get_github_token()
@@ -115,7 +116,7 @@ def discover_new_repos() -> List[dict]:
 
 # ---------- Discovery Radar ----------
 def check_discovery_candidates(existing_names: set) -> List[dict]:
-    disc_path = os.path.join(BASE, "discovery_candidates.json")
+    disc_path = str(BASE / "data" / "discovery_candidates.json")
     if not os.path.exists(disc_path):
         return []
 
@@ -374,7 +375,7 @@ def rebuild_projects_json(repos: List[dict]) -> None:
     desc_zh: Dict[str, str] = {}
     for bf in ["translate_batch_0_done.json", "translate_batch_1_done.json",
                 "translate_batch_2_done.json", "translate_batch_3_done.json"]:
-        fp = os.path.join(BASE, bf)
+        fp = str(BASE / "data" / bf)
         if os.path.exists(fp):
             try:
                 with open(fp, encoding="utf-8") as f:
@@ -414,7 +415,7 @@ def rebuild_projects_json(repos: List[dict]) -> None:
             "first_seen": r.get("first_seen", "")[:10],
         })
 
-    projects_path = os.path.join(BASE, "projects.json")
+    projects_path = str(BASE / "data" / "projects.json")
     atomic_write_json(projects, projects_path, ensure_ascii=False, separators=(',', ':'))
     size_mb = os.path.getsize(projects_path) / (1024 * 1024)
     logger.info("projects.json: %d 项目 (%.2fMB)", len(projects), size_mb)
@@ -422,7 +423,7 @@ def rebuild_projects_json(repos: List[dict]) -> None:
 # ---------- 部署 ----------
 def deploy_site() -> None:
     logger.info("[5/5] 部署站点...")
-    deploy_py = os.path.join(BASE, "deploy.py")
+    deploy_py = str(BASE / "src" / "deploy.py")
     if os.path.exists(deploy_py):
         result = subprocess.run(
             [sys.executable, deploy_py],
@@ -437,9 +438,8 @@ def deploy_site() -> None:
     else:
         logger.warning("⚠️ deploy.py 不存在，手动复制数据...")
         import shutil
-        shutil.copy2(
-            os.path.join(BASE, "projects.json"),
-            os.path.join(BASE, "deploy", "projects.json"),
+        shutil.copy2(str(BASE / "data" / "projects.json"),
+            str(BASE / "deploy" / "projects.json"),
         )
         logger.info("✅ projects.json 已复制到 deploy/")
 
