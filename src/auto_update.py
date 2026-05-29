@@ -27,6 +27,7 @@ BASE = Path(__file__).resolve().parent.parent
 MANIFEST_PATH = BASE / "data" / "manifest.json"
 RENHUA_PATH = BASE / "data" / "人话解读.json"
 STATE_PATH = BASE / "data" / ".update_state.json"
+CHECKPOINT_PATH = BASE / "data" / ".update_checkpoint.json"
 
 # ---------- Token & Headers ----------
 GH_TOKEN = get_github_token()
@@ -71,45 +72,43 @@ def discover_new_repos() -> List[dict]:
             logger.warning("读取 manifest 时出错: %s", e)
 
     new_repos, seen = [], set()
-    star_ranges = [(100000, None), (50000, 99999), (20000, 49999), (10000, 19999), (5000, 9999)]
-
-    for min_s, max_s in star_ranges:
-        q = f"stars:{min_s}..{max_s}" if max_s else f"stars:>={min_s}"
-        for page in range(1, 4):
-            url = f"https://api.github.com/search/repositories?q={q}&sort=stars&order=desc&per_page=100&page={page}"
-            try:
+    # 只搜 5k~10k 区间（新冲向5000+的项目大多在此），按 updated 排序
+    q = "stars:5000..9999"
+    for page in range(1, 11):  # 10 页 = 最多 1000 条，覆盖大多数新生项目
+        url = f"https://api.github.com/search/repositories?q={q}&sort=updated&order=desc&per_page=100&page={page}"
+        try:
+            resp = requests.get(url, headers=GH_HDR, timeout=30, verify=False)
+            if resp.status_code == 403 and 'rate limit' in resp.text.lower():
+                logger.warning("Rate limited, waiting 60s...")
+                time.sleep(60)
                 resp = requests.get(url, headers=GH_HDR, timeout=30, verify=False)
-                if resp.status_code == 403 and 'rate limit' in resp.text.lower():
-                    logger.warning("Rate limited, waiting 60s...")
-                    time.sleep(60)
-                    resp = requests.get(url, headers=GH_HDR, timeout=30, verify=False)
-                if resp.status_code != 200:
-                    logger.warning("GitHub %s, skip", resp.status_code)
-                    break
-                items = resp.json().get("items", [])
-                if not items:
-                    break
-                for item in items:
-                    name = item["full_name"].lower()
-                    if name not in existing_names and name not in seen:
-                        seen.add(name)
-                        new_repos.append({
-                            "id": item["id"],
-                            "name": item["full_name"],
-                            "desc": item.get("description") or "",
-                            "stars": item["stargazers_count"],
-                            "url": item["html_url"],
-                            "lang": item.get("language") or "-",
-                            "topics": item.get("topics", []),
-                            "created": item["created_at"],
-                            "updated": item["updated_at"],
-                            "first_seen": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
-                        })
-                logger.info("✓ %s p%d: %d results", q, page, len(items))
-                time.sleep(2)
-            except Exception as e:
-                logger.warning("✗ %s: %s", q, e)
+            if resp.status_code != 200:
+                logger.warning("GitHub %s, skip", resp.status_code)
                 break
+            items = resp.json().get("items", [])
+            if not items:
+                break
+            for item in items:
+                name = item["full_name"].lower()
+                if name not in existing_names and name not in seen:
+                    seen.add(name)
+                    new_repos.append({
+                        "id": item["id"],
+                        "name": item["full_name"],
+                        "desc": item.get("description") or "",
+                        "stars": item["stargazers_count"],
+                        "url": item["html_url"],
+                        "lang": item.get("language") or "-",
+                        "topics": item.get("topics", []),
+                        "created": item["created_at"],
+                        "updated": item["updated_at"],
+                        "first_seen": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+                    })
+            logger.info("✓ %s p%d: %d results", q, page, len(items))
+            time.sleep(2)
+        except Exception as e:
+            logger.warning("✗ %s: %s", q, e)
+            break
 
     logger.info("发现 %d 个新项目", len(new_repos))
     return new_repos
@@ -403,8 +402,10 @@ def rebuild_projects_json(repos: List[dict]) -> None:
         cat = r.get("cat") or classify_repo(name, r.get("desc", ""), r.get("lang", ""), r.get("topics", []))[0]
         desc = desc_zh.get(name) or r.get("desc", "")
         rh = renhua.get(name, "")
+        # 用 GitHub API 的稳定 id，不依赖数组下标
+        stable_id = r.get("id", i + 1)
         projects.append({
-            "id": i + 1,
+            "id": stable_id,
             "cat": cat,
             "name": name,
             "desc": desc[:200],
@@ -446,43 +447,83 @@ def deploy_site() -> None:
 # ---------- Main ----------
 def main() -> None:
     dry_run = is_dry_run()
-    new_repos = discover_new_repos()
+    
+    # 检查 checkpoint：上次更新中断了，从中断处恢复
+    new_repos = load_checkpoint()
+    if new_repos:
+        logger.info("🔁 从 checkpoint 恢复: %d 个新项目待处理", len(new_repos))
+    else:
+        new_repos = discover_new_repos()
 
-    # 雷达候选
-    existing_names = set()
-    if os.path.exists(MANIFEST_PATH):
-        try:
-            with open(MANIFEST_PATH, encoding="utf-8") as f:
-                for r in json.load(f):
-                    existing_names.add(r["name"].lower())
-        except Exception:
-            pass
+        # 雷达候选
+        existing_names = set()
+        if os.path.exists(MANIFEST_PATH):
+            try:
+                with open(MANIFEST_PATH, encoding="utf-8") as f:
+                    for r in json.load(f):
+                        existing_names.add(r["name"].lower())
+            except Exception:
+                pass
 
-    radar_repos = check_discovery_candidates(existing_names)
-    if radar_repos:
-        new_repos.extend(radar_repos)
+        radar_repos = check_discovery_candidates(existing_names)
+        if radar_repos:
+            new_repos.extend(radar_repos)
 
-    if not new_repos:
-        logger.info("✅ 没有新项目")
-        state = load_state()
-        state["last_update"] = datetime.now(timezone.utc).isoformat()
-        save_state(state)
-        return
+        if not new_repos:
+            logger.info("✅ 没有新项目")
+            state = load_state()
+            state["last_update"] = datetime.now(timezone.utc).isoformat()
+            save_state(state)
+            return
 
-    if dry_run:
-        logger.info("🔍 干跑: 发现 %d 个新项目，不动手", len(new_repos))
-        for r in new_repos[:15]:
-            logger.info("  %s ⭐%s", r['name'], r['stars'])
-        if len(new_repos) > 15:
-            logger.info("  ... 还有 %d 个", len(new_repos)-15)
-        return
+        if dry_run:
+            logger.info("🔍 干跑: 发现 %d 个新项目，不动手", len(new_repos))
+            for r in new_repos[:15]:
+                logger.info("  %s ⭐%s", r['name'], r['stars'])
+            if len(new_repos) > 15:
+                logger.info("  ... 还有 %d 个", len(new_repos)-15)
+            return
+
+        # 发现新项目后写入 checkpoint，防止后续步骤崩溃后全量重搜
+        save_checkpoint(new_repos)
 
     classify_repos(new_repos)
     translate_and_explain(new_repos)
     added = merge_and_rebuild(new_repos)
+
+    # 成功完成，清理 checkpoint
+    clear_checkpoint()
+
     if added > 0:
         deploy_site()
-    logger.info("\\n✅ 全流程完成: +%d 新项目", added)
+    logger.info("\\\\n✅ 全流程完成: +%d 新项目", added)
+
+
+def load_checkpoint() -> list:
+    """从 checkpoint 恢复未完成的新项目列表"""
+    if not CHECKPOINT_PATH.exists():
+        return []
+    try:
+        with open(CHECKPOINT_PATH, encoding="utf-8") as f:
+            data = json.load(f)
+        logger.info("发现 checkpoint: %d 个项目", len(data))
+        return data
+    except Exception as e:
+        logger.warning("checkpoint 损坏: %s", e)
+        return []
+
+
+def save_checkpoint(repos: list) -> None:
+    """保存 checkpoint，防止中途崩溃丢失"""
+    atomic_write_json(repos, str(CHECKPOINT_PATH), ensure_ascii=False, indent=2)
+    logger.info("💾 checkpoint 已保存: %d 个项目", len(repos))
+
+
+def clear_checkpoint() -> None:
+    """更新成功，清理 checkpoint"""
+    if CHECKPOINT_PATH.exists():
+        CHECKPOINT_PATH.unlink()
+        logger.info("🧹 checkpoint 已清理")
 
 if __name__ == "__main__":
     main()

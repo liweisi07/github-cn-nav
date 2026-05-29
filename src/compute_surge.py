@@ -69,7 +69,8 @@ def download_and_count(url: str, target_repos: set, max_retries: int = 3) -> Cou
                 for line in f:
                     try:
                         event = json.loads(line)
-                        if event.get("type") != "WatchEvent":
+                        etype = event.get("type")
+                        if etype not in ("WatchEvent", "ForkEvent"):
                             continue
                         repo_name = event.get("repo", {}).get("name", "").lower()
                         if repo_name in target_repos:
@@ -203,10 +204,12 @@ def _count_all_watch(url: str, max_retries: int = 2) -> Counter:
                 for line in f:
                     try:
                         event = json.loads(line)
-                        if event.get("type") == "WatchEvent":
-                            repo = event.get("repo", {}).get("name", "").lower()
-                            if repo:
-                                count[repo] += 1
+                        etype = event.get("type")
+                        if etype not in ("WatchEvent", "ForkEvent"):
+                            continue
+                        repo = event.get("repo", {}).get("name", "").lower()
+                        if repo:
+                            count[repo] += 1
                     except (json.JSONDecodeError, KeyError):
                         pass
             return count
