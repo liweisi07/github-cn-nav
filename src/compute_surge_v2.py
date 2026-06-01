@@ -347,7 +347,7 @@ if __name__ == "__main__":
         sys.exit(0)
 
     if args.shadow:
-        # 只更新快照，不覆盖 output
+        # 影子模式：更新快照。如果已有 >=5 天历史 → 自动升格为正常模式
         today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
         repos = load_repo_list()
         priority = get_priority_repos(repos, today_str, max_calls=args.max_calls)
@@ -359,7 +359,24 @@ if __name__ == "__main__":
             if stars is not None:
                 current[f"{owner}/{name}"] = stars
         save_snapshot(today_str, current)
-        logger.info("影子模式: 快照已更新 (%d repos), 未写 output", len(current))
-        sys.exit(0)
+
+        # 检查是否有 5 天历史 → 自动升格
+        snapshots_available = sorted(
+            [p.stem for p in SNAPSHOT_DIR.glob("*.json")],
+            reverse=True,
+        )
+        days_of_history = 0
+        if snapshots_available:
+            newest = datetime.strptime(snapshots_available[0], "%Y-%m-%d").replace(tzinfo=timezone.utc)
+            oldest = datetime.strptime(snapshots_available[-1], "%Y-%m-%d").replace(tzinfo=timezone.utc)
+            days_of_history = (newest - oldest).days + 1
+
+        if days_of_history >= args.days:
+            logger.info("🎉 已有 %d 天历史 → 自动升格为正常模式，产出榜单", days_of_history)
+            # 继续执行正常 compute_surge（下面会走到）
+        else:
+            logger.info("影子模式: 快照已更新 (%d repos), 还需 %d 天引导",
+                        len(current), args.days - days_of_history)
+            sys.exit(0)
 
     compute_surge(days=args.days, top_n=args.top, max_api_calls=args.max_calls)
