@@ -59599,6 +59599,30 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 85591067,
+    "name": "wwmm/easyeffects",
+    "desc": "Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications",
+    "stars": 9577,
+    "url": "https://github.com/wwmm/easyeffects",
+    "lang": "HTML",
+    "topics": [
+      "auto-volume",
+      "compressor",
+      "equalizer",
+      "kde",
+      "kirigami2",
+      "pipewire",
+      "pulseaudio",
+      "qml",
+      "qt",
+      "reverberation",
+      "stereo-equalizer-effects"
+    ],
+    "created": "2017-03-20T15:06:12Z",
+    "updated": "2026-06-02T23:49:38Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 517736014,
     "name": "aandrew-me/ytDownloader",
     "desc": "Desktop App for downloading Videos and Audios from hundreds of sites",
@@ -61218,6 +61242,30 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 91277330,
+    "name": "OWASP/wstg",
+    "desc": "The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.",
+    "stars": 9411,
+    "url": "https://github.com/OWASP/wstg",
+    "lang": "-",
+    "topics": [
+      "application-security",
+      "appsec",
+      "best-practices",
+      "bugbounty",
+      "guide",
+      "hacking",
+      "hacktoberfest",
+      "owasp",
+      "penetration-testing",
+      "pentesting",
+      "security"
+    ],
+    "created": "2017-05-14T23:20:40Z",
+    "updated": "2026-06-03T09:01:32Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 1049088,
     "name": "openscad/openscad",
     "desc": "OpenSCAD - The Programmers Solid 3D CAD Modeller  ",
@@ -61740,6 +61788,18 @@
     "created": "2022-10-17T19:18:14Z",
     "updated": "2026-05-18T18:33:30Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 1078332194,
+    "name": "BehiSecc/awesome-claude-skills",
+    "desc": "A curated list of Claude Skills.",
+    "stars": 9373,
+    "url": "https://github.com/BehiSecc/awesome-claude-skills",
+    "lang": "-",
+    "topics": [],
+    "created": "2025-10-17T15:05:35Z",
+    "updated": "2026-06-03T12:47:46Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 327416530,
@@ -63374,6 +63434,25 @@
     "created": "2020-06-21T13:48:40Z",
     "updated": "2026-05-18T01:11:33Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 2179572,
+    "name": "Kozea/WeasyPrint",
+    "desc": "The awesome document factory",
+    "stars": 9238,
+    "url": "https://github.com/Kozea/WeasyPrint",
+    "lang": "Python",
+    "topics": [
+      "converter",
+      "css",
+      "html",
+      "pdf",
+      "python",
+      "weasyprint"
+    ],
+    "created": "2011-08-09T14:14:24Z",
+    "updated": "2026-06-03T10:02:37Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 43098836,
@@ -69182,6 +69261,18 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 289665400,
+    "name": "brave-people/Dev-Event",
+    "desc": "🎉🎈 개발자 {웨비나, 컨퍼런스, 해커톤} 행사를 알려드립니다. [with 남송리 삼번지]",
+    "stars": 8713,
+    "url": "https://github.com/brave-people/Dev-Event",
+    "lang": "-",
+    "topics": [],
+    "created": "2020-08-23T10:40:55Z",
+    "updated": "2026-06-03T00:11:18Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 285393031,
     "name": "Morganamilo/paru",
     "desc": "Feature packed AUR helper",
@@ -70171,6 +70262,26 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 230369286,
+    "name": "pdm-project/pdm",
+    "desc": "A modern Python package and dependency manager supporting the latest PEP standards",
+    "stars": 8641,
+    "url": "https://github.com/pdm-project/pdm",
+    "lang": "Python",
+    "topics": [
+      "hacktoberfest",
+      "package-manager",
+      "packaging",
+      "pep582",
+      "pep621",
+      "python",
+      "workflow"
+    ],
+    "created": "2019-12-27T03:50:57Z",
+    "updated": "2026-06-03T06:18:45Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 16621659,
     "name": "aeron-io/aeron",
     "desc": "Efficient reliable UDP unicast, UDP multicast, and IPC message transport",
@@ -70300,6 +70411,24 @@
     "created": "2014-11-17T17:39:22Z",
     "updated": "2026-05-17T00:44:35Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 65468547,
+    "name": "jd/tenacity",
+    "desc": "Retrying library for Python",
+    "stars": 8634,
+    "url": "https://github.com/jd/tenacity",
+    "lang": "Python",
+    "topics": [
+      "failure",
+      "hacktoberfest",
+      "python",
+      "retry",
+      "retry-library"
+    ],
+    "created": "2016-08-11T12:44:02Z",
+    "updated": "2026-06-03T11:59:09Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 104623696,
@@ -70721,6 +70850,18 @@
     "created": "2025-11-03T06:13:06Z",
     "updated": "2026-05-18T23:52:11Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 887914303,
+    "name": "funstory-ai/BabelDOC",
+    "desc": "Yet Another Document Translator",
+    "stars": 8609,
+    "url": "https://github.com/funstory-ai/BabelDOC",
+    "lang": "Python",
+    "topics": [],
+    "created": "2024-11-13T13:57:29Z",
+    "updated": "2026-06-03T10:32:26Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 236648333,
@@ -71900,6 +72041,22 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 447036,
+    "name": "mopidy/mopidy",
+    "desc": "Mopidy is an extensible music server written in Python",
+    "stars": 8509,
+    "url": "https://github.com/mopidy/mopidy",
+    "lang": "Python",
+    "topics": [
+      "mopidy",
+      "music-player",
+      "python"
+    ],
+    "created": "2009-12-23T14:25:36Z",
+    "updated": "2026-06-02T22:32:37Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 155658556,
     "name": "smallstep/certificates",
     "desc": "🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.",
@@ -72545,6 +72702,31 @@
     "created": "2011-11-05T22:05:52Z",
     "updated": "2026-05-18T21:47:00Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 788768107,
+    "name": "WangRongsheng/awesome-LLM-resources",
+    "desc": "🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources. ",
+    "stars": 8471,
+    "url": "https://github.com/WangRongsheng/awesome-LLM-resources",
+    "lang": "-",
+    "topics": [
+      "awesome-list",
+      "book",
+      "course",
+      "large-language-models",
+      "llama",
+      "llm",
+      "mistral",
+      "openai",
+      "qwen",
+      "rag",
+      "retrieval-augmented-generation",
+      "webui"
+    ],
+    "created": "2024-04-19T03:31:13Z",
+    "updated": "2026-06-03T11:30:00Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 279678603,
@@ -73991,6 +74173,39 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 1129940957,
+    "name": "chopratejas/headroom",
+    "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+    "stars": 8367,
+    "url": "https://github.com/chopratejas/headroom",
+    "lang": "Python",
+    "topics": [
+      "agent",
+      "ai",
+      "anthropic",
+      "claude-code",
+      "compression",
+      "context-engineering",
+      "context-window",
+      "cursor",
+      "fastapi",
+      "langchain",
+      "llm",
+      "mcp",
+      "openai",
+      "prompt-engineering",
+      "proxy",
+      "python",
+      "rag",
+      "token-optimization",
+      "tokens",
+      "typescript"
+    ],
+    "created": "2026-01-07T19:58:51Z",
+    "updated": "2026-06-03T12:51:42Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 21088356,
     "name": "Hacker0x01/react-datepicker",
     "desc": "A simple and reusable datepicker component for React",
@@ -74696,6 +74911,25 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 576247474,
+    "name": "vastsa/FileCodeBox",
+    "desc": "文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）",
+    "stars": 8308,
+    "url": "https://github.com/vastsa/FileCodeBox",
+    "lang": "Python",
+    "topics": [
+      "anonymous",
+      "fastapi",
+      "filecodebox",
+      "python",
+      "tool",
+      "vue"
+    ],
+    "created": "2022-12-09T11:10:08Z",
+    "updated": "2026-06-03T12:21:39Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 18993814,
     "name": "bytedeco/javacv",
     "desc": "Java interface to OpenCV, FFmpeg, and more",
@@ -74851,6 +75085,29 @@
     "created": "2018-08-26T05:53:05Z",
     "updated": "2026-05-18T21:21:16Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 224234024,
+    "name": "mherrmann/helium",
+    "desc": "Lighter web automation with Python",
+    "stars": 8297,
+    "url": "https://github.com/mherrmann/helium",
+    "lang": "Python",
+    "topics": [
+      "chrome",
+      "firefox",
+      "helium",
+      "python",
+      "python3",
+      "selenium",
+      "selenium-python",
+      "web-automation",
+      "web-scraping",
+      "webdriver"
+    ],
+    "created": "2019-11-26T16:12:28Z",
+    "updated": "2026-06-03T09:02:23Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 188673216,
@@ -76058,6 +76315,25 @@
     "created": "2016-09-13T06:52:39Z",
     "updated": "2026-05-18T23:48:08Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 674186516,
+    "name": "zyronon/TypeWords",
+    "desc": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
+    "stars": 8210,
+    "url": "https://github.com/zyronon/TypeWords",
+    "lang": "CSS",
+    "topics": [
+      "english-learn",
+      "learn-english",
+      "memorizing-words",
+      "type-words",
+      "typing-practice",
+      "typingspeedtest"
+    ],
+    "created": "2023-08-03T10:39:02Z",
+    "updated": "2026-06-03T11:48:56Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 42304749,
@@ -78700,6 +78976,34 @@
     "created": "2016-11-19T21:34:03Z",
     "updated": "2026-05-13T14:44:03Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 154027884,
+    "name": "samber/awesome-prometheus-alerts",
+    "desc": "🚨 Collection of Prometheus alerting rules",
+    "stars": 8008,
+    "url": "https://github.com/samber/awesome-prometheus-alerts",
+    "lang": "Astro",
+    "topics": [
+      "alert",
+      "alerting",
+      "alerting-rules",
+      "alertmanager",
+      "awesome",
+      "collection",
+      "exporter",
+      "grafana",
+      "monitoring",
+      "prometheus",
+      "prometheus-alerting-rules",
+      "promql",
+      "query",
+      "rule",
+      "supervision"
+    ],
+    "created": "2018-10-21T16:18:02Z",
+    "updated": "2026-06-03T08:48:27Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 12384353,
@@ -82733,6 +83037,21 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 3946572,
+    "name": "PostgresApp/PostgresApp",
+    "desc": "The easiest way to get started with PostgreSQL on the Mac",
+    "stars": 7744,
+    "url": "https://github.com/PostgresApp/PostgresApp",
+    "lang": "Makefile",
+    "topics": [
+      "postgis",
+      "postgres"
+    ],
+    "created": "2012-04-06T03:38:37Z",
+    "updated": "2026-06-03T07:52:04Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 71701257,
     "name": "icindy/wxParse",
     "desc": "wxParse-微信小程序富文本解析自定义组件，支持HTML及markdown解析",
@@ -83978,6 +84297,27 @@
     "created": "2024-10-07T08:21:29Z",
     "updated": "2026-05-18T23:28:49Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 71823870,
+    "name": "prometheus-operator/kube-prometheus",
+    "desc": "Use Prometheus to monitor Kubernetes and applications running on Kubernetes",
+    "stars": 7665,
+    "url": "https://github.com/prometheus-operator/kube-prometheus",
+    "lang": "Jsonnet",
+    "topics": [
+      "alerts",
+      "cluster-monitoring",
+      "dashboards",
+      "hacktoberfest",
+      "kubernetes",
+      "operator",
+      "prometheus",
+      "prometheus-operator"
+    ],
+    "created": "2016-10-24T19:20:35Z",
+    "updated": "2026-06-03T12:14:34Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 67768325,
@@ -87731,6 +88071,27 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 36560369,
+    "name": "xirong/my-git",
+    "desc": "A practical Git & GitHub handbook for modern engineering teams and AI-native development workflows. |  现代工程团队与 AI 编程时代的 Git / GitHub 实战手册",
+    "stars": 7397,
+    "url": "https://github.com/xirong/my-git",
+    "lang": "Python",
+    "topics": [
+      "ai-coding",
+      "ai-native-development",
+      "git",
+      "git-flow",
+      "git-workflow",
+      "gitflow",
+      "github",
+      "github-flow"
+    ],
+    "created": "2015-05-30T14:02:04Z",
+    "updated": "2026-06-03T09:16:48Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 359839626,
     "name": "liyupi/codefather",
     "desc": "程序员鱼皮的编程宝典 ⭐️ 2026年最全编程学习路线图！包含Java学习路线、前端学习路线、Python学习路线、C++学习路线、算法学习路线、计算机基础学习路线、AI应用开发学习路线、AI Agent开发学习路线等。提供编程入门教程、AI大模型应用开发教程、RAG开发实战、MCP开发教程、Prompt工程指南、LLM应用开发、技术知识分享、学习资源推荐、项目实战教程、热门面试题、求职经验、简历优化、编程自学指南等内容，适用于所有零基础学编程、学习AI开发、转行程序员、计算机专业学生、求职找工作的同学 💎 编程学习，就来编程导航！",
@@ -87937,6 +88298,23 @@
     "created": "2015-08-08T22:25:44Z",
     "updated": "2026-05-18T18:50:12Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 72640835,
+    "name": "liangliangyy/DjangoBlog",
+    "desc": "🍺基于Django的博客系统",
+    "stars": 7387,
+    "url": "https://github.com/liangliangyy/DjangoBlog",
+    "lang": "Python",
+    "topics": [
+      "blog",
+      "django",
+      "django-blog",
+      "python"
+    ],
+    "created": "2016-11-02T13:07:55Z",
+    "updated": "2026-06-03T05:52:09Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 66179787,
@@ -88293,6 +88671,25 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 278862095,
+    "name": "antfu-collective/icones",
+    "desc": "⚡️ Icon Explorer with Instant searching, powered by Iconify",
+    "stars": 7356,
+    "url": "https://github.com/antfu-collective/icones",
+    "lang": "Vue",
+    "topics": [
+      "icon-collections",
+      "icons",
+      "iconsets",
+      "searching",
+      "vite",
+      "vue3"
+    ],
+    "created": "2020-07-11T12:58:46Z",
+    "updated": "2026-06-03T10:39:26Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 31333618,
     "name": "shopspring/decimal",
     "desc": "Arbitrary-precision fixed-point decimal numbers in Go",
@@ -88617,6 +89014,25 @@
     "created": "2016-02-09T13:26:52Z",
     "updated": "2026-05-17T07:24:17Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 1207091162,
+    "name": "yizhiyanhua-ai/fireworks-tech-graph",
+    "desc": "Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.",
+    "stars": 7331,
+    "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
+    "lang": "Python",
+    "topics": [
+      "agent-workflows",
+      "ai",
+      "claude-code",
+      "developer-tools",
+      "diagrams",
+      "svg"
+    ],
+    "created": "2026-04-10T15:07:10Z",
+    "updated": "2026-06-03T12:30:33Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 41822320,
@@ -90739,6 +91155,24 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 10247874,
+    "name": "docker/docker-py",
+    "desc": "A Python library for the Docker Engine API",
+    "stars": 7185,
+    "url": "https://github.com/docker/docker-py",
+    "lang": "Python",
+    "topics": [
+      "docker",
+      "docker-engine-api",
+      "docker-swarm",
+      "python",
+      "python-library"
+    ],
+    "created": "2013-05-23T16:15:07Z",
+    "updated": "2026-06-03T09:03:33Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 197205035,
     "name": "DIYgod/RSSHub-Radar",
     "desc": "🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub",
@@ -90807,6 +91241,30 @@
     "created": "2014-04-02T15:25:59Z",
     "updated": "2026-05-17T09:26:44Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 137444487,
+    "name": "mwouts/jupytext",
+    "desc": "Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts",
+    "stars": 7179,
+    "url": "https://github.com/mwouts/jupytext",
+    "lang": "Python",
+    "topics": [
+      "hydrogen",
+      "jupyter-notebook",
+      "jupyterlab",
+      "jupyterlab-extension",
+      "knitr",
+      "markdown",
+      "notebooks",
+      "python",
+      "rmarkdown",
+      "rstudio",
+      "version-control"
+    ],
+    "created": "2018-06-15T05:25:36Z",
+    "updated": "2026-06-02T21:25:38Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 655209,
@@ -92285,6 +92743,18 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 655492,
+    "name": "magit/magit",
+    "desc": "It's Magit! A Git Porcelain inside Emacs.",
+    "stars": 7115,
+    "url": "https://github.com/magit/magit",
+    "lang": "Emacs Lisp",
+    "topics": [],
+    "created": "2010-05-07T19:07:04Z",
+    "updated": "2026-06-03T10:26:08Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 549830413,
     "name": "civitai/civitai",
     "desc": "A repository of models, textual inversions, and more",
@@ -93345,6 +93815,27 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 654124617,
+    "name": "open-compass/opencompass",
+    "desc": "OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.",
+    "stars": 7057,
+    "url": "https://github.com/open-compass/opencompass",
+    "lang": "Python",
+    "topics": [
+      "benchmark",
+      "chatgpt",
+      "evaluation",
+      "large-language-model",
+      "llama2",
+      "llama3",
+      "llm",
+      "openai"
+    ],
+    "created": "2023-06-15T12:42:58Z",
+    "updated": "2026-06-03T12:37:19Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 152798409,
     "name": "cloudflare/boringtun",
     "desc": "Userspace WireGuard® Implementation in Rust",
@@ -93971,6 +94462,22 @@
     "created": "2020-06-13T02:51:28Z",
     "updated": "2026-05-18T10:19:06Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 985326979,
+    "name": "Lake1059/FFmpegFreeUI",
+    "desc": "3FUI 是 ffmpeg 在 Windows 上的轻度专业交互外壳，收录大量参数，界面美观，交互友好。此项目面向国内使用环境，让普通人也能够轻松压制视频和转换格式。",
+    "stars": 7024,
+    "url": "https://github.com/Lake1059/FFmpegFreeUI",
+    "lang": "Visual Basic .NET",
+    "topics": [
+      "ffmpeg",
+      "ffmpeg-gui",
+      "ffmpeg-windows"
+    ],
+    "created": "2025-05-17T14:28:35Z",
+    "updated": "2026-06-03T12:23:11Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 3161748,
@@ -95063,6 +95570,28 @@
     "created": "2019-04-20T14:37:03Z",
     "updated": "2026-05-18T03:42:03Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 20884782,
+    "name": "Ultimaker/Cura",
+    "desc": "3D printer / slicing GUI built on top of the Uranium framework",
+    "stars": 6967,
+    "url": "https://github.com/Ultimaker/Cura",
+    "lang": "Python",
+    "topics": [
+      "3d-printing",
+      "cura",
+      "gcode",
+      "gui",
+      "pyqt6",
+      "python",
+      "qml",
+      "slicer",
+      "uranium"
+    ],
+    "created": "2014-06-16T12:55:31Z",
+    "updated": "2026-06-03T11:40:50Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 180241820,
@@ -98660,6 +99189,21 @@
     "created": "2016-11-04T18:37:13Z",
     "updated": "2026-05-16T19:30:30Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 86696315,
+    "name": "Hexlet/ru-test-assignments",
+    "desc": "Тестовые задания для самостоятельного выполнения от разных it компаний",
+    "stars": 6774,
+    "url": "https://github.com/Hexlet/ru-test-assignments",
+    "lang": "HTML",
+    "topics": [
+      "assignments",
+      "hacktoberfest"
+    ],
+    "created": "2017-03-30T11:45:15Z",
+    "updated": "2026-06-03T08:15:21Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 6488049,
@@ -103851,6 +104395,28 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 31169720,
+    "name": "Tautulli/Tautulli",
+    "desc": "A Python based monitoring and tracking tool for Plex Media Server.",
+    "stars": 6505,
+    "url": "https://github.com/Tautulli/Tautulli",
+    "lang": "Python",
+    "topics": [
+      "analytics",
+      "monitoring",
+      "notifications",
+      "plex",
+      "plexpy",
+      "python",
+      "statistics",
+      "stats",
+      "tautulli"
+    ],
+    "created": "2015-02-22T16:36:06Z",
+    "updated": "2026-06-03T09:08:16Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 54160369,
     "name": "ROCm/ROCm",
     "desc": "AMD ROCm™ Software - GitHub Home",
@@ -104989,6 +105555,23 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 5801666,
+    "name": "gevent/gevent",
+    "desc": "Coroutine-based concurrency library for Python",
+    "stars": 6440,
+    "url": "https://github.com/gevent/gevent",
+    "lang": "Python",
+    "topics": [
+      "asyncio",
+      "coroutines",
+      "greenlet",
+      "python"
+    ],
+    "created": "2012-09-13T22:03:03Z",
+    "updated": "2026-06-03T10:38:22Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 17339868,
     "name": "lysyi3m/macos-terminal-themes",
     "desc": "Color schemes for default macOS Terminal.app",
@@ -105507,6 +106090,23 @@
     "created": "2018-02-18T16:50:01Z",
     "updated": "2026-05-18T16:15:40Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 54995014,
+    "name": "discord/discord-api-docs",
+    "desc": "Official Discord Developer Docs",
+    "stars": 6419,
+    "url": "https://github.com/discord/discord-api-docs",
+    "lang": "MDX",
+    "topics": [
+      "discord",
+      "discord-api",
+      "discordapp",
+      "memescale"
+    ],
+    "created": "2016-03-29T17:11:53Z",
+    "updated": "2026-06-02T23:20:28Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 885902812,
@@ -107888,6 +108488,22 @@
     "created": "2019-05-03T05:39:04Z",
     "updated": "2026-05-18T22:55:25Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 518122174,
+    "name": "Meloong-Git/PCL",
+    "desc": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+    "stars": 6307,
+    "url": "https://github.com/Meloong-Git/PCL",
+    "lang": "Visual Basic .NET",
+    "topics": [
+      "launcher",
+      "minecraft",
+      "minecraft-launcher"
+    ],
+    "created": "2022-07-26T15:43:26Z",
+    "updated": "2026-06-03T12:21:29Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 78369010,
@@ -111696,6 +112312,36 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 886774,
+    "name": "rundeck/rundeck",
+    "desc": "Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts",
+    "stars": 6132,
+    "url": "https://github.com/rundeck/rundeck",
+    "lang": "Groovy",
+    "topics": [
+      "ansible",
+      "audit",
+      "automation",
+      "category-distributed",
+      "deployment",
+      "devops",
+      "devops-team",
+      "devops-tools",
+      "hacktoberfest",
+      "java",
+      "operations",
+      "ops",
+      "orchestration",
+      "runbook",
+      "rundeck",
+      "scheduler",
+      "sre"
+    ],
+    "created": "2010-09-03T22:11:25Z",
+    "updated": "2026-06-02T20:51:16Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 188806350,
     "name": "obsidiandynamics/kafdrop",
     "desc": "Kafka Web UI",
@@ -113404,6 +114050,22 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 16394957,
+    "name": "schemaorg/schemaorg",
+    "desc": "Schema.org - schemas and supporting software",
+    "stars": 6060,
+    "url": "https://github.com/schemaorg/schemaorg",
+    "lang": "HTML",
+    "topics": [
+      "json-ld",
+      "rdf",
+      "structured-data"
+    ],
+    "created": "2014-01-30T23:58:35Z",
+    "updated": "2026-06-03T06:03:43Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 15120676,
     "name": "libusb/libusb",
     "desc": "A cross-platform library to access USB devices ",
@@ -114101,6 +114763,39 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 180136168,
+    "name": "adbar/trafilatura",
+    "desc": "Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML",
+    "stars": 6038,
+    "url": "https://github.com/adbar/trafilatura",
+    "lang": "Python",
+    "topics": [
+      "article-extractor",
+      "corpus-builder",
+      "corpus-tools",
+      "crawler",
+      "html-to-markdown",
+      "html2text",
+      "llm",
+      "news-aggregator",
+      "news-crawler",
+      "nlp",
+      "rag",
+      "readability",
+      "rss-feed",
+      "scraping",
+      "tei",
+      "text-cleaning",
+      "text-extraction",
+      "text-mining",
+      "text-preprocessing",
+      "web-scraping"
+    ],
+    "created": "2019-04-08T11:38:48Z",
+    "updated": "2026-06-03T12:01:12Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 48296177,
     "name": "libfuse/libfuse",
     "desc": "The reference implementation of the Linux FUSE (Filesystem in Userspace) interface",
@@ -114711,6 +115406,33 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 122682362,
+    "name": "Drakkar-Software/OctoBot",
+    "desc": "Free open source crypto trading bot to automate AI, Grid, DCA and TradingView strategies on Binance, Hyperliquid and 15+ exchanges, with a simple interface.",
+    "stars": 6017,
+    "url": "https://github.com/Drakkar-Software/OctoBot",
+    "lang": "Python",
+    "topics": [
+      "ai-trading",
+      "backtest",
+      "binance-api",
+      "bitcoin",
+      "coinbase-bot",
+      "cryptocurrencies",
+      "free",
+      "hyperliquid-trading-bot",
+      "paper-trading",
+      "python",
+      "solana",
+      "telegrambot",
+      "trading-bot",
+      "tradingview-pinescript-signal-alert-bot"
+    ],
+    "created": "2018-02-23T23:13:05Z",
+    "updated": "2026-06-03T06:51:32Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 47782688,
     "name": "lesspass/lesspass",
     "desc": ":key: stateless open source password manager",
@@ -114767,6 +115489,31 @@
     "created": "2017-03-27T15:18:12Z",
     "updated": "2026-05-18T18:20:30Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 146531619,
+    "name": "georgezouq/awesome-ai-in-finance",
+    "desc": "🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.",
+    "stars": 6015,
+    "url": "https://github.com/georgezouq/awesome-ai-in-finance",
+    "lang": "-",
+    "topics": [
+      "analysis",
+      "awesome",
+      "awesome-list",
+      "cryptocurrency",
+      "deep-learning",
+      "financial",
+      "neural-network",
+      "quant",
+      "quantitative-finance",
+      "reinforcement-learning",
+      "stock-market",
+      "technology-analysis"
+    ],
+    "created": "2018-08-29T02:07:02Z",
+    "updated": "2026-06-03T12:46:06Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 965494890,
@@ -117893,6 +118640,31 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 80946973,
+    "name": "lark-parser/lark",
+    "desc": "Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.",
+    "stars": 5897,
+    "url": "https://github.com/lark-parser/lark",
+    "lang": "Python",
+    "topics": [
+      "cyk",
+      "earley",
+      "grammar",
+      "lalr",
+      "lark",
+      "parse",
+      "parser",
+      "parser-library",
+      "parsing-engine",
+      "parsing-library",
+      "python",
+      "tree"
+    ],
+    "created": "2017-02-04T20:38:59Z",
+    "updated": "2026-06-03T07:20:43Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 3559019,
     "name": "WeblateOrg/weblate",
     "desc": "Web based localization tool with tight version control integration.",
@@ -120237,6 +121009,25 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 134344489,
+    "name": "leandromoreira/linux-network-performance-parameters",
+    "desc": "Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺",
+    "stars": 5795,
+    "url": "https://github.com/leandromoreira/linux-network-performance-parameters",
+    "lang": "-",
+    "topics": [
+      "kernel",
+      "linux",
+      "network",
+      "performance",
+      "sysctl",
+      "tcp"
+    ],
+    "created": "2018-05-22T01:35:26Z",
+    "updated": "2026-06-02T23:10:03Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 25158026,
     "name": "BrowserWorks/waterfox",
     "desc": "The official Waterfox 💧 source code repository",
@@ -121319,6 +122110,18 @@
     "created": "2016-12-29T02:10:38Z",
     "updated": "2026-05-17T10:11:21Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 627925034,
+    "name": "NEKOparapa/AiNiee",
+    "desc": "一款专注于Ai翻译的工具，一键自动翻译RPG SLG游戏，Epub TXT小说，PDF Word MD文档，Srt Vtt Lrc字幕等等复杂长文本。",
+    "stars": 5756,
+    "url": "https://github.com/NEKOparapa/AiNiee",
+    "lang": "Python",
+    "topics": [],
+    "created": "2023-04-14T13:58:00Z",
+    "updated": "2026-06-03T12:48:42Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 534987591,
@@ -126800,6 +127603,34 @@
     "first_seen": "2026-06-02"
   },
   {
+    "id": 689013903,
+    "name": "Pennyw0rth/NetExec",
+    "desc": "The Network Execution Tool",
+    "stars": 5574,
+    "url": "https://github.com/Pennyw0rth/NetExec",
+    "lang": "Python",
+    "topics": [
+      "active-directory",
+      "hacking",
+      "infosec",
+      "infosectools",
+      "networks",
+      "pentest",
+      "pentest-tool",
+      "pentest-tools",
+      "pentesting",
+      "python",
+      "python3",
+      "red-team",
+      "security",
+      "security-tools",
+      "windows"
+    ],
+    "created": "2023-09-08T15:36:00Z",
+    "updated": "2026-06-03T10:26:49Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 164816947,
     "name": "borisbanushev/stockpredictionai",
     "desc": "       In this noteboook I will create a complete process for predicting stock price movements. Follow along and we will achieve some pretty good results. For that purpose we will use a Generative Adversarial Network (GAN) with LSTM, a type of Recurrent Neural Network, as generator, and a Convolutional Neural Network, CNN, as a discriminator. We use LSTM for the obvious reason that we are trying to predict time series data. Why we use GAN and specifically CNN as a discriminator? That is a good question: there are special sections on that later.",
@@ -126881,6 +127712,24 @@
     "created": "2019-10-04T20:02:35Z",
     "updated": "2026-05-18T23:25:22Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 16577072,
+    "name": "raspberrypi/documentation",
+    "desc": "The official documentation for Raspberry Pi computers and microcontrollers",
+    "stars": 5570,
+    "url": "https://github.com/raspberrypi/documentation",
+    "lang": "Python",
+    "topics": [
+      "asciidoc",
+      "documentation",
+      "raspberry-pi",
+      "raspberry-pi-camera",
+      "raspberry-pi-pico"
+    ],
+    "created": "2014-02-06T11:18:08Z",
+    "updated": "2026-06-03T10:50:25Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 171396748,
@@ -128223,6 +129072,18 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 777814395,
+    "name": "DataTalksClub/llm-zoomcamp",
+    "desc": "LLM Zoomcamp - a free online course about real-life applications of LLMs. In 10 weeks you will learn how to build an AI system that answers questions about your knowledge base.",
+    "stars": 5526,
+    "url": "https://github.com/DataTalksClub/llm-zoomcamp",
+    "lang": "Jupyter Notebook",
+    "topics": [],
+    "created": "2024-03-26T14:53:20Z",
+    "updated": "2026-06-03T12:32:05Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 36021747,
     "name": "ohmjs/ohm",
     "desc": "A library and language for building parsers, interpreters, compilers, etc.",
@@ -128811,6 +129672,27 @@
     "created": "2019-08-24T05:46:13Z",
     "updated": "2026-05-18T17:47:49Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 141905920,
+    "name": "RodZill4/material-maker",
+    "desc": "A procedural textures authoring and 3D model painting tool based on the Godot game engine",
+    "stars": 5506,
+    "url": "https://github.com/RodZill4/material-maker",
+    "lang": "GDScript",
+    "topics": [
+      "glsl",
+      "godot-engine",
+      "godotengine",
+      "material-maker",
+      "painting",
+      "procedural-generation",
+      "texture-synthesis",
+      "textures"
+    ],
+    "created": "2018-07-22T15:08:24Z",
+    "updated": "2026-06-02T21:36:26Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 288244572,
@@ -129698,6 +130580,23 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 80980931,
+    "name": "KaiserY/trpl-zh-cn",
+    "desc": "Rust 程序设计语言（2024 edition 施工完毕）",
+    "stars": 5472,
+    "url": "https://github.com/KaiserY/trpl-zh-cn",
+    "lang": "Markdown",
+    "topics": [
+      "pdf",
+      "rust-book",
+      "typst",
+      "zh-cn"
+    ],
+    "created": "2017-02-05T08:51:59Z",
+    "updated": "2026-06-03T04:54:59Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 5296705,
     "name": "potree/potree",
     "desc": "WebGL point cloud viewer for large datasets",
@@ -129925,6 +130824,26 @@
     "created": "2013-11-27T13:42:20Z",
     "updated": "2026-05-18T09:21:37Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 648505057,
+    "name": "shibing624/MedicalGPT",
+    "desc": "MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现了包括增量预训练(PT)、有监督微调(SFT)、RLHF、DPO、ORPO、GRPO。",
+    "stars": 5467,
+    "url": "https://github.com/shibing624/MedicalGPT",
+    "lang": "Python",
+    "topics": [
+      "chatgpt",
+      "dpo",
+      "gpt",
+      "llama",
+      "llm",
+      "medical",
+      "medicalgpt"
+    ],
+    "created": "2023-06-02T06:07:11Z",
+    "updated": "2026-06-03T10:19:32Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 38982731,
@@ -131526,6 +132445,36 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 466864356,
+    "name": "Giskard-AI/giskard-oss",
+    "desc": "🐢 Open-Source Evaluation & Testing library for LLM Agents",
+    "stars": 5417,
+    "url": "https://github.com/Giskard-AI/giskard-oss",
+    "lang": "Python",
+    "topics": [
+      "agent-evaluation",
+      "ai-red-team",
+      "ai-security",
+      "ai-testing",
+      "fairness-ai",
+      "llm",
+      "llm-eval",
+      "llm-evaluation",
+      "llm-security",
+      "llmops",
+      "ml-testing",
+      "ml-validation",
+      "mlops",
+      "rag-evaluation",
+      "red-team-tools",
+      "responsible-ai",
+      "trustworthy-ai"
+    ],
+    "created": "2022-03-06T21:45:37Z",
+    "updated": "2026-06-03T10:24:37Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 1149403151,
     "name": "memovai/mimiclaw",
     "desc": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS.",
@@ -133115,6 +134064,21 @@
     "first_seen": "2026-05-31"
   },
   {
+    "id": 22529973,
+    "name": "beeware/toga",
+    "desc": "A Python native, OS native GUI toolkit.",
+    "stars": 5371,
+    "url": "https://github.com/beeware/toga",
+    "lang": "Python",
+    "topics": [
+      "gui",
+      "python"
+    ],
+    "created": "2014-08-01T21:44:10Z",
+    "updated": "2026-06-03T09:32:17Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 11469439,
     "name": "apache/mesos",
     "desc": "Apache Mesos",
@@ -134078,6 +135042,53 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 824541776,
+    "name": "xerrors/Yuxi",
+    "desc": "结合知识库、知识图谱管理的 多租户 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.",
+    "stars": 5337,
+    "url": "https://github.com/xerrors/Yuxi",
+    "lang": "Python",
+    "topics": [
+      "docker",
+      "fastapi",
+      "harness",
+      "kbqa",
+      "kgqa",
+      "llms",
+      "neo4j",
+      "rag",
+      "vue"
+    ],
+    "created": "2024-07-05T10:57:35Z",
+    "updated": "2026-06-03T12:37:38Z",
+    "first_seen": "2026-06-03"
+  },
+  {
+    "id": 240239451,
+    "name": "blackboxo/CleanMyWechat",
+    "desc": "自动删除 Windows 和 Mac 电脑端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。",
+    "stars": 5337,
+    "url": "https://github.com/blackboxo/CleanMyWechat",
+    "lang": "Python",
+    "topics": [
+      "cache",
+      "cache-storage",
+      "clean",
+      "delete",
+      "disk",
+      "disk-cache",
+      "mac-disk",
+      "mac-wechat",
+      "pyqt",
+      "pyqt5",
+      "python",
+      "wechat"
+    ],
+    "created": "2020-02-13T11:00:19Z",
+    "updated": "2026-06-03T12:20:25Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 142456757,
     "name": "Docile-Alligator/Infinity-For-Reddit",
     "desc": "A Reddit client for Android",
@@ -134176,6 +135187,39 @@
     "created": "2017-08-08T06:33:38Z",
     "updated": "2026-05-16T12:42:26Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 334412452,
+    "name": "obss/sahi",
+    "desc": "Framework agnostic sliced/tiled inference + interactive ui + error analysis plots",
+    "stars": 5331,
+    "url": "https://github.com/obss/sahi",
+    "lang": "Python",
+    "topics": [
+      "coco",
+      "computer-vision",
+      "deep-learning",
+      "explainable-ai",
+      "fiftyone",
+      "hacktoberfest",
+      "huggingface",
+      "instance-segmentation",
+      "large-image",
+      "machine-learning",
+      "object-detection",
+      "open-vocabulary-detection",
+      "oriented-object-detection",
+      "python",
+      "pytorch",
+      "remote-sensing",
+      "satellite",
+      "small-object-detection",
+      "tiling",
+      "yolo26"
+    ],
+    "created": "2021-01-30T12:54:53Z",
+    "updated": "2026-06-03T08:42:31Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 2889230,
@@ -134333,6 +135377,26 @@
     "created": "2012-03-12T14:12:06Z",
     "updated": "2026-05-16T17:05:56Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 962685604,
+    "name": "apurvsinghgautam/robin",
+    "desc": "AI-Powered Dark Web OSINT Tool",
+    "stars": 5325,
+    "url": "https://github.com/apurvsinghgautam/robin",
+    "lang": "Python",
+    "topics": [
+      "ai-tool",
+      "darkweb",
+      "darkweb-osint",
+      "investigation-tool",
+      "llm-powered",
+      "osint",
+      "osint-tool"
+    ],
+    "created": "2025-04-08T14:20:34Z",
+    "updated": "2026-06-03T11:32:43Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 64635494,
@@ -134807,6 +135871,18 @@
     "created": "2017-10-10T07:56:02Z",
     "updated": "2026-05-12T08:45:46Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 42943499,
+    "name": "achael/eht-imaging",
+    "desc": "Imaging, analysis, and simulation software for radio interferometry",
+    "stars": 5314,
+    "url": "https://github.com/achael/eht-imaging",
+    "lang": "Jupyter Notebook",
+    "topics": [],
+    "created": "2015-09-22T15:41:48Z",
+    "updated": "2026-06-02T18:56:10Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 2624312,
@@ -135938,6 +137014,27 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 1135605666,
+    "name": "BIT-DataLab/Edit-Banana",
+    "desc": "Edit Banana: A framework for converting statistical formats into editable.",
+    "stars": 5273,
+    "url": "https://github.com/BIT-DataLab/Edit-Banana",
+    "lang": "Python",
+    "topics": [
+      "ai",
+      "data",
+      "figure",
+      "llm",
+      "nanobanana",
+      "open-source",
+      "python",
+      "pythonprogramming"
+    ],
+    "created": "2026-01-16T10:34:52Z",
+    "updated": "2026-06-03T07:34:41Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 16896584,
     "name": "nikic/FastRoute",
     "desc": "Fast request router for PHP",
@@ -136682,6 +137779,30 @@
     "created": "2015-01-31T11:45:01Z",
     "updated": "2026-05-18T07:59:59Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 1134729753,
+    "name": "knadh/oat",
+    "desc": "Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~8KB min+gz.",
+    "stars": 5257,
+    "url": "https://github.com/knadh/oat",
+    "lang": "CSS",
+    "topics": [
+      "component-library",
+      "css",
+      "css-framework",
+      "dashboard-design",
+      "semantic-html",
+      "semantic-web",
+      "ui-components",
+      "ui-design",
+      "web-ui",
+      "web-ui-framework",
+      "webcomponents"
+    ],
+    "created": "2026-01-15T05:49:47Z",
+    "updated": "2026-06-02T18:01:12Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 303975,
@@ -139720,6 +140841,25 @@
     "first_seen": "2026-06-02"
   },
   {
+    "id": 475174123,
+    "name": "salesforce/CodeGen",
+    "desc": "CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.",
+    "stars": 5175,
+    "url": "https://github.com/salesforce/CodeGen",
+    "lang": "Python",
+    "topics": [
+      "codex",
+      "generativemodel",
+      "languagemodel",
+      "llm",
+      "programsynthesis",
+      "tpu-acceleration"
+    ],
+    "created": "2022-03-28T20:48:29Z",
+    "updated": "2026-06-02T18:14:46Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 715168,
     "name": "Marak/colors.js",
     "desc": "get colors in your node.js console",
@@ -140315,6 +141455,31 @@
     "created": "2026-02-09T22:16:30Z",
     "updated": "2026-05-18T21:55:13Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 319989933,
+    "name": "ShadowWhisperer/Remove-MS-Edge",
+    "desc": "Uninstall Microsoft Edge with an executable or batch script.",
+    "stars": 5158,
+    "url": "https://github.com/ShadowWhisperer/Remove-MS-Edge",
+    "lang": "Batchfile",
+    "topics": [
+      "batch",
+      "edge",
+      "exe",
+      "microsoft",
+      "python",
+      "removal",
+      "remove",
+      "remover",
+      "script",
+      "uninstall",
+      "uninstaller",
+      "windows"
+    ],
+    "created": "2020-12-09T14:57:18Z",
+    "updated": "2026-06-03T12:20:49Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 7579124,
@@ -141705,6 +142870,22 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 1126087,
+    "name": "gitpython-developers/GitPython",
+    "desc": "GitPython is a python library used to interact with Git repositories.",
+    "stars": 5121,
+    "url": "https://github.com/gitpython-developers/GitPython",
+    "lang": "Python",
+    "topics": [
+      "git-plumbing",
+      "git-porcelain",
+      "python-library"
+    ],
+    "created": "2010-11-30T17:34:03Z",
+    "updated": "2026-06-02T21:28:20Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 89290483,
     "name": "firebase/firebase-js-sdk",
     "desc": "Firebase Javascript SDK",
@@ -142415,6 +143596,32 @@
     "created": "2014-05-30T21:19:14Z",
     "updated": "2026-05-18T09:58:52Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 221787282,
+    "name": "NVIDIAGameWorks/kaolin",
+    "desc": "A PyTorch Library for Accelerating 3D Deep Learning Research",
+    "stars": 5100,
+    "url": "https://github.com/NVIDIAGameWorks/kaolin",
+    "lang": "Python",
+    "topics": [
+      "3d-deep-learning",
+      "artificial-intelligence",
+      "camera-api",
+      "cuda",
+      "differentiable-lighting",
+      "differentiable-rendering",
+      "gaussian-splatting",
+      "interactive-visualizations",
+      "neural-networks",
+      "nvidia-warp",
+      "physics-simulation",
+      "pytorch",
+      "rasterization"
+    ],
+    "created": "2019-11-14T21:09:40Z",
+    "updated": "2026-06-02T18:32:04Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 32981784,
@@ -143177,6 +144384,23 @@
     "first_seen": "2026-06-02"
   },
   {
+    "id": 1073538908,
+    "name": "chenyme/grok2api",
+    "desc": "Grok2API 是一个基于 FastAPI 构建的 Grok 网关，支持将 Grok Web 能力以 OpenAI 兼容 API 的方式转换。",
+    "stars": 5084,
+    "url": "https://github.com/chenyme/grok2api",
+    "lang": "Python",
+    "topics": [
+      "grok",
+      "grok-4-20",
+      "grok-4-3",
+      "grok-imagine"
+    ],
+    "created": "2025-10-10T09:00:02Z",
+    "updated": "2026-06-03T11:38:44Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 216998956,
     "name": "drawrowfly/tiktok-scraper",
     "desc": "TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.",
@@ -143600,6 +144824,27 @@
     "created": "2025-11-01T16:04:15Z",
     "updated": "2026-05-31T09:19:46Z",
     "first_seen": "2026-05-31"
+  },
+  {
+    "id": 874718872,
+    "name": "modstart-lib/aigcpanel",
+    "desc": "AIGCPanel 是一个简单易用的一站式AI数字人系统，支持视频合成、声音合成、声音克隆，简化本地模型管理、一键导入和使用AI模型。",
+    "stars": 5073,
+    "url": "https://github.com/modstart-lib/aigcpanel",
+    "lang": "TypeScript",
+    "topics": [
+      "ai",
+      "aigc",
+      "cosyvoice",
+      "fishspeech",
+      "latentsync",
+      "musetalk",
+      "sparktts",
+      "wav2lip"
+    ],
+    "created": "2024-10-18T10:38:33Z",
+    "updated": "2026-06-03T11:59:35Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 19128505,
@@ -144899,6 +146144,29 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 2750721,
+    "name": "ckan/ckan",
+    "desc": "CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.",
+    "stars": 5038,
+    "url": "https://github.com/ckan/ckan",
+    "lang": "Python",
+    "topics": [
+      "api",
+      "catalog",
+      "ckan",
+      "ckanext",
+      "data",
+      "digitalpublicgoods",
+      "dpg",
+      "open-data",
+      "python",
+      "sdg16"
+    ],
+    "created": "2011-11-10T18:42:17Z",
+    "updated": "2026-05-31T19:25:47Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 1446474,
     "name": "pypa/virtualenv",
     "desc": "Virtual Python Environment builder",
@@ -145772,6 +147040,24 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 37983912,
+    "name": "json-schema-org/json-schema-spec",
+    "desc": "The JSON Schema specification",
+    "stars": 5015,
+    "url": "https://github.com/json-schema-org/json-schema-spec",
+    "lang": "JavaScript",
+    "topics": [
+      "api-documentation",
+      "json",
+      "json-schema",
+      "jsonschema",
+      "validation"
+    ],
+    "created": "2015-06-24T12:48:04Z",
+    "updated": "2026-06-02T16:59:40Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 54681855,
     "name": "willianjusten/awesome-audio-visualization",
     "desc": "A curated list about Audio Visualization.",
@@ -145902,6 +147188,28 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 108920680,
+    "name": "dubzzz/fast-check",
+    "desc": "Property based testing framework for JavaScript (like QuickCheck) written in TypeScript",
+    "stars": 5011,
+    "url": "https://github.com/dubzzz/fast-check",
+    "lang": "TypeScript",
+    "topics": [
+      "faker",
+      "fuzzing",
+      "generative-testing",
+      "property-based-testing",
+      "quickcheck",
+      "tdd",
+      "testing",
+      "typescript",
+      "unit-testing"
+    ],
+    "created": "2017-10-30T23:41:11Z",
+    "updated": "2026-06-03T07:48:38Z",
+    "first_seen": "2026-06-03"
+  },
+  {
     "id": 568797613,
     "name": "MuiseDestiny/zotero-style",
     "desc": "Ethereal Style for Zotero",
@@ -145990,6 +147298,18 @@
     "created": "2016-10-11T00:09:47Z",
     "updated": "2026-05-17T16:55:20Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 1109112755,
+    "name": "crosspoint-reader/crosspoint-reader",
+    "desc": "Firmware for the Xteink X3 and X4 e-paper display readers",
+    "stars": 5009,
+    "url": "https://github.com/crosspoint-reader/crosspoint-reader",
+    "lang": "C",
+    "topics": [],
+    "created": "2025-12-03T11:01:12Z",
+    "updated": "2026-06-03T12:22:54Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 582432706,
@@ -146340,6 +147660,18 @@
     "created": "2020-11-04T15:50:33Z",
     "updated": "2026-06-02T05:05:58Z",
     "first_seen": "2026-06-02"
+  },
+  {
+    "id": 266561292,
+    "name": "HermanMartinus/bearblog",
+    "desc": "Free, no-nonsense, super fast blogging.",
+    "stars": 5001,
+    "url": "https://github.com/HermanMartinus/bearblog",
+    "lang": "JavaScript",
+    "topics": [],
+    "created": "2020-05-24T14:44:59Z",
+    "updated": "2026-06-03T08:55:20Z",
+    "first_seen": "2026-06-03"
   },
   {
     "id": 2830198,
