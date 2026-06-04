@@ -63249,6 +63249,27 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 11969507,
+    "name": "whatwg/html",
+    "desc": "HTML Standard",
+    "stars": 9253,
+    "url": "https://github.com/whatwg/html",
+    "lang": "HTML",
+    "topics": [
+      "canvas",
+      "eventsource",
+      "html",
+      "html-standard",
+      "standard",
+      "storage",
+      "whatwg",
+      "workers"
+    ],
+    "created": "2013-08-08T06:26:07Z",
+    "updated": "2026-06-04T07:21:16Z",
+    "first_seen": "2026-06-04"
+  },
+  {
     "id": 341626,
     "name": "imathis/octopress",
     "desc": "Octopress is an obsessively designed framework for Jekyll blogging. It’s easy to configure and easy to deploy. Sweet huh?",
@@ -65660,6 +65681,23 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 110000361,
+    "name": "just-the-docs/just-the-docs",
+    "desc": "A modern, high customizable, responsive Jekyll theme for documentation with built-in search.",
+    "stars": 9035,
+    "url": "https://github.com/just-the-docs/just-the-docs",
+    "lang": "SCSS",
+    "topics": [
+      "documentation",
+      "github-pages",
+      "jekyll",
+      "jekyll-theme"
+    ],
+    "created": "2017-11-08T16:22:28Z",
+    "updated": "2026-06-04T02:53:35Z",
+    "first_seen": "2026-06-04"
+  },
+  {
     "id": 338348248,
     "name": "benawad/dogehouse",
     "desc": "Taking voice conversations to the moon 🚀",
@@ -66238,6 +66276,18 @@
     "created": "2022-05-11T06:31:22Z",
     "updated": "2026-05-18T18:04:14Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 357362803,
+    "name": "freemocap/freemocap",
+    "desc": "Free Motion Capture for Everyone 💀✨",
+    "stars": 8975,
+    "url": "https://github.com/freemocap/freemocap",
+    "lang": "Python",
+    "topics": [],
+    "created": "2021-04-12T23:04:35Z",
+    "updated": "2026-06-04T10:17:00Z",
+    "first_seen": "2026-06-04"
   },
   {
     "id": 602320330,
@@ -68192,6 +68242,24 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 654801980,
+    "name": "jackvale/rectg",
+    "desc": "Telegram 中文频道、群组与机器人精选索引，结合自动化抓取与人工整理，支持在线搜索与分类浏览。",
+    "stars": 8818,
+    "url": "https://github.com/jackvale/rectg",
+    "lang": "Python",
+    "topics": [
+      "open-data",
+      "telegram",
+      "telegram-bot",
+      "telegram-channel",
+      "telegram-group"
+    ],
+    "created": "2023-06-17T02:15:48Z",
+    "updated": "2026-06-04T10:26:18Z",
+    "first_seen": "2026-06-04"
+  },
+  {
     "id": 47057247,
     "name": "Wind4/vlmcsd",
     "desc": "KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)",
@@ -68903,6 +68971,24 @@
     "created": "2023-07-29T10:45:35Z",
     "updated": "2026-06-02T10:22:35Z",
     "first_seen": "2026-06-02"
+  },
+  {
+    "id": 38095954,
+    "name": "eternnoir/pyTelegramBotAPI",
+    "desc": "Python Telegram bot api.",
+    "stars": 8748,
+    "url": "https://github.com/eternnoir/pyTelegramBotAPI",
+    "lang": "Python",
+    "topics": [
+      "bot-api",
+      "python-api",
+      "telegram",
+      "telegram-bot",
+      "telegram-bot-api"
+    ],
+    "created": "2015-06-26T06:56:25Z",
+    "updated": "2026-06-04T07:22:39Z",
+    "first_seen": "2026-06-04"
   },
   {
     "id": 85701992,
@@ -71325,6 +71411,25 @@
     "created": "2025-01-09T02:43:06Z",
     "updated": "2026-05-18T23:36:54Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 27929056,
+    "name": "nodejs/docker-node",
+    "desc": "Official Docker Image for Node.js :whale: :turtle: :rocket: ",
+    "stars": 8564,
+    "url": "https://github.com/nodejs/docker-node",
+    "lang": "Dockerfile",
+    "topics": [
+      "docker",
+      "docker-image",
+      "docker-node",
+      "dockerfile",
+      "node",
+      "nodejs"
+    ],
+    "created": "2014-12-12T16:48:48Z",
+    "updated": "2026-06-03T23:09:18Z",
+    "first_seen": "2026-06-04"
   },
   {
     "id": 2994517,
@@ -81165,6 +81270,18 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 645238879,
+    "name": "jiji262/douyin-downloader",
+    "desc": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！",
+    "stars": 7851,
+    "url": "https://github.com/jiji262/douyin-downloader",
+    "lang": "Python",
+    "topics": [],
+    "created": "2023-05-25T08:10:38Z",
+    "updated": "2026-06-04T10:34:40Z",
+    "first_seen": "2026-06-04"
+  },
+  {
     "id": 5839692,
     "name": "webpack/webpack-dev-server",
     "desc": "Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/.",
@@ -83348,6 +83465,22 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 450871432,
+    "name": "tauri-apps/awesome-tauri",
+    "desc": "🚀 Awesome Tauri Apps, Plugins and Resources",
+    "stars": 7730,
+    "url": "https://github.com/tauri-apps/awesome-tauri",
+    "lang": "-",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "tauri"
+    ],
+    "created": "2022-01-22T16:25:58Z",
+    "updated": "2026-06-03T22:28:21Z",
+    "first_seen": "2026-06-04"
+  },
+  {
     "id": 802821703,
     "name": "JOYCEQL/magic-resume",
     "desc": "free online AI resume editor，the only official website is  https://magicv.art",
@@ -84962,6 +85095,28 @@
     "created": "2019-10-25T19:38:50Z",
     "updated": "2026-05-18T16:19:19Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 1195243030,
+    "name": "walkinglabs/learn-harness-engineering",
+    "desc": "Harness engineering beginner tutorial, from 0 to 1",
+    "stars": 7632,
+    "url": "https://github.com/walkinglabs/learn-harness-engineering",
+    "lang": "TypeScript",
+    "topics": [
+      "agent",
+      "agentic",
+      "agentic-ai",
+      "ai",
+      "ai-agent",
+      "harness",
+      "harness-engineering",
+      "harness-framework",
+      "llm"
+    ],
+    "created": "2026-03-29T12:28:19Z",
+    "updated": "2026-06-04T10:53:38Z",
+    "first_seen": "2026-06-04"
   },
   {
     "id": 31764022,
@@ -89608,6 +89763,18 @@
     "first_seen": "2026-05-31"
   },
   {
+    "id": 56263501,
+    "name": "cisco/ChezScheme",
+    "desc": "Chez Scheme ",
+    "stars": 7287,
+    "url": "https://github.com/cisco/ChezScheme",
+    "lang": "Scheme",
+    "topics": [],
+    "created": "2016-04-14T19:10:25Z",
+    "updated": "2026-06-03T20:25:41Z",
+    "first_seen": "2026-06-04"
+  },
+  {
     "id": 5279091,
     "name": "square/dagger",
     "desc": "A fast dependency injector for Android and Java.",
@@ -90138,6 +90305,18 @@
     "created": "2011-11-12T15:56:45Z",
     "updated": "2026-05-07T08:26:25Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 946829547,
+    "name": "NVIDIA/Isaac-GR00T",
+    "desc": "NVIDIA Isaac GR00T N1.7 -  A Foundation Model for Generalist Robots.",
+    "stars": 7246,
+    "url": "https://github.com/NVIDIA/Isaac-GR00T",
+    "lang": "Python",
+    "topics": [],
+    "created": "2025-03-11T18:34:24Z",
+    "updated": "2026-06-04T10:56:46Z",
+    "first_seen": "2026-06-04"
   },
   {
     "id": 378100758,
@@ -94541,6 +94720,30 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 112409981,
+    "name": "apache/caldera",
+    "desc": "Automated Adversary Emulation Platform",
+    "stars": 7019,
+    "url": "https://github.com/apache/caldera",
+    "lang": "Python",
+    "topics": [
+      "adversary-emulation",
+      "caldera",
+      "cybersecurity",
+      "hacking",
+      "hacktoberfest",
+      "mitre",
+      "mitre-attack",
+      "mitre-corporation",
+      "red-team",
+      "security-automation",
+      "security-testing"
+    ],
+    "created": "2017-11-29T01:25:10Z",
+    "updated": "2026-06-04T10:57:09Z",
+    "first_seen": "2026-06-04"
+  },
+  {
     "id": 621575252,
     "name": "logancyang/obsidian-copilot",
     "desc": "THE Copilot in Obsidian",
@@ -95628,6 +95831,24 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 594609262,
+    "name": "guardrails-ai/guardrails",
+    "desc": "Adding guardrails to large language models.",
+    "stars": 6966,
+    "url": "https://github.com/guardrails-ai/guardrails",
+    "lang": "Python",
+    "topics": [
+      "ai",
+      "foundation-model",
+      "gpt-3",
+      "llm",
+      "openai"
+    ],
+    "created": "2023-01-29T04:11:35Z",
+    "updated": "2026-06-04T10:58:30Z",
+    "first_seen": "2026-06-04"
+  },
+  {
     "id": 483688672,
     "name": "un-pany/v3-admin-vite",
     "desc": "☀️ A crafted Vue3 admin template | Vue Admin | Vue Template | Vue3 Admin | Vue3 Template | Vue 后台 | Vue 模板 | Vue3 后台 | Vue3 模板",
@@ -95673,6 +95894,22 @@
     "created": "2024-04-17T12:14:41Z",
     "updated": "2026-05-31T05:59:03Z",
     "first_seen": "2026-05-31"
+  },
+  {
+    "id": 31820613,
+    "name": "RsaCtfTool/RsaCtfTool",
+    "desc": "RSA attack tool (mainly for ctf) - retrieve private key from weak public key and/or uncipher data",
+    "stars": 6963,
+    "url": "https://github.com/RsaCtfTool/RsaCtfTool",
+    "lang": "Python",
+    "topics": [
+      "cryptography",
+      "rsa",
+      "rsa-attack"
+    ],
+    "created": "2015-03-07T17:29:33Z",
+    "updated": "2026-06-03T16:41:37Z",
+    "first_seen": "2026-06-04"
   },
   {
     "id": 46072655,
@@ -100689,6 +100926,24 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 228877522,
+    "name": "simple-login/app",
+    "desc": "The SimpleLogin back-end and web app",
+    "stars": 6705,
+    "url": "https://github.com/simple-login/app",
+    "lang": "Python",
+    "topics": [
+      "aliases",
+      "email",
+      "flask",
+      "hacktoberfest",
+      "simplelogin"
+    ],
+    "created": "2019-12-18T16:14:58Z",
+    "updated": "2026-06-04T10:25:59Z",
+    "first_seen": "2026-06-04"
+  },
+  {
     "id": 334777857,
     "name": "ravynsoft/ravynos",
     "desc": "An open-source OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.",
@@ -103087,6 +103342,18 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 754064451,
+    "name": "VAST-AI-Research/TripoSR",
+    "desc": "TripoSR: Fast 3D Object Reconstruction from a Single Image",
+    "stars": 6574,
+    "url": "https://github.com/VAST-AI-Research/TripoSR",
+    "lang": "Python",
+    "topics": [],
+    "created": "2024-02-07T10:31:04Z",
+    "updated": "2026-06-04T07:51:43Z",
+    "first_seen": "2026-06-04"
+  },
+  {
     "id": 26010097,
     "name": "kanyun-inc/YTKNetwork",
     "desc": "YTKNetwork is a high level request util based on AFNetworking.",
@@ -103272,6 +103539,37 @@
     "created": "2017-03-20T15:38:13Z",
     "updated": "2026-05-18T22:45:47Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 34139230,
+    "name": "ibis-project/ibis",
+    "desc": "the portable Python dataframe library",
+    "stars": 6565,
+    "url": "https://github.com/ibis-project/ibis",
+    "lang": "Python",
+    "topics": [
+      "bigquery",
+      "clickhouse",
+      "database",
+      "datafusion",
+      "duckdb",
+      "impala",
+      "mssql",
+      "mysql",
+      "pandas",
+      "polars",
+      "postgresql",
+      "pyarrow",
+      "pyspark",
+      "python",
+      "snowflake",
+      "sql",
+      "sqlite",
+      "trino"
+    ],
+    "created": "2015-04-17T20:43:46Z",
+    "updated": "2026-06-04T04:19:44Z",
+    "first_seen": "2026-06-04"
   },
   {
     "id": 223260063,
@@ -109569,6 +109867,33 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 238851101,
+    "name": "naver/fe-news",
+    "desc": "FE 기술 소식 큐레이션 뉴스레터",
+    "stars": 6259,
+    "url": "https://github.com/naver/fe-news",
+    "lang": "-",
+    "topics": [
+      "angular",
+      "css",
+      "deno",
+      "es6",
+      "fe-news",
+      "front-end",
+      "html",
+      "javascript",
+      "monthly",
+      "nodejs",
+      "react",
+      "svelte",
+      "typescript",
+      "vue"
+    ],
+    "created": "2020-02-07T05:32:09Z",
+    "updated": "2026-06-04T09:36:25Z",
+    "first_seen": "2026-06-04"
+  },
+  {
     "id": 232526165,
     "name": "wordshub/free-font",
     "desc": "大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...",
@@ -110228,6 +110553,18 @@
     "created": "2019-06-18T10:49:34Z",
     "updated": "2026-05-18T16:18:51Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 480930803,
+    "name": "pop-os/cosmic-epoch",
+    "desc": "Next generation Cosmic desktop environment",
+    "stars": 6221,
+    "url": "https://github.com/pop-os/cosmic-epoch",
+    "lang": "Just",
+    "topics": [],
+    "created": "2022-04-12T18:36:39Z",
+    "updated": "2026-06-04T08:37:00Z",
+    "first_seen": "2026-06-04"
   },
   {
     "id": 1179413000,
@@ -113094,6 +113431,23 @@
     "first_seen": "2026-05-31"
   },
   {
+    "id": 173708338,
+    "name": "containers/podman-compose",
+    "desc": "a script to run docker-compose.yml using podman",
+    "stars": 6099,
+    "url": "https://github.com/containers/podman-compose",
+    "lang": "Python",
+    "topics": [
+      "docker-compose",
+      "linux-containers",
+      "podman",
+      "rootless-containers"
+    ],
+    "created": "2019-03-04T08:52:30Z",
+    "updated": "2026-06-03T22:49:11Z",
+    "first_seen": "2026-06-04"
+  },
+  {
     "id": 80058269,
     "name": "microsoft/VFSForGit",
     "desc": "Virtual File System for Git: Enable Git at Enterprise Scale",
@@ -113104,6 +113458,37 @@
     "created": "2017-01-25T21:10:29Z",
     "updated": "2026-05-18T23:58:51Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 109230350,
+    "name": "HeidiSQL/HeidiSQL",
+    "desc": "A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi and Lazarus/FreePascal",
+    "stars": 6097,
+    "url": "https://github.com/HeidiSQL/HeidiSQL",
+    "lang": "Pascal",
+    "topics": [
+      "delphi",
+      "firebird-database",
+      "freepascal",
+      "gtk2",
+      "heidisql",
+      "icons8",
+      "interbase",
+      "lazarus-ide",
+      "linux",
+      "macos",
+      "mariadb",
+      "mssql",
+      "mysql",
+      "postgresql",
+      "sql",
+      "sqlite",
+      "sqlite3",
+      "windows"
+    ],
+    "created": "2017-11-02T07:14:02Z",
+    "updated": "2026-06-03T17:46:30Z",
+    "first_seen": "2026-06-04"
   },
   {
     "id": 162357299,
@@ -117209,6 +117594,39 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 294685606,
+    "name": "snakers4/silero-models",
+    "desc": "Silero Models: pre-trained text-to-speech models made embarrassingly simple",
+    "stars": 5945,
+    "url": "https://github.com/snakers4/silero-models",
+    "lang": "Jupyter Notebook",
+    "topics": [
+      "armenian",
+      "azerbaijani",
+      "belarus",
+      "colab",
+      "georgian",
+      "kazakh",
+      "kyrgyz",
+      "pretrained-models",
+      "pytorch",
+      "russian",
+      "speech",
+      "speech-synthesis",
+      "speech-to-text",
+      "tajik",
+      "text-to-speech",
+      "torch-hub",
+      "tts",
+      "tts-models",
+      "ukrainian",
+      "uzbek"
+    ],
+    "created": "2020-09-11T12:10:23Z",
+    "updated": "2026-06-04T09:19:49Z",
+    "first_seen": "2026-06-04"
+  },
+  {
     "id": 6768710,
     "name": "redmine/redmine",
     "desc": "Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp",
@@ -118975,6 +119393,23 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 306980630,
+    "name": "lucidrains/x-transformers",
+    "desc": "A concise but complete full-attention transformer with a set of promising experimental features from various papers",
+    "stars": 5886,
+    "url": "https://github.com/lucidrains/x-transformers",
+    "lang": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "attention-mechanism",
+      "deep-learning",
+      "transformers"
+    ],
+    "created": "2020-10-24T22:13:25Z",
+    "updated": "2026-06-04T10:01:26Z",
+    "first_seen": "2026-06-04"
+  },
+  {
     "id": 80369237,
     "name": "prettier/eslint-config-prettier",
     "desc": "Turns off all rules that are unnecessary or might conflict with Prettier.",
@@ -119482,6 +119917,25 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 982517950,
+    "name": "CursorTouch/Windows-MCP",
+    "desc": "MCP Server for Computer Use in Windows",
+    "stars": 5859,
+    "url": "https://github.com/CursorTouch/Windows-MCP",
+    "lang": "Python",
+    "topics": [
+      "ai",
+      "desktop",
+      "mcp",
+      "tools",
+      "windows",
+      "windows-automation"
+    ],
+    "created": "2025-05-13T02:27:53Z",
+    "updated": "2026-06-04T09:00:31Z",
+    "first_seen": "2026-06-04"
+  },
+  {
     "id": 55077261,
     "name": "rust-lang/futures-rs",
     "desc": "Zero-cost asynchronous programming in Rust",
@@ -119506,6 +119960,27 @@
     "created": "2025-06-18T07:15:54Z",
     "updated": "2026-05-31T16:33:51Z",
     "first_seen": "2026-05-31"
+  },
+  {
+    "id": 814597318,
+    "name": "memstechtips/UnattendedWinstall",
+    "desc": "Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.",
+    "stars": 5857,
+    "url": "https://github.com/memstechtips/UnattendedWinstall",
+    "lang": "-",
+    "topics": [
+      "answer-file",
+      "autounattend",
+      "autounattend-xml",
+      "unattended-installation",
+      "windows-10",
+      "windows-10-debloat",
+      "windows-11",
+      "windows-11-debloat"
+    ],
+    "created": "2024-06-13T10:15:05Z",
+    "updated": "2026-06-04T09:00:03Z",
+    "first_seen": "2026-06-04"
   },
   {
     "id": 18765044,
@@ -125079,6 +125554,29 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 126897385,
+    "name": "DeepLabCut/DeepLabCut",
+    "desc": "Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals incl. humans",
+    "stars": 5663,
+    "url": "https://github.com/DeepLabCut/DeepLabCut",
+    "lang": "Python",
+    "topics": [
+      "animal-pose-estimation",
+      "behavior-analysis",
+      "deep-learning",
+      "deeplabcut",
+      "feature-detectors",
+      "keypoint-detection",
+      "keypoint-tracking",
+      "labeling-tool",
+      "pose-estimation",
+      "toolbox"
+    ],
+    "created": "2018-03-26T22:29:12Z",
+    "updated": "2026-06-04T00:19:50Z",
+    "first_seen": "2026-06-04"
+  },
+  {
     "id": 3523632,
     "name": "springside/springside4",
     "desc": "A Spring Framework based, pragmatic style JavaEE application reference architecture.",
@@ -127336,6 +127834,18 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 1183263320,
+    "name": "android/skills",
+    "desc": "",
+    "stars": 5579,
+    "url": "https://github.com/android/skills",
+    "lang": "-",
+    "topics": [],
+    "created": "2026-03-16T12:41:46Z",
+    "updated": "2026-06-04T10:52:01Z",
+    "first_seen": "2026-06-04"
+  },
+  {
     "id": 195856796,
     "name": "GeyserMC/Geyser",
     "desc": "A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.",
@@ -127398,6 +127908,36 @@
     "created": "2018-03-27T12:32:31Z",
     "updated": "2026-05-17T05:40:38Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 917628875,
+    "name": "OpenBMB/UltraRAG",
+    "desc": "A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
+    "stars": 5578,
+    "url": "https://github.com/OpenBMB/UltraRAG",
+    "lang": "Python",
+    "topics": [
+      "deepseek",
+      "demo",
+      "easy",
+      "embedding",
+      "flask",
+      "gpt",
+      "huggingface-transformers",
+      "llm",
+      "mcp",
+      "multimodal",
+      "openai",
+      "qwen",
+      "rag",
+      "sentence-transformers",
+      "ui",
+      "vllm",
+      "vlm"
+    ],
+    "created": "2025-01-16T10:56:02Z",
+    "updated": "2026-06-04T02:20:09Z",
+    "first_seen": "2026-06-04"
   },
   {
     "id": 175592968,
@@ -128296,6 +128836,18 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 1199557142,
+    "name": "QuipNetwork/xq-py",
+    "desc": "A python implementation of the Quip Network's quantum virtual machine",
+    "stars": 5547,
+    "url": "https://github.com/QuipNetwork/xq-py",
+    "lang": "-",
+    "topics": [],
+    "created": "2026-04-02T13:20:52Z",
+    "updated": "2026-06-03T18:57:03Z",
+    "first_seen": "2026-06-04"
+  },
+  {
     "id": 654560183,
     "name": "rivet-dev/rivet",
     "desc": "Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.",
@@ -128743,6 +129295,18 @@
     "created": "2024-07-03T15:58:42Z",
     "updated": "2026-05-18T15:50:09Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 3565909,
+    "name": "raspberrypi/firmware",
+    "desc": "This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.",
+    "stars": 5536,
+    "url": "https://github.com/raspberrypi/firmware",
+    "lang": "-",
+    "topics": [],
+    "created": "2012-02-27T23:06:53Z",
+    "updated": "2026-06-04T10:54:20Z",
+    "first_seen": "2026-06-04"
   },
   {
     "id": 99202994,
@@ -131816,6 +132380,18 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 804203033,
+    "name": "ngo5/IPTV",
+    "desc": "IPV4/IPV6 TVBOX 电视直播点播源收集",
+    "stars": 5438,
+    "url": "https://github.com/ngo5/IPTV",
+    "lang": "-",
+    "topics": [],
+    "created": "2024-05-22T06:37:14Z",
+    "updated": "2026-06-04T10:21:32Z",
+    "first_seen": "2026-06-04"
+  },
+  {
     "id": 110584391,
     "name": "hql287/Manta",
     "desc": "🎉 Flexible invoicing desktop app with beautiful & customizable templates.",
@@ -134292,6 +134868,39 @@
     "created": "2020-04-11T10:22:12Z",
     "updated": "2026-05-31T14:08:25Z",
     "first_seen": "2026-05-31"
+  },
+  {
+    "id": 1155787322,
+    "name": "tonhowtf/omniget",
+    "desc": "Open-source desktop app for downloading, organizing and studying media. Native cross-platform (Tauri + Rust + Svelte). PDF/EPUB reader with focus mode, timestamped notes and spaced repetition. Media downloads via yt-dlp (1.800+ sites). Extensible plugin system.",
+    "stars": 5363,
+    "url": "https://github.com/tonhowtf/omniget",
+    "lang": "Svelte",
+    "topics": [
+      "bilibili-downloader",
+      "course-downloader",
+      "desktop-app",
+      "download-manager",
+      "downloader",
+      "hotmart-downloader",
+      "instagram-downloader",
+      "media-downloader",
+      "open-source",
+      "reddit-downloader",
+      "rust",
+      "svelte",
+      "tauri",
+      "tiktok-downloader",
+      "twitter-downloader",
+      "udemy",
+      "udemy-downloader",
+      "video-downloader",
+      "youtube-downloader",
+      "yt-dlp"
+    ],
+    "created": "2026-02-11T22:44:56Z",
+    "updated": "2026-06-04T11:00:00Z",
+    "first_seen": "2026-06-04"
   },
   {
     "id": 922596686,
@@ -141912,6 +142521,26 @@
     "first_seen": "2026-05-31"
   },
   {
+    "id": 36501634,
+    "name": "Baekalfen/PyBoy",
+    "desc": "Game Boy emulator written in Python",
+    "stars": 5144,
+    "url": "https://github.com/Baekalfen/PyBoy",
+    "lang": "Python",
+    "topics": [
+      "cython",
+      "emulator",
+      "gameboy",
+      "gameboy-emulator",
+      "gameboy-emulator-library",
+      "pypy",
+      "python"
+    ],
+    "created": "2015-05-29T11:58:11Z",
+    "updated": "2026-06-03T22:24:25Z",
+    "first_seen": "2026-06-04"
+  },
+  {
     "id": 4924151,
     "name": "ExactTarget/fuelux",
     "desc": "As of March 2019, this repository is read-only as Salesforce has archived the FuelUX open-source UI framework and will no longer be supported.",
@@ -144964,6 +145593,34 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 58225794,
+    "name": "sacridini/Awesome-Geospatial",
+    "desc": "Long list of geospatial tools and resources",
+    "stars": 5070,
+    "url": "https://github.com/sacridini/Awesome-Geospatial",
+    "lang": "-",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "data-analysis",
+      "deep-learning",
+      "earth-observation",
+      "geoprocessing",
+      "geospatial",
+      "geospatial-analysis",
+      "geotools",
+      "gis",
+      "machine-learning",
+      "map",
+      "remote-sensing",
+      "spatial-analysis",
+      "spatial-data"
+    ],
+    "created": "2016-05-06T18:05:42Z",
+    "updated": "2026-06-04T11:24:06Z",
+    "first_seen": "2026-06-04"
+  },
+  {
     "id": 22700054,
     "name": "hashicorp/golang-lru",
     "desc": "Golang LRU cache",
@@ -145603,6 +146260,23 @@
     "created": "2019-12-15T13:54:43Z",
     "updated": "2026-05-18T17:51:48Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 925273833,
+    "name": "reconurge/flowsint",
+    "desc": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+    "stars": 5053,
+    "url": "https://github.com/reconurge/flowsint",
+    "lang": "TypeScript",
+    "topics": [
+      "investigation",
+      "osint",
+      "python",
+      "recon"
+    ],
+    "created": "2025-01-31T15:10:41Z",
+    "updated": "2026-06-04T11:19:50Z",
+    "first_seen": "2026-06-04"
   },
   {
     "id": 151541,
@@ -146839,6 +147513,18 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 1204415882,
+    "name": "microsoft/Webwright",
+    "desc": "A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks. ",
+    "stars": 5021,
+    "url": "https://github.com/microsoft/Webwright",
+    "lang": "Python",
+    "topics": [],
+    "created": "2026-04-08T01:48:09Z",
+    "updated": "2026-06-04T10:31:21Z",
+    "first_seen": "2026-06-04"
+  },
+  {
     "id": 392526151,
     "name": "tickstep/aliyunpan",
     "desc": "阿里云盘命令行客户端，支持JavaScript插件，支持同步备份功能。",
@@ -147595,6 +148281,31 @@
     "created": "2013-07-16T15:12:33Z",
     "updated": "2026-05-31T15:07:46Z",
     "first_seen": "2026-05-31"
+  },
+  {
+    "id": 823761490,
+    "name": "amnweb/yasb",
+    "desc": "A highly configurable Windows status bar written in Python. ",
+    "stars": 5002,
+    "url": "https://github.com/amnweb/yasb",
+    "lang": "Python",
+    "topics": [
+      "python",
+      "ricing",
+      "status-bar",
+      "statusbar",
+      "task-bar",
+      "taskbar",
+      "top-bar",
+      "topbar",
+      "windowbar",
+      "windows",
+      "windows-11",
+      "wm"
+    ],
+    "created": "2024-07-03T16:54:14Z",
+    "updated": "2026-06-04T07:07:36Z",
+    "first_seen": "2026-06-04"
   },
   {
     "id": 4710876,

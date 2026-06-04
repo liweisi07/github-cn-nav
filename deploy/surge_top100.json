@@ -3,37 +3,37 @@
     {
       "rank": 1,
       "repo": "pewdiepie-archdaemon/odysseus",
-      "surge_5d": 680
+      "surge_5d": 826
     },
     {
       "rank": 2,
       "repo": "microsoft/markitdown",
-      "surge_5d": 317
+      "surge_5d": 279
     },
     {
       "rank": 3,
       "repo": "harry0703/moneyprinterturbo",
-      "surge_5d": 223
+      "surge_5d": 180
     },
     {
       "rank": 4,
-      "repo": "codecrafters-io/build-your-own-x",
-      "surge_5d": 139
+      "repo": "chopratejas/headroom",
+      "surge_5d": 137
     },
     {
       "rank": 5,
-      "repo": "nousresearch/hermes-agent",
+      "repo": "codecrafters-io/build-your-own-x",
       "surge_5d": 126
     },
     {
       "rank": 6,
       "repo": "lum1104/understand-anything",
-      "surge_5d": 126
+      "surge_5d": 122
     },
     {
       "rank": 7,
-      "repo": "leonxlnx/taste-skill",
-      "surge_5d": 107
+      "repo": "nousresearch/hermes-agent",
+      "surge_5d": 118
     },
     {
       "rank": 8,
@@ -42,342 +42,342 @@
     },
     {
       "rank": 9,
-      "repo": "colbymchenry/codegraph",
-      "surge_5d": 89
+      "repo": "mattpocock/skills",
+      "surge_5d": 90
     },
     {
       "rank": 10,
-      "repo": "ruvnet/ruview",
-      "surge_5d": 79
+      "repo": "leonxlnx/taste-skill",
+      "surge_5d": 87
     },
     {
       "rank": 11,
-      "repo": "mattpocock/skills",
-      "surge_5d": 79
+      "repo": "nesquena/hermes-webui",
+      "surge_5d": 81
     },
     {
       "rank": 12,
-      "repo": "safishamsi/graphify",
-      "surge_5d": 77
+      "repo": "colbymchenry/codegraph",
+      "surge_5d": 79
     },
     {
       "rank": 13,
-      "repo": "nesquena/hermes-webui",
-      "surge_5d": 74
+      "repo": "safishamsi/graphify",
+      "surge_5d": 76
     },
     {
       "rank": 14,
-      "repo": "openbmb/voxcpm",
-      "surge_5d": 73
+      "repo": "obra/superpowers",
+      "surge_5d": 71
     },
     {
       "rank": 15,
-      "repo": "obra/superpowers",
-      "surge_5d": 70
+      "repo": "ruvnet/ruview",
+      "surge_5d": 66
     },
     {
       "rank": 16,
       "repo": "d4vinci/scrapling",
-      "surge_5d": 62
+      "surge_5d": 63
     },
     {
       "rank": 17,
-      "repo": "crosstalk-solutions/project-nomad",
-      "surge_5d": 62
-    },
-    {
-      "rank": 18,
-      "repo": "digitalplatdev/freedomain",
+      "repo": "anthropics/skills",
       "surge_5d": 61
     },
     {
+      "rank": 18,
+      "repo": "openbmb/voxcpm",
+      "surge_5d": 58
+    },
+    {
       "rank": 19,
-      "repo": "farion1231/cc-switch",
-      "surge_5d": 59
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "surge_5d": 56
     },
     {
       "rank": 20,
-      "repo": "rohitg00/ai-engineering-from-scratch",
-      "surge_5d": 58
+      "repo": "farion1231/cc-switch",
+      "surge_5d": 53
     },
     {
       "rank": 21,
-      "repo": "anthropics/skills",
-      "surge_5d": 58
+      "repo": "crosstalk-solutions/project-nomad",
+      "surge_5d": 49
     },
     {
       "rank": 22,
       "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "surge_5d": 57
-    },
-    {
-      "rank": 23,
-      "repo": "run-llama/liteparse",
-      "surge_5d": 57
-    },
-    {
-      "rank": 24,
-      "repo": "nexu-io/open-design",
-      "surge_5d": 56
-    },
-    {
-      "rank": 25,
-      "repo": "mukul975/anthropic-cybersecurity-skills",
-      "surge_5d": 52
-    },
-    {
-      "rank": 26,
-      "repo": "esengine/deepseek-reasonix",
-      "surge_5d": 51
-    },
-    {
-      "rank": 27,
-      "repo": "imbad0202/academic-research-skills",
       "surge_5d": 49
     },
     {
-      "rank": 28,
+      "rank": 23,
       "repo": "garrytan/gstack",
       "surge_5d": 49
     },
     {
-      "rank": 29,
-      "repo": "byoungd/english-level-up-tips",
+      "rank": 24,
+      "repo": "nexu-io/open-design",
+      "surge_5d": 48
+    },
+    {
+      "rank": 25,
+      "repo": "digitalplatdev/freedomain",
       "surge_5d": 47
     },
     {
-      "rank": 30,
-      "repo": "firecrawl/firecrawl",
-      "surge_5d": 44
+      "rank": 26,
+      "repo": "esengine/deepseek-reasonix",
+      "surge_5d": 46
     },
     {
-      "rank": 31,
+      "rank": 27,
       "repo": "sindresorhus/awesome",
+      "surge_5d": 46
+    },
+    {
+      "rank": 28,
+      "repo": "imbad0202/academic-research-skills",
+      "surge_5d": 45
+    },
+    {
+      "rank": 29,
+      "repo": "firecrawl/firecrawl",
+      "surge_5d": 45
+    },
+    {
+      "rank": 30,
+      "repo": "can1357/oh-my-pi",
       "surge_5d": 43
     },
     {
-      "rank": 32,
-      "repo": "anthropics/claude-code",
+      "rank": 31,
+      "repo": "mukul975/anthropic-cybersecurity-skills",
       "surge_5d": 42
     },
     {
+      "rank": 32,
+      "repo": "bigpizzav3/codexplusplus",
+      "surge_5d": 39
+    },
+    {
       "rank": 33,
-      "repo": "everyinc/compound-engineering-plugin",
-      "surge_5d": 41
+      "repo": "juliusbrussee/caveman",
+      "surge_5d": 38
     },
     {
       "rank": 34,
-      "repo": "bigpizzav3/codexplusplus",
-      "surge_5d": 40
-    },
-    {
-      "rank": 35,
-      "repo": "can1357/oh-my-pi",
-      "surge_5d": 40
-    },
-    {
-      "rank": 36,
-      "repo": "anomalyco/opencode",
-      "surge_5d": 39
-    },
-    {
-      "rank": 37,
-      "repo": "alishahryar1/free-claude-code",
-      "surge_5d": 39
-    },
-    {
-      "rank": 38,
-      "repo": "ruvnet/ruflo",
-      "surge_5d": 39
-    },
-    {
-      "rank": 39,
       "repo": "crynta/terax-ai",
       "surge_5d": 38
     },
     {
-      "rank": 40,
+      "rank": 35,
       "repo": "heygen-com/hyperframes",
       "surge_5d": 37
     },
     {
-      "rank": 41,
-      "repo": "rohitg00/agentmemory",
+      "rank": 36,
+      "repo": "bia-pain-bache/bpb-worker-panel",
       "surge_5d": 37
     },
     {
-      "rank": 42,
-      "repo": "open-jarvis/openjarvis",
+      "rank": 37,
+      "repo": "voltagent/awesome-design-md",
       "surge_5d": 36
+    },
+    {
+      "rank": 38,
+      "repo": "run-llama/liteparse",
+      "surge_5d": 36
+    },
+    {
+      "rank": 39,
+      "repo": "openclaw/openclaw",
+      "surge_5d": 36
+    },
+    {
+      "rank": 40,
+      "repo": "vinta/awesome-python",
+      "surge_5d": 36
+    },
+    {
+      "rank": 41,
+      "repo": "anthropics/claude-code",
+      "surge_5d": 36
+    },
+    {
+      "rank": 42,
+      "repo": "anomalyco/opencode",
+      "surge_5d": 35
     },
     {
       "rank": 43,
-      "repo": "yt-dlp/yt-dlp",
-      "surge_5d": 36
+      "repo": "ruvnet/ruflo",
+      "surge_5d": 35
     },
     {
       "rank": 44,
-      "repo": "twentyhq/twenty",
+      "repo": "alishahryar1/free-claude-code",
       "surge_5d": 35
     },
     {
       "rank": 45,
-      "repo": "juliusbrussee/caveman",
-      "surge_5d": 35
+      "repo": "byoungd/english-level-up-tips",
+      "surge_5d": 34
     },
     {
       "rank": 46,
-      "repo": "voltagent/awesome-design-md",
-      "surge_5d": 35
-    },
-    {
-      "rank": 47,
-      "repo": "openclaw/openclaw",
-      "surge_5d": 35
-    },
-    {
-      "rank": 48,
       "repo": "awesome-selfhosted/awesome-selfhosted",
       "surge_5d": 34
     },
     {
+      "rank": 47,
+      "repo": "everyinc/compound-engineering-plugin",
+      "surge_5d": 32
+    },
+    {
+      "rank": 48,
+      "repo": "rohitg00/agentmemory",
+      "surge_5d": 32
+    },
+    {
       "rank": 49,
-      "repo": "trimstray/the-book-of-secret-knowledge",
-      "surge_5d": 33
+      "repo": "public-apis/public-apis",
+      "surge_5d": 32
     },
     {
       "rank": 50,
-      "repo": "vinta/awesome-python",
+      "repo": "tauricresearch/tradingagents",
       "surge_5d": 32
     },
     {
       "rank": 51,
-      "repo": "bia-pain-bache/bpb-worker-panel",
+      "repo": "yt-dlp/yt-dlp",
       "surge_5d": 31
     },
     {
       "rank": 52,
-      "repo": "public-apis/public-apis",
+      "repo": "open-jarvis/openjarvis",
       "surge_5d": 30
     },
     {
       "rank": 53,
-      "repo": "tauricresearch/tradingagents",
+      "repo": "trimstray/the-book-of-secret-knowledge",
       "surge_5d": 30
     },
     {
       "rank": 54,
-      "repo": "cloakhq/cloakbrowser",
-      "surge_5d": 28
-    },
-    {
-      "rank": 55,
       "repo": "rtk-ai/rtk",
       "surge_5d": 28
     },
     {
-      "rank": 56,
+      "rank": 55,
       "repo": "earendil-works/pi",
       "surge_5d": 28
     },
     {
-      "rank": 57,
-      "repo": "tashfeenahmed/freellmapi",
+      "rank": 56,
+      "repo": "github/spec-kit",
       "surge_5d": 27
     },
     {
-      "rank": 58,
+      "rank": 57,
       "repo": "paperclipai/paperclip",
       "surge_5d": 27
     },
     {
-      "rank": 59,
+      "rank": 58,
       "repo": "aninsomniacy/motrix-next",
       "surge_5d": 27
     },
     {
-      "rank": 60,
+      "rank": 59,
       "repo": "garrytan/gbrain",
       "surge_5d": 27
     },
     {
-      "rank": 61,
+      "rank": 60,
       "repo": "agricidaniel/claude-seo",
       "surge_5d": 26
     },
     {
+      "rank": 61,
+      "repo": "msitarzewski/agency-agents",
+      "surge_5d": 26
+    },
+    {
       "rank": 62,
-      "repo": "blader/humanizer",
-      "surge_5d": 26
-    },
-    {
-      "rank": 63,
-      "repo": "addyosmani/agent-skills",
-      "surge_5d": 26
-    },
-    {
-      "rank": 64,
-      "repo": "fathah/hermes-desktop",
-      "surge_5d": 25
-    },
-    {
-      "rank": 65,
-      "repo": "github/spec-kit",
-      "surge_5d": 25
-    },
-    {
-      "rank": 66,
       "repo": "evermind-ai/everos",
       "surge_5d": 25
     },
     {
+      "rank": 63,
+      "repo": "twentyhq/twenty",
+      "surge_5d": 24
+    },
+    {
+      "rank": 64,
+      "repo": "cloakhq/cloakbrowser",
+      "surge_5d": 24
+    },
+    {
+      "rank": 65,
+      "repo": "jwasham/coding-interview-university",
+      "surge_5d": 24
+    },
+    {
+      "rank": 66,
+      "repo": "opencut-app/opencut",
+      "surge_5d": 24
+    },
+    {
       "rank": 67,
-      "repo": "msitarzewski/agency-agents",
+      "repo": "addyosmani/agent-skills",
       "surge_5d": 23
     },
     {
       "rank": 68,
-      "repo": "n8n-io/n8n",
-      "surge_5d": 21
+      "repo": "tashfeenahmed/freellmapi",
+      "surge_5d": 23
     },
     {
       "rank": 69,
-      "repo": "jwasham/coding-interview-university",
-      "surge_5d": 21
+      "repo": "blader/humanizer",
+      "surge_5d": 22
     },
     {
       "rank": 70,
-      "repo": "anthropics/knowledge-work-plugins",
+      "repo": "hkuds/vibe-trading",
       "surge_5d": 21
     },
     {
       "rank": 71,
-      "repo": "voltagent/awesome-agent-skills",
+      "repo": "darrylmorley/whatcable",
       "surge_5d": 21
     },
     {
       "rank": 72,
-      "repo": "op7418/guizang-ppt-skill",
-      "surge_5d": 19
+      "repo": "fathah/hermes-desktop",
+      "surge_5d": 21
     },
     {
       "rank": 73,
-      "repo": "rmyndharis/openwa",
-      "surge_5d": 19
+      "repo": "voltagent/awesome-agent-skills",
+      "surge_5d": 20
     },
     {
       "rank": 74,
-      "repo": "fission-ai/openspec",
+      "repo": "n8n-io/n8n",
       "surge_5d": 19
     },
     {
       "rank": 75,
-      "repo": "ggml-org/llama.cpp",
+      "repo": "anthropics/knowledge-work-plugins",
       "surge_5d": 19
     },
     {
       "rank": 76,
-      "repo": "darrylmorley/whatcable",
+      "repo": "open-webui/open-webui",
       "surge_5d": 19
     },
     {
@@ -387,119 +387,119 @@
     },
     {
       "rank": 78,
-      "repo": "clash-verge-rev/clash-verge-rev",
+      "repo": "browser-use/browser-use",
       "surge_5d": 18
     },
     {
       "rank": 79,
-      "repo": "thedotmack/claude-mem",
+      "repo": "openai/codex",
       "surge_5d": 18
     },
     {
       "rank": 80,
-      "repo": "opencut-app/opencut",
-      "surge_5d": 18
-    },
-    {
-      "rank": 81,
       "repo": "decolua/9router",
       "surge_5d": 18
     },
     {
+      "rank": 81,
+      "repo": "ggml-org/llama.cpp",
+      "surge_5d": 18
+    },
+    {
       "rank": 82,
-      "repo": "aidc-ai/pixelle-video",
+      "repo": "fission-ai/openspec",
       "surge_5d": 18
     },
     {
       "rank": 83,
-      "repo": "vercel-labs/skills",
-      "surge_5d": 17
+      "repo": "aidc-ai/pixelle-video",
+      "surge_5d": 18
     },
     {
       "rank": 84,
-      "repo": "yuan1z0825/nature-skills",
+      "repo": "comfy-org/comfyui",
       "surge_5d": 17
     },
     {
       "rank": 85,
-      "repo": "open-webui/open-webui",
+      "repo": "thedotmack/claude-mem",
       "surge_5d": 17
     },
     {
       "rank": 86,
-      "repo": "datatalksclub/data-engineering-zoomcamp",
-      "surge_5d": 16
+      "repo": "paddlepaddle/paddleocr",
+      "surge_5d": 17
     },
     {
       "rank": 87,
-      "repo": "shareai-lab/learn-claude-code",
-      "surge_5d": 16
+      "repo": "yuan1z0825/nature-skills",
+      "surge_5d": 17
     },
     {
       "rank": 88,
-      "repo": "browser-use/browser-use",
+      "repo": "op7418/guizang-ppt-skill",
       "surge_5d": 16
     },
     {
       "rank": 89,
-      "repo": "mindfold-ai/trellis",
+      "repo": "mhsanaei/3x-ui",
       "surge_5d": 16
     },
     {
       "rank": 90,
-      "repo": "paddlepaddle/paddleocr",
+      "repo": "mindfold-ai/trellis",
       "surge_5d": 16
     },
     {
       "rank": 91,
-      "repo": "521xueweihan/hellogithub",
-      "surge_5d": 15
+      "repo": "ollama/ollama",
+      "surge_5d": 16
     },
     {
       "rank": 92,
-      "repo": "openai/codex",
-      "surge_5d": 15
+      "repo": "shareai-lab/learn-claude-code",
+      "surge_5d": 16
     },
     {
       "rank": 93,
-      "repo": "mattpocock/sandcastle",
-      "surge_5d": 15
+      "repo": "avelino/awesome-go",
+      "surge_5d": 16
     },
     {
       "rank": 94,
-      "repo": "hack-with-github/awesome-hacking",
-      "surge_5d": 15
+      "repo": "rmyndharis/openwa",
+      "surge_5d": 16
     },
     {
       "rank": 95,
-      "repo": "comfy-org/comfyui",
+      "repo": "immich-app/immich",
       "surge_5d": 15
     },
     {
       "rank": 96,
-      "repo": "abhigyanpatwari/gitnexus",
+      "repo": "clash-verge-rev/clash-verge-rev",
       "surge_5d": 15
     },
     {
       "rank": 97,
-      "repo": "immich-app/immich",
-      "surge_5d": 14
+      "repo": "vercel-labs/skills",
+      "surge_5d": 15
     },
     {
       "rank": 98,
-      "repo": "cmliu/edgetunnel",
-      "surge_5d": 14
+      "repo": "hack-with-github/awesome-hacking",
+      "surge_5d": 15
     },
     {
       "rank": 99,
-      "repo": "tmux/tmux",
-      "surge_5d": 14
+      "repo": "karpathy/autoresearch",
+      "surge_5d": 15
     },
     {
       "rank": 100,
-      "repo": "alirezarezvani/claude-skills",
-      "surge_5d": 14
+      "repo": "freecodecamp/freecodecamp",
+      "surge_5d": 15
     }
   ],
-  "_warning": "GH Archive partial: 71/121 files available (50 missing). Results may undercount."
+  "_warning": "GH Archive partial: 70/121 files available (51 missing). Results may undercount."
 }
