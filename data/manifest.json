@@ -59513,6 +59513,26 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 812973427,
+    "name": "greatfrontend/top-javascript-interview-questions",
+    "desc": "Top JavaScript interview questions and answers for Frontend Engineers (updated for 2026)",
+    "stars": 9587,
+    "url": "https://github.com/greatfrontend/top-javascript-interview-questions",
+    "lang": "MDX",
+    "topics": [
+      "front-end-development",
+      "interviews",
+      "javascript",
+      "javascript-interview-questions",
+      "react",
+      "reactjs",
+      "web-development"
+    ],
+    "created": "2024-06-10T09:06:00Z",
+    "updated": "2026-06-05T11:31:25Z",
+    "first_seen": "2026-06-05"
+  },
+  {
     "id": 926087200,
     "name": "xinnan-tech/xiaozhi-esp32-server",
     "desc": "本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.",
@@ -62373,6 +62393,39 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 644293378,
+    "name": "CVHub520/X-AnyLabeling",
+    "desc": "Effortless data labeling with AI support from Segment Anything and other awesome models.",
+    "stars": 9325,
+    "url": "https://github.com/CVHub520/X-AnyLabeling",
+    "lang": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "clip",
+      "computer-vision",
+      "deep-learning",
+      "groundingdino",
+      "image-annotation-tool",
+      "image-classification",
+      "image-labeling-tool",
+      "image-matting",
+      "instance-segmentation",
+      "machine-learning",
+      "object-detection",
+      "ocr",
+      "onnxruntime",
+      "paddlepaddle",
+      "pose-estimation",
+      "rotated-object-detection",
+      "sam",
+      "vision-language-model",
+      "yolo"
+    ],
+    "created": "2023-05-23T08:14:30Z",
+    "updated": "2026-06-05T11:02:40Z",
+    "first_seen": "2026-06-05"
+  },
+  {
     "id": 468685658,
     "name": "peng-zhihui/ElectronBot",
     "desc": "",
@@ -63580,6 +63633,23 @@
     "created": "2022-01-30T09:53:36Z",
     "updated": "2026-05-16T19:09:37Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 258973148,
+    "name": "LmeSzinc/AzurLaneAutoScript",
+    "desc": "Azur Lane bot (CN/EN/JP/TW) 碧蓝航线脚本 | 无缝委托科研，全自动大世界",
+    "stars": 9221,
+    "url": "https://github.com/LmeSzinc/AzurLaneAutoScript",
+    "lang": "Python",
+    "topics": [
+      "alas",
+      "azur-lane",
+      "azurlane",
+      "bot"
+    ],
+    "created": "2020-04-26T07:58:15Z",
+    "updated": "2026-06-05T11:06:11Z",
+    "first_seen": "2026-06-05"
   },
   {
     "id": 71996613,
@@ -65978,6 +66048,28 @@
     "first_seen": "2026-05-31"
   },
   {
+    "id": 94506832,
+    "name": "pyro-ppl/pyro",
+    "desc": "Deep universal probabilistic programming with Python and PyTorch",
+    "stars": 9007,
+    "url": "https://github.com/pyro-ppl/pyro",
+    "lang": "Python",
+    "topics": [
+      "bayesian",
+      "bayesian-inference",
+      "deep-learning",
+      "machine-learning",
+      "probabilistic-modeling",
+      "probabilistic-programming",
+      "python",
+      "pytorch",
+      "variational-inference"
+    ],
+    "created": "2017-06-16T05:03:47Z",
+    "updated": "2026-06-04T15:53:54Z",
+    "first_seen": "2026-06-05"
+  },
+  {
     "id": 334848347,
     "name": "ccfddl/ccf-deadlines",
     "desc": "⏰ Agenticly track worldwide conference deadlines (Website, Python Cli, Wechat Applet)",
@@ -67471,6 +67563,18 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 1076863218,
+    "name": "MoonshotAI/kimi-cli",
+    "desc": "Kimi Code CLI is your next CLI agent.",
+    "stars": 8888,
+    "url": "https://github.com/MoonshotAI/kimi-cli",
+    "lang": "Python",
+    "topics": [],
+    "created": "2025-10-15T12:58:03Z",
+    "updated": "2026-06-05T11:38:11Z",
+    "first_seen": "2026-06-05"
+  },
+  {
     "id": 10289758,
     "name": "Nevcairiel/LAVFilters",
     "desc": "LAV Filters - Open-Source DirectShow Media Splitter and Decoders",
@@ -67926,6 +68030,25 @@
     "created": "2016-07-30T19:56:47Z",
     "updated": "2026-05-18T14:51:41Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 957859485,
+    "name": "aliasrobotics/cai",
+    "desc": "Cybersecurity AI (CAI), the framework for AI Security",
+    "stars": 8854,
+    "url": "https://github.com/aliasrobotics/cai",
+    "lang": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "cybersecurity",
+      "framework",
+      "generative-ai",
+      "llm",
+      "pentesting"
+    ],
+    "created": "2025-03-31T08:56:05Z",
+    "updated": "2026-06-05T09:46:45Z",
+    "first_seen": "2026-06-05"
   },
   {
     "id": 87990209,
@@ -70423,6 +70546,23 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 597583114,
+    "name": "Future-House/paper-qa",
+    "desc": "High accuracy RAG for answering questions from scientific documents with citations",
+    "stars": 8637,
+    "url": "https://github.com/Future-House/paper-qa",
+    "lang": "Python",
+    "topics": [
+      "ai",
+      "rag",
+      "science",
+      "search"
+    ],
+    "created": "2023-02-05T01:07:25Z",
+    "updated": "2026-06-05T09:57:28Z",
+    "first_seen": "2026-06-05"
+  },
+  {
     "id": 1398648,
     "name": "symfony/http-foundation",
     "desc": "Defines an object-oriented layer for the HTTP specification",
@@ -70779,6 +70919,18 @@
     "created": "2020-02-27T09:17:04Z",
     "updated": "2026-05-18T23:06:55Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 244024353,
+    "name": "PantsuDango/Dango-Translator",
+    "desc": "梦想是做出最棒的生肉翻译软件喵",
+    "stars": 8619,
+    "url": "https://github.com/PantsuDango/Dango-Translator",
+    "lang": "Python",
+    "topics": [],
+    "created": "2020-02-29T18:54:40Z",
+    "updated": "2026-06-05T09:13:40Z",
+    "first_seen": "2026-06-05"
   },
   {
     "id": 1036732253,
@@ -75539,6 +75691,31 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 996626040,
+    "name": "datawhalechina/all-in-rag",
+    "desc": "🔍大模型应用开发实战一：RAG 技术全栈指南，在线阅读地址：https://datawhalechina.github.io/all-in-rag/",
+    "stars": 8275,
+    "url": "https://github.com/datawhalechina/all-in-rag",
+    "lang": "Python",
+    "topics": [
+      "ai",
+      "deepseek",
+      "embedding",
+      "kimi-k2",
+      "langchain",
+      "llama-index",
+      "llm",
+      "milvus",
+      "multimodal",
+      "neo4j",
+      "python",
+      "rag"
+    ],
+    "created": "2025-06-05T08:12:35Z",
+    "updated": "2026-06-05T11:19:53Z",
+    "first_seen": "2026-06-05"
+  },
+  {
     "id": 625183383,
     "name": "RROrg/rr",
     "desc": "Redpill Recovery (arpl-i18n)",
@@ -77070,6 +77247,18 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 1104510027,
+    "name": "microsoft/TRELLIS.2",
+    "desc": "Native and Compact Structured Latents for 3D Generation",
+    "stars": 8157,
+    "url": "https://github.com/microsoft/TRELLIS.2",
+    "lang": "Python",
+    "topics": [],
+    "created": "2025-11-26T10:04:35Z",
+    "updated": "2026-06-05T10:54:21Z",
+    "first_seen": "2026-06-05"
+  },
+  {
     "id": 1252522,
     "name": "thoughtbot/dotfiles",
     "desc": "A set of vim, zsh, git, and tmux configuration files.",
@@ -77669,6 +77858,18 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 1022907328,
+    "name": "boson-ai/higgs-audio",
+    "desc": "Text-audio foundation model from Boson AI",
+    "stars": 8112,
+    "url": "https://github.com/boson-ai/higgs-audio",
+    "lang": "Python",
+    "topics": [],
+    "created": "2025-07-20T05:25:27Z",
+    "updated": "2026-06-05T09:44:39Z",
+    "first_seen": "2026-06-05"
+  },
+  {
     "id": 10391073,
     "name": "openedx/openedx-platform",
     "desc": "The Open edX LMS & Studio, powering education sites around the world!",
@@ -77765,6 +77966,28 @@
     "created": "2024-11-01T09:11:15Z",
     "updated": "2026-05-18T16:26:55Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 158618772,
+    "name": "ijl/orjson",
+    "desc": "Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy",
+    "stars": 8101,
+    "url": "https://github.com/ijl/orjson",
+    "lang": "Python",
+    "topics": [
+      "dataclasses",
+      "datetime",
+      "deserialization",
+      "json",
+      "numpy",
+      "pyo3",
+      "python",
+      "rust",
+      "serialization"
+    ],
+    "created": "2018-11-21T23:43:14Z",
+    "updated": "2026-06-05T07:22:02Z",
+    "first_seen": "2026-06-05"
   },
   {
     "id": 21641241,
@@ -87690,6 +87913,22 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 118118940,
+    "name": "reHackable/awesome-reMarkable",
+    "desc": "A curated list of projects related to the reMarkable tablet",
+    "stars": 7437,
+    "url": "https://github.com/reHackable/awesome-reMarkable",
+    "lang": "-",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "remarkable-tablet"
+    ],
+    "created": "2018-01-19T11:47:00Z",
+    "updated": "2026-06-05T07:03:02Z",
+    "first_seen": "2026-06-05"
+  },
+  {
     "id": 111738332,
     "name": "final-form/react-final-form",
     "desc": "🏁 High performance subscription-based form state management for React",
@@ -90437,6 +90676,22 @@
     "created": "2014-05-02T17:32:14Z",
     "updated": "2026-05-13T09:06:30Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 3182350,
+    "name": "amoffat/sh",
+    "desc": "Python process launching",
+    "stars": 7235,
+    "url": "https://github.com/amoffat/sh",
+    "lang": "Python",
+    "topics": [
+      "devops",
+      "python",
+      "subprocess"
+    ],
+    "created": "2012-01-15T05:52:06Z",
+    "updated": "2026-06-05T08:51:07Z",
+    "first_seen": "2026-06-05"
   },
   {
     "id": 43443499,
@@ -97731,6 +97986,18 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 1158799392,
+    "name": "unicity-astrid/astrid",
+    "desc": "An operating system for AI agents.",
+    "stars": 6846,
+    "url": "https://github.com/unicity-astrid/astrid",
+    "lang": "Rust",
+    "topics": [],
+    "created": "2026-02-15T23:27:31Z",
+    "updated": "2026-06-05T11:41:37Z",
+    "first_seen": "2026-06-05"
+  },
+  {
     "id": 749412659,
     "name": "Huibq/keep-alive",
     "desc": "洛雪音乐音源、MusicFree音源、落雪音乐音源",
@@ -100313,6 +100580,18 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 1033427112,
+    "name": "jamwithai/production-agentic-rag-course",
+    "desc": "",
+    "stars": 6735,
+    "url": "https://github.com/jamwithai/production-agentic-rag-course",
+    "lang": "Python",
+    "topics": [],
+    "created": "2025-08-06T19:52:50Z",
+    "updated": "2026-06-05T10:39:51Z",
+    "first_seen": "2026-06-05"
+  },
+  {
     "id": 31806094,
     "name": "akopytov/sysbench",
     "desc": "Scriptable database and system performance benchmark",
@@ -102742,6 +103021,26 @@
     "created": "2020-07-13T12:33:13Z",
     "updated": "2026-05-15T07:49:15Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 20349686,
+    "name": "olivierlacan/keep-a-changelog",
+    "desc": "If you build software, keep a changelog.",
+    "stars": 6603,
+    "url": "https://github.com/olivierlacan/keep-a-changelog",
+    "lang": "Haml",
+    "topics": [
+      "changelog",
+      "git",
+      "history",
+      "markdown",
+      "release",
+      "tag",
+      "versioning"
+    ],
+    "created": "2014-05-31T05:23:54Z",
+    "updated": "2026-06-04T21:56:24Z",
+    "first_seen": "2026-06-05"
   },
   {
     "id": 67938435,
@@ -113448,6 +113747,25 @@
     "first_seen": "2026-06-04"
   },
   {
+    "id": 23953531,
+    "name": "androguard/androguard",
+    "desc": "Reverse engineering and pentesting for Android applications ",
+    "stars": 6099,
+    "url": "https://github.com/androguard/androguard",
+    "lang": "Python",
+    "topics": [
+      "android",
+      "dalvik",
+      "dex",
+      "odex",
+      "pentesting",
+      "reverse-engineering"
+    ],
+    "created": "2014-09-12T08:48:56Z",
+    "updated": "2026-06-05T11:37:37Z",
+    "first_seen": "2026-06-05"
+  },
+  {
     "id": 80058269,
     "name": "microsoft/VFSForGit",
     "desc": "Virtual File System for Git: Enable Git at Enterprise Scale",
@@ -116249,6 +116567,33 @@
     "created": "2025-07-30T06:09:00Z",
     "updated": "2026-05-18T14:13:54Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 52837350,
+    "name": "cloud-custodian/cloud-custodian",
+    "desc": "Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources",
+    "stars": 5997,
+    "url": "https://github.com/cloud-custodian/cloud-custodian",
+    "lang": "Python",
+    "topics": [
+      "aws",
+      "azure",
+      "cloud",
+      "cloud-computing",
+      "compliance",
+      "finops",
+      "gcp",
+      "kubernetes",
+      "management",
+      "oci",
+      "rules-engine",
+      "serverless",
+      "tencent-cloud",
+      "terraform"
+    ],
+    "created": "2016-03-01T01:11:20Z",
+    "updated": "2026-06-05T07:26:56Z",
+    "first_seen": "2026-06-05"
   },
   {
     "id": 40667593,
@@ -119350,6 +119695,18 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 1066856689,
+    "name": "xindoo/agentic-design-patterns",
+    "desc": "谷歌新书Agent设计模式(agentic design patterns)最佳中文版，持续优化。附：在线阅读、pdf和epub电子书下载。 ",
+    "stars": 5890,
+    "url": "https://github.com/xindoo/agentic-design-patterns",
+    "lang": "HTML",
+    "topics": [],
+    "created": "2025-09-30T03:58:49Z",
+    "updated": "2026-06-05T10:42:32Z",
+    "first_seen": "2026-06-05"
+  },
+  {
     "id": 1549207,
     "name": "robbiehanson/XMPPFramework",
     "desc": "An XMPP Framework in Objective-C for Mac and iOS",
@@ -119960,6 +120317,23 @@
     "created": "2025-06-18T07:15:54Z",
     "updated": "2026-05-31T16:33:51Z",
     "first_seen": "2026-05-31"
+  },
+  {
+    "id": 195914972,
+    "name": "uber/causalml",
+    "desc": "Uplift modeling and causal inference with machine learning algorithms",
+    "stars": 5858,
+    "url": "https://github.com/uber/causalml",
+    "lang": "Python",
+    "topics": [
+      "causal-inference",
+      "incubation",
+      "machine-learning",
+      "uplift-modeling"
+    ],
+    "created": "2019-07-09T02:08:58Z",
+    "updated": "2026-06-05T02:42:28Z",
+    "first_seen": "2026-06-05"
   },
   {
     "id": 814597318,
@@ -123006,6 +123380,35 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 468168223,
+    "name": "lexiforest/curl_cffi",
+    "desc": "Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.",
+    "stars": 5744,
+    "url": "https://github.com/lexiforest/curl_cffi",
+    "lang": "Python",
+    "topics": [
+      "akamai-fingerprint",
+      "curl",
+      "curl-impersonate",
+      "fingerprinting",
+      "http",
+      "http-client",
+      "http2-fingerprint",
+      "http3-fingerprints",
+      "https",
+      "ja3",
+      "ja3-fingerprint",
+      "ja4",
+      "ja4-fingerprint",
+      "quic-fingerprints",
+      "tls-fingerprint",
+      "web-scraping"
+    ],
+    "created": "2022-03-10T02:39:23Z",
+    "updated": "2026-06-05T09:47:31Z",
+    "first_seen": "2026-06-05"
+  },
+  {
     "id": 98267887,
     "name": "fengyuanchen/compressorjs",
     "desc": "JavaScript image compressor.",
@@ -123664,6 +124067,39 @@
     "created": "2015-03-10T20:05:32Z",
     "updated": "2026-05-18T12:21:19Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 506862351,
+    "name": "arthelokyo/astrowind",
+    "desc": "⭕️ AstroWind: A free template using Astro v6 and Tailwind CSS v4. Astro starter theme.",
+    "stars": 5724,
+    "url": "https://github.com/arthelokyo/astrowind",
+    "lang": "Astro",
+    "topics": [
+      "astro",
+      "astro-blog",
+      "astro-starter",
+      "astro-template",
+      "astro-theme",
+      "astro-themes",
+      "blog",
+      "jamstack",
+      "javascript",
+      "landing-page",
+      "ssg",
+      "static-site",
+      "static-site-generator",
+      "tailwind",
+      "tailwind-css-template",
+      "tailwind-template",
+      "tailwindcss",
+      "template",
+      "theme",
+      "website-template"
+    ],
+    "created": "2022-06-24T03:13:29Z",
+    "updated": "2026-06-05T11:37:58Z",
+    "first_seen": "2026-06-05"
   },
   {
     "id": 40568608,
@@ -127350,6 +127786,25 @@
     "created": "2010-08-19T20:28:21Z",
     "updated": "2026-05-17T17:17:15Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 815755359,
+    "name": "greatfrontend/top-reactjs-interview-questions",
+    "desc": "Most important React.js interview questions for busy Frontend Engineers (updated for 2026)",
+    "stars": 5593,
+    "url": "https://github.com/greatfrontend/top-reactjs-interview-questions",
+    "lang": "MDX",
+    "topics": [
+      "front-end-development",
+      "interviews",
+      "javascript",
+      "react",
+      "react-interview-questions",
+      "reactjs"
+    ],
+    "created": "2024-06-16T03:51:59Z",
+    "updated": "2026-06-05T11:31:31Z",
+    "first_seen": "2026-06-05"
   },
   {
     "id": 93163073,
@@ -135847,6 +136302,18 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 691050458,
+    "name": "docker/genai-stack",
+    "desc": "Langchain + Docker + Neo4j + Ollama",
+    "stars": 5329,
+    "url": "https://github.com/docker/genai-stack",
+    "lang": "Python",
+    "topics": [],
+    "created": "2023-09-13T12:03:09Z",
+    "updated": "2026-06-05T04:59:57Z",
+    "first_seen": "2026-06-05"
+  },
+  {
     "id": 1146413571,
     "name": "epiral/bb-browser",
     "desc": "Your browser is the API. CLI + MCP server for AI agents to control Chrome with your login state.",
@@ -138414,6 +138881,27 @@
     "first_seen": "2026-06-03"
   },
   {
+    "id": 92827980,
+    "name": "Bogdanp/dramatiq",
+    "desc": "A fast and reliable background task processing library for Python 3.",
+    "stars": 5257,
+    "url": "https://github.com/Bogdanp/dramatiq",
+    "lang": "Python",
+    "topics": [
+      "distributed-lock",
+      "python",
+      "rabbit",
+      "redis",
+      "task",
+      "task-manager",
+      "task-runner",
+      "task-scheduler"
+    ],
+    "created": "2017-05-30T11:55:29Z",
+    "updated": "2026-06-05T11:21:15Z",
+    "first_seen": "2026-06-05"
+  },
+  {
     "id": 303975,
     "name": "clientIO/joint",
     "desc": "A proven SVG-based JavaScript diagramming library powering exceptional UIs",
@@ -138593,6 +139081,30 @@
     "created": "2021-01-28T20:20:51Z",
     "updated": "2026-05-18T11:58:16Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 155099400,
+    "name": "CadQuery/cadquery",
+    "desc": "A python parametric CAD scripting framework based on OCCT",
+    "stars": 5252,
+    "url": "https://github.com/CadQuery/cadquery",
+    "lang": "Python",
+    "topics": [
+      "3d",
+      "brep",
+      "cad",
+      "dxf",
+      "modeling",
+      "occt",
+      "opencascade",
+      "parametric",
+      "python",
+      "step",
+      "stl"
+    ],
+    "created": "2018-10-28T17:57:18Z",
+    "updated": "2026-06-05T11:15:23Z",
+    "first_seen": "2026-06-05"
   },
   {
     "id": 182423586,
@@ -138861,6 +139373,26 @@
     "created": "2016-03-22T04:46:05Z",
     "updated": "2026-05-17T03:18:12Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 40364738,
+    "name": "MattPD/cpplinks",
+    "desc": " A categorized list of C++ resources.",
+    "stars": 5244,
+    "url": "https://github.com/MattPD/cpplinks",
+    "lang": "-",
+    "topics": [
+      "assembly",
+      "c-plus-plus",
+      "compilers",
+      "computer-architecture",
+      "cplusplus",
+      "cpp",
+      "debugging"
+    ],
+    "created": "2015-08-07T14:36:35Z",
+    "updated": "2026-06-05T02:45:13Z",
+    "first_seen": "2026-06-05"
   },
   {
     "id": 1973790,
@@ -142301,6 +142833,39 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 418086942,
+    "name": "plainhub/plain-app",
+    "desc": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+    "stars": 5150,
+    "url": "https://github.com/plainhub/plain-app",
+    "lang": "Kotlin",
+    "topics": [
+      "android",
+      "android-app",
+      "compose",
+      "compose-ui",
+      "f-droid",
+      "fdroid",
+      "filemanager",
+      "graphql",
+      "jetpack-compose",
+      "ktor",
+      "learning",
+      "material-you",
+      "music-player",
+      "note-taking",
+      "privacy-protection",
+      "productivity",
+      "rss",
+      "rss-reader",
+      "screen-mirroring",
+      "web"
+    ],
+    "created": "2021-10-17T10:03:14Z",
+    "updated": "2026-06-05T09:57:11Z",
+    "first_seen": "2026-06-05"
+  },
+  {
     "id": 2400938,
     "name": "asmuth/clip",
     "desc": "Create charts from the command line",
@@ -143707,6 +144272,28 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 576150049,
+    "name": "hyprland-community/awesome-hyprland",
+    "desc": "Awesome list for Hyprland [maintainer=@yavko]",
+    "stars": 5117,
+    "url": "https://github.com/hyprland-community/awesome-hyprland",
+    "lang": "-",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "awesome-readme",
+      "awesome-resources",
+      "hyprland",
+      "hyprland-ipc",
+      "list",
+      "resources"
+    ],
+    "created": "2022-12-09T05:50:16Z",
+    "updated": "2026-06-05T07:17:00Z",
+    "first_seen": "2026-06-05"
+  },
+  {
     "id": 1078528927,
     "name": "max-sixty/worktrunk",
     "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
@@ -144498,6 +145085,25 @@
     "created": "2016-12-02T17:08:23Z",
     "updated": "2026-05-31T06:19:30Z",
     "first_seen": "2026-05-31"
+  },
+  {
+    "id": 1135179558,
+    "name": "alvinunreal/oh-my-opencode-slim",
+    "desc": "Slimmed, cleaned and fine-tuned oh-my-opencode fork, consumes much less tokens",
+    "stars": 5094,
+    "url": "https://github.com/alvinunreal/oh-my-opencode-slim",
+    "lang": "TypeScript",
+    "topics": [
+      "agentic-ai",
+      "antigravity",
+      "cerebras",
+      "oh-my-opencode",
+      "opencode",
+      "orchestration"
+    ],
+    "created": "2026-01-15T18:45:08Z",
+    "updated": "2026-06-05T11:34:37Z",
+    "first_seen": "2026-06-05"
   },
   {
     "id": 17098587,
@@ -146927,6 +147533,21 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 1060300773,
+    "name": "pierrecomputer/pierre",
+    "desc": "pierre’s open source code",
+    "stars": 5035,
+    "url": "https://github.com/pierrecomputer/pierre",
+    "lang": "TypeScript",
+    "topics": [
+      "diffs",
+      "memescale"
+    ],
+    "created": "2025-09-19T17:26:04Z",
+    "updated": "2026-06-05T11:29:04Z",
+    "first_seen": "2026-06-05"
+  },
+  {
     "id": 26537135,
     "name": "u-boot/u-boot",
     "desc": "\"Das U-Boot\" Source Tree",
@@ -147756,6 +148377,26 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 110850974,
+    "name": "wfxr/forgit",
+    "desc": ":zzz: A utility tool powered by fzf for using git interactively.",
+    "stars": 5014,
+    "url": "https://github.com/wfxr/forgit",
+    "lang": "Shell",
+    "topics": [
+      "bash",
+      "cli",
+      "fish",
+      "fzf",
+      "git",
+      "zsh",
+      "zsh-plugin"
+    ],
+    "created": "2017-11-15T15:27:38Z",
+    "updated": "2026-06-04T18:57:27Z",
+    "first_seen": "2026-06-05"
+  },
+  {
     "id": 382378702,
     "name": "web-infra-dev/modern.js",
     "desc": "A progressive web framework based on React and Rsbuild.",
@@ -147824,6 +148465,18 @@
     "created": "2010-12-07T19:10:25Z",
     "updated": "2026-05-30T18:04:38Z",
     "first_seen": "2026-05-31"
+  },
+  {
+    "id": 295195550,
+    "name": "kasmtech/KasmVNC",
+    "desc": "Modern VNC Server and client, web based and secure",
+    "stars": 5012,
+    "url": "https://github.com/kasmtech/KasmVNC",
+    "lang": "C++",
+    "topics": [],
+    "created": "2020-09-13T16:50:40Z",
+    "updated": "2026-06-05T09:02:55Z",
+    "first_seen": "2026-06-05"
   },
   {
     "id": 310659501,
@@ -148062,6 +148715,25 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 444350375,
+    "name": "piitaya/lovelace-mushroom",
+    "desc": "Build a beautiful Home Assistant dashboard easily",
+    "stars": 5007,
+    "url": "https://github.com/piitaya/lovelace-mushroom",
+    "lang": "TypeScript",
+    "topics": [
+      "card",
+      "hacktoberfest",
+      "hacs",
+      "home-assistant",
+      "lovelace",
+      "mushroom"
+    ],
+    "created": "2022-01-04T08:58:46Z",
+    "updated": "2026-06-05T10:29:05Z",
+    "first_seen": "2026-06-05"
+  },
+  {
     "id": 102447494,
     "name": "edp963/davinci",
     "desc": "Davinci is a DVsaaS (Data Visualization as a Service) Platform",
@@ -148160,6 +148832,28 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 948839453,
+    "name": "AAswordman/Operit",
+    "desc": "The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent",
+    "stars": 5004,
+    "url": "https://github.com/AAswordman/Operit",
+    "lang": "Kotlin",
+    "topics": [
+      "agent",
+      "ai",
+      "android",
+      "compose",
+      "kotlin",
+      "llama",
+      "llm",
+      "mnn",
+      "terminal"
+    ],
+    "created": "2025-03-15T04:24:12Z",
+    "updated": "2026-06-05T11:19:56Z",
+    "first_seen": "2026-06-05"
+  },
+  {
     "id": 213055485,
     "name": "niklashigi/apk-mitm",
     "desc": "🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection",
@@ -148221,6 +148915,25 @@
     "created": "2024-11-06T13:19:18Z",
     "updated": "2026-06-02T11:45:12Z",
     "first_seen": "2026-06-02"
+  },
+  {
+    "id": 148464499,
+    "name": "microsoft/SPTAG",
+    "desc": "A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.",
+    "stars": 5003,
+    "url": "https://github.com/microsoft/SPTAG",
+    "lang": "C++",
+    "topics": [
+      "approximate-nearest-neighbor-search",
+      "distributed-serving",
+      "fresh-update",
+      "neighborhood-graph",
+      "space-partition-tree",
+      "vector-search"
+    ],
+    "created": "2018-09-12T10:42:51Z",
+    "updated": "2026-06-05T03:27:37Z",
+    "first_seen": "2026-06-05"
   },
   {
     "id": 7744300,
@@ -148427,5 +149140,17 @@
     "created": "2025-04-22T04:12:07Z",
     "updated": "2026-05-31T18:15:06Z",
     "first_seen": "2026-05-31"
+  },
+  {
+    "id": 1181795380,
+    "name": "zarazhangrui/follow-builders",
+    "desc": "AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible summaries. Follow builders, not influencers.",
+    "stars": 5000,
+    "url": "https://github.com/zarazhangrui/follow-builders",
+    "lang": "JavaScript",
+    "topics": [],
+    "created": "2026-03-14T16:28:39Z",
+    "updated": "2026-06-05T09:32:03Z",
+    "first_seen": "2026-06-05"
   }
 ]
