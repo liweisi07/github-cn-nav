@@ -64589,6 +64589,28 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 954963562,
+    "name": "mrexodia/ida-pro-mcp",
+    "desc": "AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.",
+    "stars": 9145,
+    "url": "https://github.com/mrexodia/ida-pro-mcp",
+    "lang": "Python",
+    "topics": [
+      "ai",
+      "aiagent",
+      "binary-analysis",
+      "ida-plugin",
+      "ida-pro",
+      "mcp",
+      "mcp-server",
+      "modelcontextprotocol",
+      "reverse-engineering"
+    ],
+    "created": "2025-03-25T22:23:41Z",
+    "updated": "2026-06-06T07:57:58Z",
+    "first_seen": "2026-06-06"
+  },
+  {
     "id": 99705100,
     "name": "NG-ZORRO/ng-zorro-antd",
     "desc": "Angular UI Component Library based on Ant Design",
@@ -66139,6 +66161,23 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 7386799,
+    "name": "OctoPrint/OctoPrint",
+    "desc": "OctoPrint is the snappy web interface for your 3D printer!",
+    "stars": 9003,
+    "url": "https://github.com/OctoPrint/OctoPrint",
+    "lang": "Python",
+    "topics": [
+      "3d-printer",
+      "octoprint",
+      "python",
+      "raspberry-pi"
+    ],
+    "created": "2012-12-31T12:20:57Z",
+    "updated": "2026-06-06T07:06:31Z",
+    "first_seen": "2026-06-06"
+  },
+  {
     "id": 12332444,
     "name": "onsi/ginkgo",
     "desc": "A Modern Testing Framework for Go",
@@ -67523,6 +67562,25 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 740316987,
+    "name": "microsoft/UFO",
+    "desc": "UFO³: Weaving the Digital Agent Galaxy",
+    "stars": 8894,
+    "url": "https://github.com/microsoft/UFO",
+    "lang": "Python",
+    "topics": [
+      "agent",
+      "automation",
+      "copilot",
+      "gui",
+      "llm",
+      "windows"
+    ],
+    "created": "2024-01-08T05:07:52Z",
+    "updated": "2026-06-06T09:34:40Z",
+    "first_seen": "2026-06-06"
+  },
+  {
     "id": 2866041,
     "name": "kivy/python-for-android",
     "desc": "Turn your Python application into an Android APK",
@@ -68730,6 +68788,22 @@
     "created": "2012-08-25T10:32:48Z",
     "updated": "2026-05-17T03:08:32Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 57463982,
+    "name": "azat-io/you-dont-know-js-ru",
+    "desc": "📚 Russian translation of \"You Don't Know JS\" book series",
+    "stars": 8777,
+    "url": "https://github.com/azat-io/you-dont-know-js-ru",
+    "lang": "-",
+    "topics": [
+      "book",
+      "javascript",
+      "translation"
+    ],
+    "created": "2016-04-30T22:11:50Z",
+    "updated": "2026-06-06T10:04:32Z",
+    "first_seen": "2026-06-06"
   },
   {
     "id": 23727790,
@@ -72262,6 +72336,20 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 181846371,
+    "name": "MIC-DKFZ/nnUNet",
+    "desc": "",
+    "stars": 8512,
+    "url": "https://github.com/MIC-DKFZ/nnUNet",
+    "lang": "Python",
+    "topics": [
+      "segmentation"
+    ],
+    "created": "2019-04-17T08:10:56Z",
+    "updated": "2026-06-06T06:29:55Z",
+    "first_seen": "2026-06-06"
+  },
+  {
     "id": 74579985,
     "name": "vi/websocat",
     "desc": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions",
@@ -72680,6 +72768,28 @@
     "created": "2010-06-11T05:24:29Z",
     "updated": "2026-05-18T08:41:59Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 38744670,
+    "name": "patroni/patroni",
+    "desc": "A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes",
+    "stars": 8488,
+    "url": "https://github.com/patroni/patroni",
+    "lang": "Python",
+    "topics": [
+      "consul",
+      "etcd",
+      "failover",
+      "haproxy",
+      "high-availability",
+      "kubernetes",
+      "postgresql",
+      "raft",
+      "zookeeper"
+    ],
+    "created": "2015-07-08T09:27:19Z",
+    "updated": "2026-06-06T07:50:54Z",
+    "first_seen": "2026-06-06"
   },
   {
     "id": 771116636,
@@ -74610,6 +74720,39 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 733006926,
+    "name": "mouredev/roadmap-retos-programacion",
+    "desc": "Ruta de estudio basada en ejercicios de código de la comunidad MoureDev para aprender y practicar lógica usando cualquier lenguaje de programación.",
+    "stars": 8359,
+    "url": "https://github.com/mouredev/roadmap-retos-programacion",
+    "lang": "Python",
+    "topics": [
+      "c-plus-plus",
+      "c-sharp",
+      "dart",
+      "ejercicios",
+      "go",
+      "java",
+      "javascript",
+      "katas",
+      "kotlin",
+      "logica-de-programacion",
+      "php",
+      "python",
+      "retos",
+      "retos-programacion",
+      "roadmap",
+      "ruby",
+      "rust",
+      "ruta-de-estudio",
+      "swift",
+      "typescript"
+    ],
+    "created": "2023-12-18T10:59:18Z",
+    "updated": "2026-06-06T00:53:03Z",
+    "first_seen": "2026-06-06"
+  },
+  {
     "id": 228911039,
     "name": "antonioru/beautiful-react-hooks",
     "desc": "🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥",
@@ -75128,6 +75271,38 @@
     "created": "2025-07-23T04:13:55Z",
     "updated": "2026-05-18T21:18:14Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 76666208,
+    "name": "primefaces/primereact",
+    "desc": "The Most Complete React UI Component Library",
+    "stars": 8314,
+    "url": "https://github.com/primefaces/primereact",
+    "lang": "CSS",
+    "topics": [
+      "bootstrap",
+      "bootstrap-table",
+      "charts",
+      "datatable",
+      "flex",
+      "flex-carousel",
+      "flex-galleria",
+      "grid",
+      "material",
+      "material-table",
+      "primereact",
+      "react",
+      "react-components",
+      "responsive-components",
+      "ripple",
+      "ripple-effect",
+      "tree",
+      "treetable",
+      "ui-components"
+    ],
+    "created": "2016-12-16T15:56:27Z",
+    "updated": "2026-06-05T17:42:06Z",
+    "first_seen": "2026-06-06"
   },
   {
     "id": 83716883,
@@ -84915,6 +85090,27 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 102908804,
+    "name": "alteryx/featuretools",
+    "desc": "An open source python library for automated feature engineering",
+    "stars": 7655,
+    "url": "https://github.com/alteryx/featuretools",
+    "lang": "Python",
+    "topics": [
+      "automated-feature-engineering",
+      "automated-machine-learning",
+      "automl",
+      "data-science",
+      "feature-engineering",
+      "machine-learning",
+      "python",
+      "scikit-learn"
+    ],
+    "created": "2017-09-08T22:15:17Z",
+    "updated": "2026-06-06T05:21:11Z",
+    "first_seen": "2026-06-06"
+  },
+  {
     "id": 18845024,
     "name": "google/closure-compiler",
     "desc": "A JavaScript checker and optimizer.",
@@ -85033,6 +85229,39 @@
     "created": "2014-10-31T15:46:17Z",
     "updated": "2026-05-18T20:24:20Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 832647441,
+    "name": "2FastLabs/agent-squad",
+    "desc": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations",
+    "stars": 7647,
+    "url": "https://github.com/2FastLabs/agent-squad",
+    "lang": "Python",
+    "topics": [
+      "agentic-ai",
+      "agents",
+      "ai-agents",
+      "ai-agents-framework",
+      "anthropic",
+      "anthropic-claude",
+      "aws",
+      "aws-bedrock",
+      "aws-cdk",
+      "aws-lambda",
+      "chatbot",
+      "framework",
+      "generative-ai",
+      "machine-learning",
+      "openai",
+      "openaiapi",
+      "orchestrator",
+      "python",
+      "serverless",
+      "typescript"
+    ],
+    "created": "2024-07-23T12:48:30Z",
+    "updated": "2026-06-06T05:25:34Z",
+    "first_seen": "2026-06-06"
   },
   {
     "id": 32015820,
@@ -87727,6 +87956,24 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 290234921,
+    "name": "JoseDeFreitas/awesome-youtubers",
+    "desc": "An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.",
+    "stars": 7445,
+    "url": "https://github.com/JoseDeFreitas/awesome-youtubers",
+    "lang": "Markdown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "list",
+      "youtube",
+      "youtubers"
+    ],
+    "created": "2020-08-25T14:18:15Z",
+    "updated": "2026-06-06T00:22:04Z",
+    "first_seen": "2026-06-06"
+  },
+  {
     "id": 103995895,
     "name": "hybridgroup/gocv",
     "desc": "Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Contrib, and OpenVINO.",
@@ -88790,6 +89037,18 @@
     "first_seen": "2026-05-31"
   },
   {
+    "id": 1242346934,
+    "name": "unicity-astrid/sdk-js",
+    "desc": "JavaScript / TypeScript SDK for building Astrid OS capsules. Companion to unicity-astrid/sdk-rust.",
+    "stars": 7381,
+    "url": "https://github.com/unicity-astrid/sdk-js",
+    "lang": "TypeScript",
+    "topics": [],
+    "created": "2026-05-18T10:47:45Z",
+    "updated": "2026-06-06T10:16:41Z",
+    "first_seen": "2026-06-06"
+  },
+  {
     "id": 26956767,
     "name": "abel533/Mapper",
     "desc": "Mybatis Common Mapper - Easy to use",
@@ -89393,6 +89652,25 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 3159966,
+    "name": "ubuwaits/beautiful-web-type",
+    "desc": "In-depth guide to the best open-source typefaces: https://www.beautifulwebtype.com",
+    "stars": 7333,
+    "url": "https://github.com/ubuwaits/beautiful-web-type",
+    "lang": "CSS",
+    "topics": [
+      "font",
+      "fonts",
+      "google-fonts",
+      "typeface",
+      "typography",
+      "webfonts"
+    ],
+    "created": "2012-01-12T05:23:14Z",
+    "updated": "2026-06-06T09:47:14Z",
+    "first_seen": "2026-06-06"
+  },
+  {
     "id": 51368212,
     "name": "typestack/class-transformer",
     "desc": "Decorator-based transformation, serialization, and deserialization between objects and classes. ",
@@ -89636,6 +89914,18 @@
     "created": "2014-03-20T12:23:28Z",
     "updated": "2026-05-15T14:51:42Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 5664897,
+    "name": "bup/bup",
+    "desc": "Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problems or patches to the mailing list for discussion (see the end of the README below).",
+    "stars": 7324,
+    "url": "https://github.com/bup/bup",
+    "lang": "Python",
+    "topics": [],
+    "created": "2012-09-03T22:51:40Z",
+    "updated": "2026-06-05T18:33:50Z",
+    "first_seen": "2026-06-06"
   },
   {
     "id": 40310985,
@@ -90229,6 +90519,36 @@
     "created": "2016-12-05T20:14:02Z",
     "updated": "2026-05-18T20:00:36Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 601328285,
+    "name": "Haxxnet/Compose-Examples",
+    "desc": "Various Docker Compose examples of selfhosted FOSS and proprietary projects.",
+    "stars": 7270,
+    "url": "https://github.com/Haxxnet/Compose-Examples",
+    "lang": "-",
+    "topics": [
+      "automation",
+      "awesome",
+      "awesome-docker",
+      "compose",
+      "compose-files",
+      "container",
+      "containerization",
+      "devops",
+      "docker",
+      "docker-compose",
+      "docker-networking",
+      "docker-swarm",
+      "infrastructure-as-code",
+      "microservices",
+      "selfhosted",
+      "selfhosting",
+      "stack"
+    ],
+    "created": "2023-02-13T20:49:59Z",
+    "updated": "2026-06-06T01:09:03Z",
+    "first_seen": "2026-06-06"
   },
   {
     "id": 127546642,
@@ -92711,6 +93031,30 @@
     "created": "2023-03-28T07:10:12Z",
     "updated": "2026-05-18T17:32:59Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 45355064,
+    "name": "jarun/buku",
+    "desc": ":bookmark: Personal mini-web in text",
+    "stars": 7136,
+    "url": "https://github.com/jarun/buku",
+    "lang": "Python",
+    "topics": [
+      "bookmark",
+      "bookmark-manager",
+      "bookmarks",
+      "cli",
+      "command-line",
+      "console",
+      "organizer",
+      "privacy-aware",
+      "search",
+      "standalone",
+      "terminal"
+    ],
+    "created": "2015-11-01T19:53:18Z",
+    "updated": "2026-06-06T05:37:36Z",
+    "first_seen": "2026-06-06"
   },
   {
     "id": 81314550,
@@ -97681,6 +98025,29 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 570335310,
+    "name": "Gozargah/Marzban",
+    "desc": "Unified GUI Censorship Resistant Solution Powered by Xray",
+    "stars": 6871,
+    "url": "https://github.com/Gozargah/Marzban",
+    "lang": "Python",
+    "topics": [
+      "api",
+      "censorship-resistant",
+      "dashboard",
+      "shadowsocks",
+      "trojan",
+      "v2ray",
+      "vless",
+      "vmess",
+      "vpn",
+      "xray"
+    ],
+    "created": "2022-11-24T23:37:43Z",
+    "updated": "2026-06-06T09:08:49Z",
+    "first_seen": "2026-06-06"
+  },
+  {
     "id": 917437058,
     "name": "openai/openai-realtime-agents",
     "desc": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
@@ -99945,6 +100312,30 @@
     "created": "2018-04-21T12:23:48Z",
     "updated": "2026-05-18T07:19:18Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 796284842,
+    "name": "miantiao-me/Sink",
+    "desc": "⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.",
+    "stars": 6762,
+    "url": "https://github.com/miantiao-me/Sink",
+    "lang": "Vue",
+    "topics": [
+      "analytics",
+      "bitly-alternative",
+      "cloudflare",
+      "hacktoberfest",
+      "link-shortener",
+      "nuxt",
+      "nuxthub",
+      "shadcn-ui",
+      "tailwindcss",
+      "url-shortener",
+      "web-analytics"
+    ],
+    "created": "2024-05-05T13:53:54Z",
+    "updated": "2026-06-06T09:13:41Z",
+    "first_seen": "2026-06-06"
   },
   {
     "id": 110669547,
@@ -105014,6 +105405,18 @@
     "first_seen": "2026-06-03"
   },
   {
+    "id": 277895683,
+    "name": "yaelwrites/Big-Ass-Data-Broker-Opt-Out-List",
+    "desc": "",
+    "stars": 6505,
+    "url": "https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List",
+    "lang": "-",
+    "topics": [],
+    "created": "2020-07-07T18:41:25Z",
+    "updated": "2026-06-06T09:10:46Z",
+    "first_seen": "2026-06-06"
+  },
+  {
     "id": 54160369,
     "name": "ROCm/ROCm",
     "desc": "AMD ROCm™ Software - GitHub Home",
@@ -105560,6 +105963,18 @@
     "created": "2015-11-06T19:51:07Z",
     "updated": "2026-05-18T08:29:06Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 382262117,
+    "name": "githubvpn007/v2rayNvpn",
+    "desc": "翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子 、外网游戏、国外游戏、vpn、vpn推荐、每天更新、上外网、外网、V2rayN、Qv2ray、V2rayW、V2RayS、Mellow、V2rayX、V2rayU、ClashX、Kitsunebi、BifrostV、i2Ray 、Quantumult、Surge 4、winXray、Qv2ray、Kitsunebi、Trojan-Qt5、代理服务器、机场、马里奥、魔兽世界、poshMark、亚马逊、虾皮、煤炉、Mercari、外贸",
+    "stars": 6469,
+    "url": "https://github.com/githubvpn007/v2rayNvpn",
+    "lang": "-",
+    "topics": [],
+    "created": "2021-07-02T07:10:39Z",
+    "updated": "2026-06-06T08:29:43Z",
+    "first_seen": "2026-06-06"
   },
   {
     "id": 38395154,
@@ -106213,6 +106628,28 @@
     "created": "2010-05-10T17:17:33Z",
     "updated": "2026-05-18T22:24:06Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 158997622,
+    "name": "faridrashidi/kaggle-solutions",
+    "desc": "🏅 Collection of Kaggle Solutions and Ideas 🏅",
+    "stars": 6438,
+    "url": "https://github.com/faridrashidi/kaggle-solutions",
+    "lang": "Astro",
+    "topics": [
+      "ai",
+      "awesome-list",
+      "competition",
+      "data-mining",
+      "data-science",
+      "deep-learning",
+      "kaggle",
+      "machine-learning",
+      "solutions"
+    ],
+    "created": "2018-11-25T04:27:49Z",
+    "updated": "2026-06-06T00:49:38Z",
+    "first_seen": "2026-06-06"
   },
   {
     "id": 63773246,
@@ -108186,6 +108623,18 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 23736914,
+    "name": "espressif/esptool",
+    "desc": "Serial utility for flashing, provisioning, and interacting with Espressif SoCs",
+    "stars": 6360,
+    "url": "https://github.com/espressif/esptool",
+    "lang": "Python",
+    "topics": [],
+    "created": "2014-09-06T14:50:29Z",
+    "updated": "2026-06-06T07:17:06Z",
+    "first_seen": "2026-06-06"
+  },
+  {
     "id": 371239231,
     "name": "evidence-dev/evidence",
     "desc": "Business intelligence as code: build fast, interactive data visualizations in SQL and markdown",
@@ -109707,6 +110156,23 @@
     "created": "2016-12-06T04:30:34Z",
     "updated": "2026-05-17T11:55:38Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 147583941,
+    "name": "crytic/slither",
+    "desc": "Static Analyzer for Solidity and Vyper",
+    "stars": 6283,
+    "url": "https://github.com/crytic/slither",
+    "lang": "Python",
+    "topics": [
+      "ethereum",
+      "solidity",
+      "static-analysis",
+      "vyper"
+    ],
+    "created": "2018-09-05T21:56:35Z",
+    "updated": "2026-06-06T01:43:28Z",
+    "first_seen": "2026-06-06"
   },
   {
     "id": 84734311,
@@ -113386,6 +113852,28 @@
     "created": "2014-11-03T16:36:53Z",
     "updated": "2026-05-18T11:58:09Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 327949189,
+    "name": "mindee/doctr",
+    "desc": "docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning.",
+    "stars": 6117,
+    "url": "https://github.com/mindee/doctr",
+    "lang": "Python",
+    "topics": [
+      "deep-learning",
+      "document-recognition",
+      "ocr",
+      "optical-character-recognition",
+      "pytorch",
+      "tensorflow2",
+      "text-detection",
+      "text-detection-recognition",
+      "text-recognition"
+    ],
+    "created": "2021-01-08T16:05:12Z",
+    "updated": "2026-06-06T09:15:11Z",
+    "first_seen": "2026-06-06"
   },
   {
     "id": 664669687,
@@ -120633,6 +121121,18 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 3238243,
+    "name": "Fyrd/caniuse",
+    "desc": "Raw browser/feature support data from caniuse.com",
+    "stars": 5842,
+    "url": "https://github.com/Fyrd/caniuse",
+    "lang": "JSON",
+    "topics": [],
+    "created": "2012-01-22T05:30:41Z",
+    "updated": "2026-06-06T05:04:19Z",
+    "first_seen": "2026-06-06"
+  },
+  {
     "id": 1341324,
     "name": "isaacs/rimraf",
     "desc": "A `rm -rf` util for nodejs",
@@ -123687,6 +124187,25 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 1155383451,
+    "name": "AgriciDaniel/claude-ads",
+    "desc": "Comprehensive paid advertising audit & optimization skill for Claude Code. 250+ checks across Google, Meta, YouTube, LinkedIn, TikTok, Microsoft & Apple Ads with weighted scoring, parallel agents, industry templates, and AI creative generation.",
+    "stars": 5734,
+    "url": "https://github.com/AgriciDaniel/claude-ads",
+    "lang": "Python",
+    "topics": [
+      "ai",
+      "ai-marketing",
+      "claude-code",
+      "claude-code-skill",
+      "marketing-automation",
+      "open-source"
+    ],
+    "created": "2026-02-11T13:01:49Z",
+    "updated": "2026-06-06T08:23:49Z",
+    "first_seen": "2026-06-06"
+  },
+  {
     "id": 333723456,
     "name": "vikejs/vike",
     "desc": "(Replaces Next.js/Nuxt) 🔨 Composable framework to build advanced applications with flexibility and stability.",
@@ -123800,6 +124319,23 @@
     "created": "2012-07-29T02:19:18Z",
     "updated": "2026-05-15T15:22:36Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 931354511,
+    "name": "oomol-lab/pdf-craft",
+    "desc": "PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books.",
+    "stars": 5731,
+    "url": "https://github.com/oomol-lab/pdf-craft",
+    "lang": "Python",
+    "topics": [
+      "deepseek-ocr",
+      "document",
+      "ocr",
+      "pdf"
+    ],
+    "created": "2025-02-12T06:10:59Z",
+    "updated": "2026-06-06T07:33:22Z",
+    "first_seen": "2026-06-06"
   },
   {
     "id": 55407965,
@@ -125225,6 +125761,26 @@
     "created": "2014-02-17T09:12:15Z",
     "updated": "2026-05-17T08:02:09Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 9113587,
+    "name": "python-websockets/websockets",
+    "desc": "Library for building WebSocket servers and clients in Python",
+    "stars": 5686,
+    "url": "https://github.com/python-websockets/websockets",
+    "lang": "Python",
+    "topics": [
+      "python",
+      "python3",
+      "websocket",
+      "websocket-client",
+      "websocket-library",
+      "websocket-server",
+      "websockets"
+    ],
+    "created": "2013-03-30T08:59:30Z",
+    "updated": "2026-06-05T15:05:26Z",
+    "first_seen": "2026-06-06"
   },
   {
     "id": 245033131,
@@ -128624,6 +129180,20 @@
     "created": "2023-09-08T15:36:00Z",
     "updated": "2026-06-03T10:26:49Z",
     "first_seen": "2026-06-03"
+  },
+  {
+    "id": 1134447175,
+    "name": "trailofbits/skills",
+    "desc": "Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows",
+    "stars": 5573,
+    "url": "https://github.com/trailofbits/skills",
+    "lang": "Python",
+    "topics": [
+      "agent-skills"
+    ],
+    "created": "2026-01-14T18:23:21Z",
+    "updated": "2026-06-06T08:58:11Z",
+    "first_seen": "2026-06-06"
   },
   {
     "id": 164816947,
@@ -136106,6 +136676,18 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 760683276,
+    "name": "google-deepmind/gemma",
+    "desc": "Gemma open-weight LLM library, from Google DeepMind",
+    "stars": 5338,
+    "url": "https://github.com/google-deepmind/gemma",
+    "lang": "Python",
+    "topics": [],
+    "created": "2024-02-20T18:39:01Z",
+    "updated": "2026-06-06T10:12:57Z",
+    "first_seen": "2026-06-06"
+  },
+  {
     "id": 824541776,
     "name": "xerrors/Yuxi",
     "desc": "结合知识库、知识图谱管理的 多租户 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.",
@@ -137860,6 +138442,26 @@
     "created": "2014-07-31T21:02:22Z",
     "updated": "2026-05-18T23:11:27Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 95862535,
+    "name": "apple/coremltools",
+    "desc": "Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.",
+    "stars": 5278,
+    "url": "https://github.com/apple/coremltools",
+    "lang": "Python",
+    "topics": [
+      "coreml",
+      "coremltools",
+      "machine-learning",
+      "model-conversion",
+      "model-converter",
+      "pytorch",
+      "tensorflow"
+    ],
+    "created": "2017-06-30T07:39:02Z",
+    "updated": "2026-06-06T04:49:31Z",
+    "first_seen": "2026-06-06"
   },
   {
     "id": 11391151,
@@ -140390,6 +140992,39 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 88980374,
+    "name": "OWASP/Nettacker",
+    "desc": "Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management",
+    "stars": 5217,
+    "url": "https://github.com/OWASP/Nettacker",
+    "lang": "Python",
+    "topics": [
+      "automation",
+      "bruteforce",
+      "cve",
+      "hacking-tools",
+      "information-gathering",
+      "network-security",
+      "owasp",
+      "penetration-testing",
+      "penetration-testing-framework",
+      "pentesting",
+      "pentesting-tools",
+      "portscanner",
+      "python",
+      "recon",
+      "scanner",
+      "security",
+      "security-tools",
+      "vulnerability-management",
+      "vulnerability-scanner",
+      "vulnerability-scanners"
+    ],
+    "created": "2017-04-21T12:14:35Z",
+    "updated": "2026-06-06T03:25:12Z",
+    "first_seen": "2026-06-06"
+  },
+  {
     "id": 228942508,
     "name": "charmbracelet/wish",
     "desc": "Make SSH apps, just like that! 💫",
@@ -142866,6 +143501,26 @@
     "first_seen": "2026-06-05"
   },
   {
+    "id": 22937749,
+    "name": "rasbt/mlxtend",
+    "desc": "A library of extension and helper modules for Python's data analysis and machine learning libraries.",
+    "stars": 5150,
+    "url": "https://github.com/rasbt/mlxtend",
+    "lang": "Python",
+    "topics": [
+      "association-rules",
+      "data-mining",
+      "data-science",
+      "machine-learning",
+      "python",
+      "supervised-learning",
+      "unsupervised-learning"
+    ],
+    "created": "2014-08-14T01:56:16Z",
+    "updated": "2026-06-06T00:59:44Z",
+    "first_seen": "2026-06-06"
+  },
+  {
     "id": 2400938,
     "name": "asmuth/clip",
     "desc": "Create charts from the command line",
@@ -143830,6 +144485,22 @@
     "created": "2012-02-13T14:00:07Z",
     "updated": "2026-05-15T11:37:28Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 11639637,
+    "name": "fonttools/fonttools",
+    "desc": "A library to manipulate font files from Python.",
+    "stars": 5126,
+    "url": "https://github.com/fonttools/fonttools",
+    "lang": "Python",
+    "topics": [
+      "fonts",
+      "opentype",
+      "python"
+    ],
+    "created": "2013-07-24T16:28:35Z",
+    "updated": "2026-06-05T22:18:54Z",
+    "first_seen": "2026-06-06"
   },
   {
     "id": 6830846,
