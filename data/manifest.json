@@ -67175,6 +67175,29 @@
     "first_seen": "2026-05-31"
   },
   {
+    "id": 98103322,
+    "name": "zhoutaoo/SpringCloud",
+    "desc": "Opensabre是基于SpringCloud2023的微服务开发平台，整合了Spring Security、Springcloud Alibaba等组件。  包含了基础的RBAC权限管理、授权认证、网关管理、服务治理、审计日志等系统管理基础应用。  定义了相关开发规范、风格并落地在服务框架层，开箱即用，支持Docker、Kubenetes的部署。  让项目开发人员快速进入业务开发，而不需过多时间花费在基础架构搭建和编码风格规范上。  目标是建立一套金融级、高安全性的微服务解决方案。",
+    "stars": 8934,
+    "url": "https://github.com/zhoutaoo/SpringCloud",
+    "lang": "-",
+    "topics": [
+      "feign-client",
+      "jetcache",
+      "nacos",
+      "oauth2",
+      "sentinel",
+      "skywalking",
+      "spring-cloud-gateway",
+      "spring-security",
+      "springboot",
+      "springcloud"
+    ],
+    "created": "2017-07-23T14:28:08Z",
+    "updated": "2026-06-07T09:39:59Z",
+    "first_seen": "2026-06-07"
+  },
+  {
     "id": 734957,
     "name": "kelektiv/node-cron",
     "desc": "Cron for NodeJS.",
@@ -72953,6 +72976,39 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 132129752,
+    "name": "microsoft/presidio",
+    "desc": "An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines.",
+    "stars": 8477,
+    "url": "https://github.com/microsoft/presidio",
+    "lang": "Python",
+    "topics": [
+      "anonymization",
+      "data-anonymization",
+      "data-masking",
+      "data-obfuscation",
+      "data-privacy",
+      "data-redaction",
+      "de-identification",
+      "guardrails",
+      "image-redactor",
+      "named-entity-recognition",
+      "nlp",
+      "personally-identifiable-information",
+      "phi",
+      "pii",
+      "pii-detection",
+      "privacy",
+      "python",
+      "sensitive-data",
+      "spacy",
+      "transformers"
+    ],
+    "created": "2018-05-04T11:08:58Z",
+    "updated": "2026-06-07T10:37:33Z",
+    "first_seen": "2026-06-07"
+  },
+  {
     "id": 11452538,
     "name": "prometheus/alertmanager",
     "desc": "Prometheus Alertmanager",
@@ -76918,6 +76974,24 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 95995403,
+    "name": "lmcinnes/umap",
+    "desc": "Uniform Manifold Approximation and Projection",
+    "stars": 8200,
+    "url": "https://github.com/lmcinnes/umap",
+    "lang": "Python",
+    "topics": [
+      "dimensionality-reduction",
+      "machine-learning",
+      "topological-data-analysis",
+      "umap",
+      "visualization"
+    ],
+    "created": "2017-07-02T01:11:17Z",
+    "updated": "2026-06-07T05:11:03Z",
+    "first_seen": "2026-06-07"
+  },
+  {
     "id": 791124680,
     "name": "TeamWiseFlow/wiseflow",
     "desc": "为你 7*24 在线搞钱的“云上牛马”团队",
@@ -79051,6 +79125,39 @@
     "created": "2019-06-04T11:40:44Z",
     "updated": "2026-05-18T14:30:10Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 106080065,
+    "name": "shenweichen/DeepCTR",
+    "desc": "Easy-to-use,Modular and Extendible package of deep-learning based CTR models .",
+    "stars": 8035,
+    "url": "https://github.com/shenweichen/DeepCTR",
+    "lang": "Python",
+    "topics": [
+      "autoint",
+      "click-through-rate",
+      "ctr",
+      "deep-learning",
+      "deepcross",
+      "deepfm",
+      "deepinterestevolutionnetwork",
+      "deepinterestnetwork",
+      "dien",
+      "din",
+      "esmm",
+      "factorization-machines",
+      "ffm",
+      "fgcnn",
+      "mlr",
+      "mmoe",
+      "nfm",
+      "ple",
+      "recommendation",
+      "xdeepfm"
+    ],
+    "created": "2017-10-07T07:40:37Z",
+    "updated": "2026-06-06T17:14:31Z",
+    "first_seen": "2026-06-07"
   },
   {
     "id": 1142423471,
@@ -81328,6 +81435,34 @@
     "first_seen": "2026-06-02"
   },
   {
+    "id": 806192576,
+    "name": "Upsonic/Upsonic",
+    "desc": "Build autonomous AI agents in Python.",
+    "stars": 7874,
+    "url": "https://github.com/Upsonic/Upsonic",
+    "lang": "Python",
+    "topics": [
+      "agent",
+      "agent-framework",
+      "autonomous-agent",
+      "autonomous-agents",
+      "claude",
+      "computer-use",
+      "llms",
+      "mcp",
+      "model-context-protocol",
+      "openai",
+      "openclaw",
+      "rag",
+      "reliability",
+      "ucp",
+      "universal-commerce-protocol"
+    ],
+    "created": "2024-05-26T16:23:38Z",
+    "updated": "2026-06-07T00:31:03Z",
+    "first_seen": "2026-06-07"
+  },
+  {
     "id": 3217621,
     "name": "phpmyadmin/phpmyadmin",
     "desc": "A web interface for MySQL and MariaDB",
@@ -81448,6 +81583,26 @@
     "created": "2024-07-01T09:30:17Z",
     "updated": "2026-05-18T21:50:03Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 28710753,
+    "name": "sphinx-doc/sphinx",
+    "desc": "The Sphinx documentation generator",
+    "stars": 7865,
+    "url": "https://github.com/sphinx-doc/sphinx",
+    "lang": "Python",
+    "topics": [
+      "docs",
+      "documentation",
+      "documentation-tool",
+      "markdown",
+      "python",
+      "restructuredtext",
+      "sphinx"
+    ],
+    "created": "2015-01-02T10:53:28Z",
+    "updated": "2026-06-07T10:06:22Z",
+    "first_seen": "2026-06-07"
   },
   {
     "id": 161980047,
@@ -83783,6 +83938,18 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 167310144,
+    "name": "abbodi1406/vcredist",
+    "desc": "AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes",
+    "stars": 7736,
+    "url": "https://github.com/abbodi1406/vcredist",
+    "lang": "VBScript",
+    "topics": [],
+    "created": "2019-01-24T05:42:03Z",
+    "updated": "2026-06-07T10:36:26Z",
+    "first_seen": "2026-06-07"
+  },
+  {
     "id": 119693982,
     "name": "jamiebuilds/unstated",
     "desc": "State so simple, it goes without saying",
@@ -85210,6 +85377,27 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 247521290,
+    "name": "ColinLeung-NiloCat/UnityURPToonLitShaderExample",
+    "desc": "A very simple toon lit shader example, for you to learn writing custom lit shader in Unity URP",
+    "stars": 7648,
+    "url": "https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample",
+    "lang": "ShaderLab",
+    "topics": [
+      "character",
+      "hlsl",
+      "lit",
+      "outline",
+      "shader",
+      "toon",
+      "unity",
+      "urp"
+    ],
+    "created": "2020-03-15T17:58:10Z",
+    "updated": "2026-06-06T18:26:25Z",
+    "first_seen": "2026-06-07"
+  },
+  {
     "id": 26022284,
     "name": "cryptpad/cryptpad",
     "desc": "Collaborative office suite, end-to-end encrypted and open-source.",
@@ -86320,6 +86508,37 @@
     "created": "2020-07-24T09:36:51Z",
     "updated": "2026-05-18T11:11:27Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 230800939,
+    "name": "AdnanHodzic/auto-cpufreq",
+    "desc": "Automatic CPU speed & power optimizer for Linux",
+    "stars": 7574,
+    "url": "https://github.com/AdnanHodzic/auto-cpufreq",
+    "lang": "Python",
+    "topics": [
+      "automatic",
+      "battery",
+      "boost",
+      "cli",
+      "cpu",
+      "daemon",
+      "frequency",
+      "governor",
+      "hacktoberfest",
+      "laptop",
+      "linux",
+      "management",
+      "monitor",
+      "monitoring",
+      "power",
+      "speed",
+      "tool",
+      "turbo"
+    ],
+    "created": "2019-12-29T20:39:56Z",
+    "updated": "2026-06-07T06:47:04Z",
+    "first_seen": "2026-06-07"
   },
   {
     "id": 44109745,
@@ -102365,6 +102584,18 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 850651449,
+    "name": "valeman/Awesome_Math_Books",
+    "desc": "",
+    "stars": 6651,
+    "url": "https://github.com/valeman/Awesome_Math_Books",
+    "lang": "-",
+    "topics": [],
+    "created": "2024-09-01T11:55:44Z",
+    "updated": "2026-06-07T10:08:33Z",
+    "first_seen": "2026-06-07"
+  },
+  {
     "id": 20723841,
     "name": "filamentgroup/loadCSS",
     "desc": "Load CSS asynchronously",
@@ -103960,6 +104191,18 @@
     "created": "2022-12-15T07:35:18Z",
     "updated": "2026-05-18T15:02:41Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 704728050,
+    "name": "mesop-dev/mesop",
+    "desc": "Rapidly build AI apps in Python",
+    "stars": 6576,
+    "url": "https://github.com/mesop-dev/mesop",
+    "lang": "Python",
+    "topics": [],
+    "created": "2023-10-13T23:24:32Z",
+    "updated": "2026-06-07T08:20:54Z",
+    "first_seen": "2026-06-07"
   },
   {
     "id": 67935656,
@@ -108930,6 +109173,18 @@
     "created": "2023-05-05T04:21:56Z",
     "updated": "2026-05-18T21:25:22Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 850490697,
+    "name": "ed-donner/llm_engineering",
+    "desc": "Repo to accompany my mastering LLM engineering course",
+    "stars": 6342,
+    "url": "https://github.com/ed-donner/llm_engineering",
+    "lang": "Jupyter Notebook",
+    "topics": [],
+    "created": "2024-08-31T23:24:51Z",
+    "updated": "2026-06-07T09:14:54Z",
+    "first_seen": "2026-06-07"
   },
   {
     "id": 945579718,
@@ -118195,6 +118450,27 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 622576337,
+    "name": "hect0x7/JMComic-Crawler-Python",
+    "desc": "Python API for JMComic | 提供Python API访问禁漫天堂，同时支持网页端和移动端 | 禁漫天堂GitHub Actions下载器🚀",
+    "stars": 5952,
+    "url": "https://github.com/hect0x7/JMComic-Crawler-Python",
+    "lang": "Python",
+    "topics": [
+      "18comic",
+      "crawler",
+      "downloader",
+      "github-actions",
+      "jmcomic",
+      "pypi",
+      "python",
+      "readthedocs"
+    ],
+    "created": "2023-04-02T14:21:48Z",
+    "updated": "2026-06-07T10:23:30Z",
+    "first_seen": "2026-06-07"
+  },
+  {
     "id": 809673506,
     "name": "BrainBlend-AI/atomic-agents",
     "desc": "Building AI agents, atomically",
@@ -124503,6 +124779,30 @@
     "first_seen": "2026-05-31"
   },
   {
+    "id": 501843211,
+    "name": "charliedream1/ai_quant_trade",
+    "desc": "股票AI操盘手：从学习、模拟到实盘，一站式平台。包含股票知识、策略实例、大模型、因子挖掘、传统策略、机器学习、深度学习、强化学习、图网络、高频交易、C++部署和聚宽实例代码等，可以方便学习、模拟及实盘交易",
+    "stars": 5727,
+    "url": "https://github.com/charliedream1/ai_quant_trade",
+    "lang": "Jupyter Notebook",
+    "topics": [
+      "cpp",
+      "jupyter-notebook",
+      "keras",
+      "mlflow",
+      "python",
+      "pytorch",
+      "sklearn",
+      "tensorflow",
+      "trading-bot",
+      "trading-platform",
+      "trading-strategies"
+    ],
+    "created": "2022-06-09T23:55:44Z",
+    "updated": "2026-06-07T02:12:36Z",
+    "first_seen": "2026-06-07"
+  },
+  {
     "id": 220875250,
     "name": "201206030/novel",
     "desc": "novel 是一套基于时下最新 Java 技术栈 Spring Boot 3 + Vue 3 开发的前后端分离学习型小说项目，配备保姆级教程手把手教你从零开始开发上线一套生产级别的 Java 系统，由小说门户系统、作家后台管理系统、平台后台管理系统等多个子系统构成。包括小说推荐、作品检索、小说排行榜、小说阅读、小说评论、会员中心、作家专区、充值订阅、新闻发布等功能。",
@@ -130795,6 +131095,23 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 71055474,
+    "name": "nix-darwin/nix-darwin",
+    "desc": "Manage your macOS using Nix",
+    "stars": 5519,
+    "url": "https://github.com/nix-darwin/nix-darwin",
+    "lang": "Nix",
+    "topics": [
+      "darwin",
+      "dotfiles",
+      "launchd",
+      "nix"
+    ],
+    "created": "2016-10-16T14:26:46Z",
+    "updated": "2026-06-07T09:37:53Z",
+    "first_seen": "2026-06-07"
+  },
+  {
     "id": 6621471,
     "name": "Dash-Industry-Forum/dash.js",
     "desc": "A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.",
@@ -132697,6 +133014,32 @@
     "created": "2020-04-03T12:24:15Z",
     "updated": "2026-05-18T23:07:15Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 338791379,
+    "name": "permitio/opal",
+    "desc": "Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)",
+    "stars": 5459,
+    "url": "https://github.com/permitio/opal",
+    "lang": "Python",
+    "topics": [
+      "authorization",
+      "cedar",
+      "hacktoberfest",
+      "microservices",
+      "opa",
+      "opal",
+      "open-policy-agent",
+      "openfga",
+      "policy",
+      "policy-as-code",
+      "pubsub",
+      "realtime",
+      "websocket"
+    ],
+    "created": "2021-02-14T11:37:31Z",
+    "updated": "2026-06-07T09:30:39Z",
+    "first_seen": "2026-06-07"
   },
   {
     "id": 1016267036,
@@ -136416,6 +136759,18 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 52459213,
+    "name": "bcpierce00/unison",
+    "desc": "Unison file synchronizer",
+    "stars": 5346,
+    "url": "https://github.com/bcpierce00/unison",
+    "lang": "OCaml",
+    "topics": [],
+    "created": "2016-02-24T17:00:05Z",
+    "updated": "2026-06-07T10:12:29Z",
+    "first_seen": "2026-06-07"
+  },
+  {
     "id": 198788945,
     "name": "Splidejs/splide",
     "desc": "Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.",
@@ -139082,6 +139437,18 @@
     "created": "2016-06-06T02:09:03Z",
     "updated": "2026-05-14T07:48:31Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 952632217,
+    "name": "ed-donner/agents",
+    "desc": "Repo for the Complete Agentic AI Engineering Course",
+    "stars": 5265,
+    "url": "https://github.com/ed-donner/agents",
+    "lang": "Jupyter Notebook",
+    "topics": [],
+    "created": "2025-03-21T15:53:02Z",
+    "updated": "2026-06-07T07:19:00Z",
+    "first_seen": "2026-06-07"
   },
   {
     "id": 14831922,
@@ -144337,6 +144704,26 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 282550237,
+    "name": "kepano/obsidian-minimal",
+    "desc": "A distraction-free and highly customizable theme for Obsidian.",
+    "stars": 5128,
+    "url": "https://github.com/kepano/obsidian-minimal",
+    "lang": "CSS",
+    "topics": [
+      "dark-mode",
+      "dark-theme",
+      "light-theme",
+      "obsidian",
+      "obsidian-md",
+      "obsidian-theme",
+      "theme"
+    ],
+    "created": "2020-07-26T00:52:24Z",
+    "updated": "2026-06-07T03:29:00Z",
+    "first_seen": "2026-06-07"
+  },
+  {
     "id": 4812336,
     "name": "square/otto",
     "desc": "An enhanced Guava-based event bus with emphasis on Android support.",
@@ -148924,6 +149311,18 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 1032419366,
+    "name": "gepa-ai/gepa",
+    "desc": "Optimize prompts, code, and more with AI-powered Reflective Text Evolution",
+    "stars": 5018,
+    "url": "https://github.com/gepa-ai/gepa",
+    "lang": "Jupyter Notebook",
+    "topics": [],
+    "created": "2025-08-05T09:26:27Z",
+    "updated": "2026-06-07T10:30:08Z",
+    "first_seen": "2026-06-07"
+  },
+  {
     "id": 242956320,
     "name": "notion-enhancer/notion-enhancer",
     "desc": "An enhancer/customiser for the all-in-one productivity workspace Notion",
@@ -149148,6 +149547,25 @@
     "created": "2020-09-13T16:50:40Z",
     "updated": "2026-06-05T09:02:55Z",
     "first_seen": "2026-06-05"
+  },
+  {
+    "id": 1054790989,
+    "name": "openchamber/openchamber",
+    "desc": "Desktop and web interface for OpenCode AI agent",
+    "stars": 5012,
+    "url": "https://github.com/openchamber/openchamber",
+    "lang": "TypeScript",
+    "topics": [
+      "ai",
+      "opencode",
+      "opencode-ai",
+      "opencode-app",
+      "opencode-ui",
+      "opencode-web"
+    ],
+    "created": "2025-09-11T10:34:59Z",
+    "updated": "2026-06-07T10:16:41Z",
+    "first_seen": "2026-06-07"
   },
   {
     "id": 310659501,
