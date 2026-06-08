@@ -59643,6 +59643,18 @@
     "first_seen": "2026-06-03"
   },
   {
+    "id": 65019435,
+    "name": "juliocesarfort/public-pentesting-reports",
+    "desc": "A list of public penetration test reports published by several consulting firms and academic security groups.",
+    "stars": 9577,
+    "url": "https://github.com/juliocesarfort/public-pentesting-reports",
+    "lang": "HTML",
+    "topics": [],
+    "created": "2016-08-05T13:11:22Z",
+    "updated": "2026-06-07T18:38:27Z",
+    "first_seen": "2026-06-08"
+  },
+  {
     "id": 517736014,
     "name": "aandrew-me/ytDownloader",
     "desc": "Desktop App for downloading Videos and Audios from hundreds of sites",
@@ -67273,6 +67285,38 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 77290612,
+    "name": "We5ter/Scanners-Box",
+    "desc": "A powerful and open-source toolkit for hackers and security automation - 安全行业从业者自研开源扫描器合辑",
+    "stars": 8929,
+    "url": "https://github.com/We5ter/Scanners-Box",
+    "lang": "-",
+    "topics": [
+      "apk-analysis",
+      "binary-analysis",
+      "code-analyzer",
+      "devsecops",
+      "exploitation-framework",
+      "hacker-tools",
+      "information-security",
+      "malware-analysis",
+      "penetration-testing",
+      "pentesting-tools",
+      "privacy-compliance",
+      "redteam-tools",
+      "security-audit",
+      "security-automation",
+      "smart-contracts",
+      "static-analysis",
+      "vulnerability-scanners",
+      "wifi-hacking",
+      "wifi-security"
+    ],
+    "created": "2016-12-24T16:07:50Z",
+    "updated": "2026-06-08T02:26:15Z",
+    "first_seen": "2026-06-08"
+  },
+  {
     "id": 24628923,
     "name": "navasmdc/MaterialDesignLibrary",
     "desc": "This is a library with components of Android L to you use in android 2.2",
@@ -67286,6 +67330,25 @@
     "created": "2014-09-30T07:37:17Z",
     "updated": "2026-05-16T04:28:17Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 25212911,
+    "name": "davidsonfellipe/awesome-wpo",
+    "desc": "A curated list of Web Performance Optimization. ",
+    "stars": 8926,
+    "url": "https://github.com/davidsonfellipe/awesome-wpo",
+    "lang": "-",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "list",
+      "webperf",
+      "webperf-metrics",
+      "webperformance"
+    ],
+    "created": "2014-10-14T15:18:35Z",
+    "updated": "2026-06-08T08:58:19Z",
+    "first_seen": "2026-06-08"
   },
   {
     "id": 26417283,
@@ -68130,6 +68193,29 @@
     "created": "2025-03-31T08:56:05Z",
     "updated": "2026-06-05T09:46:45Z",
     "first_seen": "2026-06-05"
+  },
+  {
+    "id": 50406544,
+    "name": "sohutv/cachecloud",
+    "desc": "搜狐视频(sohu tv)Redis私有云平台 ：支持Redis多种架构(Standalone、Sentinel、Cluster)高效管理、有效降低大规模redis运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。(CacheCloud is a Redis cloud management platform. It supports Standalone, Sentinel, and Cluster architectures for Redis, effectively reducing large-scale Redis operation and maintenance costs, and improving resource management and utilization. The platform provides rapid construction/migration, operation and maintenance management, elastic scaling, statistical monitoring, client integration and access and other functions)",
+    "stars": 8854,
+    "url": "https://github.com/sohutv/cachecloud",
+    "lang": "HTML",
+    "topics": [
+      "cachecloud",
+      "java",
+      "jedis",
+      "lettuce",
+      "redis",
+      "redis-cache",
+      "redis-client",
+      "redis-cluster",
+      "redis-monitor",
+      "redis-sentinel"
+    ],
+    "created": "2016-01-26T05:46:01Z",
+    "updated": "2026-06-08T09:53:43Z",
+    "first_seen": "2026-06-08"
   },
   {
     "id": 87990209,
@@ -69890,6 +69976,38 @@
     "created": "2023-07-07T10:31:24Z",
     "updated": "2026-05-18T13:01:55Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 104612770,
+    "name": "nhivp/Awesome-Embedded",
+    "desc": "A curated list of awesome embedded programming.",
+    "stars": 8683,
+    "url": "https://github.com/nhivp/Awesome-Embedded",
+    "lang": "-",
+    "topics": [
+      "ai",
+      "autosar",
+      "awesome",
+      "beaglebone",
+      "bootloader",
+      "embedded",
+      "embedded-ai",
+      "embedded-gui",
+      "freertos",
+      "linux-programming",
+      "machine-learning",
+      "microcontroller",
+      "msp430",
+      "operating-systems",
+      "raspberry-pi",
+      "rtos",
+      "stm32",
+      "tiva-c-series",
+      "tm4c123"
+    ],
+    "created": "2017-09-24T02:23:36Z",
+    "updated": "2026-06-08T09:53:58Z",
+    "first_seen": "2026-06-08"
   },
   {
     "id": 96361940,
@@ -77173,6 +77291,32 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 871368615,
+    "name": "NVlabs/Sana",
+    "desc": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
+    "stars": 8179,
+    "url": "https://github.com/NVlabs/Sana",
+    "lang": "Python",
+    "topics": [
+      "diffusion",
+      "dit",
+      "linear-transformer",
+      "nvfp4",
+      "pytorch",
+      "reinforcement-learning",
+      "sana",
+      "system-algorithm-deisgn",
+      "text-to-image-generation",
+      "text-to-video",
+      "transformers",
+      "video-generation",
+      "world-models"
+    ],
+    "created": "2024-10-11T20:19:45Z",
+    "updated": "2026-06-08T12:05:49Z",
+    "first_seen": "2026-06-08"
+  },
+  {
     "id": 108278,
     "name": "chef/chef",
     "desc": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale",
@@ -77958,6 +78102,22 @@
     "created": "2017-09-20T08:33:06Z",
     "updated": "2026-05-17T03:57:49Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 103826539,
+    "name": "openatx/uiautomator2",
+    "desc": "Android Uiautomator2 Python Wrapper",
+    "stars": 8125,
+    "url": "https://github.com/openatx/uiautomator2",
+    "lang": "Python",
+    "topics": [
+      "python",
+      "test",
+      "uiautomator"
+    ],
+    "created": "2017-09-17T12:20:42Z",
+    "updated": "2026-06-08T08:40:44Z",
+    "first_seen": "2026-06-08"
   },
   {
     "id": 161691324,
@@ -78911,6 +79071,18 @@
     "created": "2025-04-13T15:34:48Z",
     "updated": "2026-05-18T13:31:06Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 560046427,
+    "name": "score-spec/spec",
+    "desc": "The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments.",
+    "stars": 8049,
+    "url": "https://github.com/score-spec/spec",
+    "lang": "Makefile",
+    "topics": [],
+    "created": "2022-10-31T16:17:28Z",
+    "updated": "2026-06-08T01:46:58Z",
+    "first_seen": "2026-06-08"
   },
   {
     "id": 805916722,
@@ -84030,6 +84202,39 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 172289097,
+    "name": "smacke/ffsubsync",
+    "desc": "Automagically synchronize subtitles with video.",
+    "stars": 7732,
+    "url": "https://github.com/smacke/ffsubsync",
+    "lang": "Python",
+    "topics": [
+      "alignment",
+      "audio",
+      "caption",
+      "captions",
+      "fast-fourier-transform",
+      "ffmpeg",
+      "fft",
+      "speech-detection",
+      "srt",
+      "srt-subtitles",
+      "string-alignment",
+      "subtitle",
+      "subtitles",
+      "sync",
+      "synchronization",
+      "vad",
+      "video",
+      "vlc",
+      "vlc-media-player",
+      "voice-activity-detection"
+    ],
+    "created": "2019-02-24T02:56:44Z",
+    "updated": "2026-06-07T19:34:21Z",
+    "first_seen": "2026-06-08"
+  },
+  {
     "id": 450871432,
     "name": "tauri-apps/awesome-tauri",
     "desc": "🚀 Awesome Tauri Apps, Plugins and Resources",
@@ -84364,6 +84569,18 @@
     "created": "2018-07-15T21:37:37Z",
     "updated": "2026-05-18T02:43:02Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 672002598,
+    "name": "weaviate/Verba",
+    "desc": "Retrieval Augmented Generation (RAG) chatbot powered by Weaviate",
+    "stars": 7716,
+    "url": "https://github.com/weaviate/Verba",
+    "lang": "Python",
+    "topics": [],
+    "created": "2023-07-28T16:53:42Z",
+    "updated": "2026-06-08T09:25:38Z",
+    "first_seen": "2026-06-08"
   },
   {
     "id": 140669486,
@@ -85324,6 +85541,27 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 285134677,
+    "name": "gaogaotiantian/viztracer",
+    "desc": "A debugging and profiling tool that can trace and visualize python code execution",
+    "stars": 7654,
+    "url": "https://github.com/gaogaotiantian/viztracer",
+    "lang": "Python",
+    "topics": [
+      "debugging",
+      "flamegraph",
+      "logging",
+      "profiling",
+      "python",
+      "python3",
+      "tracer",
+      "visualization"
+    ],
+    "created": "2020-08-05T00:29:56Z",
+    "updated": "2026-06-08T11:40:47Z",
+    "first_seen": "2026-06-08"
+  },
+  {
     "id": 36470590,
     "name": "chrisbanes/cheesesquare",
     "desc": "Demos the new Android Design library.",
@@ -85689,6 +85927,18 @@
     "created": "2017-11-23T09:40:13Z",
     "updated": "2026-05-14T01:52:35Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 485348105,
+    "name": "guchangan1/All-Defense-Tool",
+    "desc": "本项目集成了全网优秀的攻防武器工具项目，包含自动化利用，子域名、目录扫描、端口扫描等信息收集工具，各大中间件、cms、OA漏洞利用工具，爆破工具、内网横向、免杀、社工钓鱼以及应急响应、甲方安全资料等其他安全攻防资料。",
+    "stars": 7635,
+    "url": "https://github.com/guchangan1/All-Defense-Tool",
+    "lang": "Python",
+    "topics": [],
+    "created": "2022-04-25T11:45:06Z",
+    "updated": "2026-06-08T09:08:56Z",
+    "first_seen": "2026-06-08"
   },
   {
     "id": 57261731,
@@ -86430,6 +86680,20 @@
     "created": "2018-05-11T22:07:48Z",
     "updated": "2026-05-18T21:21:13Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 2337852,
+    "name": "hyperopt/hyperopt",
+    "desc": "Distributed Asynchronous Hyperparameter Optimization in Python",
+    "stars": 7580,
+    "url": "https://github.com/hyperopt/hyperopt",
+    "lang": "Python",
+    "topics": [
+      "hacktoberfest"
+    ],
+    "created": "2011-09-06T22:24:59Z",
+    "updated": "2026-06-08T10:08:20Z",
+    "first_seen": "2026-06-08"
   },
   {
     "id": 39211337,
@@ -87417,6 +87681,38 @@
     "created": "2015-01-08T02:10:24Z",
     "updated": "2026-05-18T18:30:47Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 1460612,
+    "name": "ninenines/cowboy",
+    "desc": "Small, fast, modern HTTP server for Erlang/OTP.",
+    "stars": 7505,
+    "url": "https://github.com/ninenines/cowboy",
+    "lang": "Erlang",
+    "topics": [
+      "cowboy",
+      "erlang",
+      "functional",
+      "high-performance",
+      "http",
+      "http-server",
+      "http2",
+      "http2-server",
+      "http3",
+      "http3-server",
+      "https",
+      "production-ready",
+      "rest",
+      "web",
+      "web-framework",
+      "websocket",
+      "websocket-server",
+      "websockets",
+      "webtransport"
+    ],
+    "created": "2011-03-09T19:55:52Z",
+    "updated": "2026-06-08T12:38:45Z",
+    "first_seen": "2026-06-08"
   },
   {
     "id": 531313322,
@@ -91142,6 +91438,31 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 959543974,
+    "name": "yzfly/Awesome-MCP-ZH",
+    "desc": "MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients",
+    "stars": 7243,
+    "url": "https://github.com/yzfly/Awesome-MCP-ZH",
+    "lang": "-",
+    "topics": [
+      "claude",
+      "claude-mcp",
+      "deepseek",
+      "deepseek-mcp",
+      "mcp",
+      "mcp-clients",
+      "mcp-host",
+      "mcp-server",
+      "mcp-servers",
+      "mcp-servers-directory",
+      "mcp-tools",
+      "qwen-mcp"
+    ],
+    "created": "2025-04-03T00:38:51Z",
+    "updated": "2026-06-08T12:28:01Z",
+    "first_seen": "2026-06-08"
+  },
+  {
     "id": 767183985,
     "name": "azahar-emu/azahar",
     "desc": "An open-source 3DS emulator project based on Citra.",
@@ -92657,6 +92978,26 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 100263581,
+    "name": "sammchardy/python-binance",
+    "desc": "Binance Exchange API python implementation for automated trading",
+    "stars": 7166,
+    "url": "https://github.com/sammchardy/python-binance",
+    "lang": "Python",
+    "topics": [
+      "api",
+      "binance",
+      "cryptocurrency",
+      "python",
+      "python2",
+      "python3",
+      "websockets"
+    ],
+    "created": "2017-08-14T12:09:45Z",
+    "updated": "2026-06-08T11:48:36Z",
+    "first_seen": "2026-06-08"
+  },
+  {
     "id": 110274488,
     "name": "facebook/pyre-check",
     "desc": "Performant type-checking for python.",
@@ -93965,6 +94306,24 @@
     "created": "2010-06-24T19:35:22Z",
     "updated": "2026-05-12T18:43:44Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 23011147,
+    "name": "scikit-learn-contrib/imbalanced-learn",
+    "desc": " A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning",
+    "stars": 7106,
+    "url": "https://github.com/scikit-learn-contrib/imbalanced-learn",
+    "lang": "Python",
+    "topics": [
+      "data-analysis",
+      "data-science",
+      "machine-learning",
+      "python",
+      "statistics"
+    ],
+    "created": "2014-08-16T05:08:26Z",
+    "updated": "2026-06-07T21:28:11Z",
+    "first_seen": "2026-06-08"
   },
   {
     "id": 304243554,
@@ -104398,6 +104757,24 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 501990676,
+    "name": "SunWeb3Sec/DeFiHackLabs",
+    "desc": "Reproduce DeFi hacked incidents using Foundry.",
+    "stars": 6570,
+    "url": "https://github.com/SunWeb3Sec/DeFiHackLabs",
+    "lang": "Solidity",
+    "topics": [
+      "defi",
+      "ethereum",
+      "foundry",
+      "solidity",
+      "web3"
+    ],
+    "created": "2022-06-10T09:57:11Z",
+    "updated": "2026-06-08T09:32:58Z",
+    "first_seen": "2026-06-08"
+  },
+  {
     "id": 142908872,
     "name": "axa-group/nlp.js",
     "desc": "An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more",
@@ -106184,6 +106561,21 @@
     "created": "2023-08-01T09:16:41Z",
     "updated": "2026-06-02T08:57:33Z",
     "first_seen": "2026-06-02"
+  },
+  {
+    "id": 915233417,
+    "name": "punkpeye/awesome-mcp-clients",
+    "desc": "A collection of MCP clients.",
+    "stars": 6470,
+    "url": "https://github.com/punkpeye/awesome-mcp-clients",
+    "lang": "-",
+    "topics": [
+      "clients",
+      "mcp"
+    ],
+    "created": "2025-01-11T10:11:05Z",
+    "updated": "2026-06-08T09:47:48Z",
+    "first_seen": "2026-06-08"
   },
   {
     "id": 45703884,
@@ -128394,6 +128786,18 @@
     "first_seen": "2026-05-31"
   },
   {
+    "id": 31285942,
+    "name": "ros2/ros2",
+    "desc": "The Robot Operating System, is a meta operating system for robots.",
+    "stars": 5600,
+    "url": "https://github.com/ros2/ros2",
+    "lang": "-",
+    "topics": [],
+    "created": "2015-02-24T22:46:55Z",
+    "updated": "2026-06-08T09:34:04Z",
+    "first_seen": "2026-06-08"
+  },
+  {
     "id": 20394581,
     "name": "daimajia/AndroidImageSlider",
     "desc": "An amazing and convenient Android image slider.",
@@ -129155,6 +129559,18 @@
     "created": "2026-03-16T12:41:46Z",
     "updated": "2026-06-04T10:52:01Z",
     "first_seen": "2026-06-04"
+  },
+  {
+    "id": 618000065,
+    "name": "dnhkng/GLaDOS",
+    "desc": "This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve.",
+    "stars": 5579,
+    "url": "https://github.com/dnhkng/GLaDOS",
+    "lang": "Python",
+    "topics": [],
+    "created": "2023-03-23T14:49:16Z",
+    "updated": "2026-06-08T12:31:10Z",
+    "first_seen": "2026-06-08"
   },
   {
     "id": 195856796,
@@ -133931,6 +134347,32 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 762224673,
+    "name": "amazon-science/chronos-forecasting",
+    "desc": "Chronos: Pretrained Models for Time Series Forecasting",
+    "stars": 5432,
+    "url": "https://github.com/amazon-science/chronos-forecasting",
+    "lang": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "forecasting",
+      "foundation-models",
+      "huggingface",
+      "huggingface-transformers",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "pretrained-models",
+      "time-series",
+      "time-series-forecasting",
+      "timeseries",
+      "transformers"
+    ],
+    "created": "2024-02-23T10:35:42Z",
+    "updated": "2026-06-08T10:52:12Z",
+    "first_seen": "2026-06-08"
+  },
+  {
     "id": 20831114,
     "name": "natefinch/lumberjack",
     "desc": "lumberjack is a log rolling package for Go",
@@ -134363,6 +134805,21 @@
     "created": "2017-03-16T14:34:53Z",
     "updated": "2026-05-18T12:13:39Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 1232669890,
+    "name": "microsoft/SkillOpt",
+    "desc": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
+    "stars": 5418,
+    "url": "https://github.com/microsoft/SkillOpt",
+    "lang": "Python",
+    "topics": [
+      "agent-skills",
+      "self-evolving-agents"
+    ],
+    "created": "2026-05-08T06:41:01Z",
+    "updated": "2026-06-08T12:43:32Z",
+    "first_seen": "2026-06-08"
   },
   {
     "id": 1791673,
@@ -135600,6 +136057,35 @@
     "created": "2015-04-29T17:21:37Z",
     "updated": "2026-05-18T11:36:09Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 35051828,
+    "name": "dev-sec/ansible-collection-hardening",
+    "desc": "This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL",
+    "stars": 5385,
+    "url": "https://github.com/dev-sec/ansible-collection-hardening",
+    "lang": "Jinja",
+    "topics": [
+      "ansible",
+      "ansible-collection",
+      "collection",
+      "devsec",
+      "hacktoberfest",
+      "hardening",
+      "linux",
+      "mysql-hardening",
+      "nginx",
+      "nginx-hardening",
+      "os-hardening",
+      "playbook",
+      "protection",
+      "role",
+      "ssh-hardening",
+      "sysctl"
+    ],
+    "created": "2015-05-04T18:26:56Z",
+    "updated": "2026-06-08T11:53:31Z",
+    "first_seen": "2026-06-08"
   },
   {
     "id": 103015070,
@@ -143429,6 +143915,24 @@
     "first_seen": "2026-05-31"
   },
   {
+    "id": 1241960226,
+    "name": "alibaba/open-code-review",
+    "desc": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "stars": 5163,
+    "url": "https://github.com/alibaba/open-code-review",
+    "lang": "Go",
+    "topics": [
+      "agent",
+      "code-review",
+      "code-review-assistant",
+      "harness",
+      "repository-level-context"
+    ],
+    "created": "2026-05-18T02:16:36Z",
+    "updated": "2026-06-08T12:45:38Z",
+    "first_seen": "2026-06-08"
+  },
+  {
     "id": 10655461,
     "name": "googleworkspace/apps-script-samples",
     "desc": "Apps Script samples for Google Workspace products.",
@@ -145819,6 +146323,25 @@
     "created": "2020-05-29T02:45:58Z",
     "updated": "2026-05-31T17:37:24Z",
     "first_seen": "2026-05-31"
+  },
+  {
+    "id": 106639043,
+    "name": "nashory/gans-awesome-applications",
+    "desc": "Curated list of awesome GAN applications and demo",
+    "stars": 5101,
+    "url": "https://github.com/nashory/gans-awesome-applications",
+    "lang": "-",
+    "topics": [
+      "applications",
+      "curated-list",
+      "demonstration",
+      "generative-adversarial-network",
+      "github",
+      "papers"
+    ],
+    "created": "2017-10-12T03:19:02Z",
+    "updated": "2026-06-08T10:39:30Z",
+    "first_seen": "2026-06-08"
   },
   {
     "id": 168555392,
@@ -148780,6 +149303,39 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 304836585,
+    "name": "mayswind/ezbookkeeping",
+    "desc": "A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.",
+    "stars": 5028,
+    "url": "https://github.com/mayswind/ezbookkeeping",
+    "lang": "Go",
+    "topics": [
+      "accounting",
+      "app",
+      "bookkeeping",
+      "docker",
+      "expense-manager",
+      "expense-tracker",
+      "expenses",
+      "finance",
+      "finance-management",
+      "finances",
+      "financial",
+      "golang",
+      "homelab",
+      "mobile",
+      "money",
+      "money-manager",
+      "personal-finance",
+      "self-hosted",
+      "typescript",
+      "vue"
+    ],
+    "created": "2020-10-17T08:54:02Z",
+    "updated": "2026-06-08T08:25:43Z",
+    "first_seen": "2026-06-08"
+  },
+  {
     "id": 2715669,
     "name": "bootboxjs/bootbox",
     "desc": "Wrappers for JavaScript alert(), confirm() and other flexible dialogs using Twitter's bootstrap framework",
@@ -149123,6 +149679,30 @@
     "created": "2016-03-10T03:45:12Z",
     "updated": "2026-05-18T19:39:53Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 271116132,
+    "name": "timschneeb/GalaxyBudsClient",
+    "desc": "Unofficial Galaxy Buds Manager for Windows, macOS, Linux, and Android",
+    "stars": 5023,
+    "url": "https://github.com/timschneeb/GalaxyBudsClient",
+    "lang": "C#",
+    "topics": [
+      "bluetooth",
+      "buds-live",
+      "buds-plus",
+      "buds-pro",
+      "earbuds",
+      "firmware",
+      "galaxy-buds",
+      "manager",
+      "reverse-engineering",
+      "rfcomm",
+      "samsung"
+    ],
+    "created": "2020-06-09T21:44:20Z",
+    "updated": "2026-06-07T15:04:54Z",
+    "first_seen": "2026-06-08"
   },
   {
     "id": 8757552,
