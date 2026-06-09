@@ -61881,6 +61881,27 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 102095278,
+    "name": "troxler/awesome-css-frameworks",
+    "desc": "List of awesome CSS frameworks in 2026",
+    "stars": 9370,
+    "url": "https://github.com/troxler/awesome-css-frameworks",
+    "lang": "CSS",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "collection",
+      "css",
+      "css-framework",
+      "framework",
+      "list",
+      "scss"
+    ],
+    "created": "2017-09-01T09:07:05Z",
+    "updated": "2026-06-09T06:41:57Z",
+    "first_seen": "2026-06-09"
+  },
+  {
     "id": 602270517,
     "name": "FMInference/FlexLLMGen",
     "desc": "Running large language models on a single GPU for throughput-oriented scenarios.",
@@ -63840,6 +63861,18 @@
     "created": "2015-01-11T17:17:12Z",
     "updated": "2026-05-18T16:18:00Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 898736877,
+    "name": "langchain-ai/local-deep-researcher",
+    "desc": "Fully local web research and report writing assistant",
+    "stars": 9208,
+    "url": "https://github.com/langchain-ai/local-deep-researcher",
+    "lang": "Python",
+    "topics": [],
+    "created": "2024-12-04T23:57:20Z",
+    "updated": "2026-06-09T10:51:47Z",
+    "first_seen": "2026-06-09"
   },
   {
     "id": 61567304,
@@ -66510,6 +66543,18 @@
     "created": "2013-01-01T19:34:16Z",
     "updated": "2026-05-17T07:31:57Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 130725814,
+    "name": "NVIDIA/apex",
+    "desc": "A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch",
+    "stars": 8971,
+    "url": "https://github.com/NVIDIA/apex",
+    "lang": "Python",
+    "topics": [],
+    "created": "2018-04-23T16:28:52Z",
+    "updated": "2026-06-08T22:56:55Z",
+    "first_seen": "2026-06-09"
   },
   {
     "id": 166419150,
@@ -69277,6 +69322,37 @@
     "created": "2023-07-29T10:45:35Z",
     "updated": "2026-06-02T10:22:35Z",
     "first_seen": "2026-06-02"
+  },
+  {
+    "id": 493014338,
+    "name": "mage-ai/mage-ai",
+    "desc": "🧙 Build, run, and manage data pipelines for integrating and transforming data.",
+    "stars": 8749,
+    "url": "https://github.com/mage-ai/mage-ai",
+    "lang": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "data",
+      "data-engineering",
+      "data-integration",
+      "data-pipelines",
+      "data-science",
+      "dbt",
+      "elt",
+      "etl",
+      "machine-learning",
+      "orchestration",
+      "pipeline",
+      "pipelines",
+      "python",
+      "reverse-etl",
+      "spark",
+      "sql",
+      "transformation"
+    ],
+    "created": "2022-05-16T22:11:39Z",
+    "updated": "2026-06-09T07:00:54Z",
+    "first_seen": "2026-06-09"
   },
   {
     "id": 38095954,
@@ -72707,6 +72783,33 @@
     "first_seen": "2026-05-31"
   },
   {
+    "id": 823429665,
+    "name": "FunAudioLLM/SenseVoice",
+    "desc": "Multilingual speech understanding: ASR + emotion recognition + audio event detection. 50+ languages, 15x faster than Whisper, non-autoregressive.",
+    "stars": 8498,
+    "url": "https://github.com/FunAudioLLM/SenseVoice",
+    "lang": "Python",
+    "topics": [
+      "asr",
+      "audio-analysis",
+      "audio-event-detection",
+      "cross-lingual",
+      "emotion-detection",
+      "llm",
+      "multilingual",
+      "python",
+      "pytorch",
+      "speech-emotion-recognition",
+      "speech-recognition",
+      "speech-to-text",
+      "voice-ai",
+      "whisper-alternative"
+    ],
+    "created": "2024-07-03T02:56:46Z",
+    "updated": "2026-06-09T10:52:38Z",
+    "first_seen": "2026-06-09"
+  },
+  {
     "id": 15193430,
     "name": "codecombat/codecombat",
     "desc": "Game for learning how to code.",
@@ -74589,6 +74692,18 @@
     "created": "2020-07-28T17:20:33Z",
     "updated": "2026-05-18T23:13:33Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 205685154,
+    "name": "getsurfboard/surfboard",
+    "desc": "https://getsurfboard.com",
+    "stars": 8374,
+    "url": "https://github.com/getsurfboard/surfboard",
+    "lang": "-",
+    "topics": [],
+    "created": "2019-09-01T14:07:43Z",
+    "updated": "2026-06-09T08:49:10Z",
+    "first_seen": "2026-06-09"
   },
   {
     "id": 99942769,
@@ -77652,6 +77767,18 @@
     "first_seen": "2026-06-05"
   },
   {
+    "id": 886637886,
+    "name": "google-deepmind/alphafold3",
+    "desc": "AlphaFold 3 inference pipeline.",
+    "stars": 8156,
+    "url": "https://github.com/google-deepmind/alphafold3",
+    "lang": "Python",
+    "topics": [],
+    "created": "2024-11-11T10:38:11Z",
+    "updated": "2026-06-09T08:13:43Z",
+    "first_seen": "2026-06-09"
+  },
+  {
     "id": 1252522,
     "name": "thoughtbot/dotfiles",
     "desc": "A set of vim, zsh, git, and tmux configuration files.",
@@ -79200,6 +79327,18 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 7680774,
+    "name": "thinkgem/jeesite",
+    "desc": "👍Java 低代码, 轻量级, Spring Boot, MyBatis, Flowable, TypeScript, Vue, Antdv, 包括核心模块如：组织机构、角色用户、权限授权、数据权限、内容管理、工作流、Spring Cloud 微服务等。",
+    "stars": 8039,
+    "url": "https://github.com/thinkgem/jeesite",
+    "lang": "Vue",
+    "topics": [],
+    "created": "2013-01-18T05:07:02Z",
+    "updated": "2026-06-09T05:18:00Z",
+    "first_seen": "2026-06-09"
+  },
+  {
     "id": 95970824,
     "name": "FullHuman/purgecss",
     "desc": "Remove unused CSS",
@@ -79809,6 +79948,28 @@
     "created": "2013-08-26T16:45:25Z",
     "updated": "2026-05-15T02:40:50Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 5746963,
+    "name": "jazzband/pip-tools",
+    "desc": "A set of tools to keep your pinned Python dependencies fresh.",
+    "stars": 8006,
+    "url": "https://github.com/jazzband/pip-tools",
+    "lang": "Python",
+    "topics": [
+      "hashes",
+      "lockfile",
+      "packaging",
+      "pip",
+      "pip-compile",
+      "pip-tools",
+      "python",
+      "requirements",
+      "setuptools"
+    ],
+    "created": "2012-09-10T08:50:26Z",
+    "updated": "2026-06-09T01:38:21Z",
+    "first_seen": "2026-06-09"
   },
   {
     "id": 13129587,
@@ -81049,6 +81210,25 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 17720394,
+    "name": "joerick/pyinstrument",
+    "desc": "🚴 Call stack profiler for Python. Shows you why your code is slow!",
+    "stars": 7924,
+    "url": "https://github.com/joerick/pyinstrument",
+    "lang": "Python",
+    "topics": [
+      "async",
+      "django",
+      "performance",
+      "profile",
+      "profiler",
+      "python"
+    ],
+    "created": "2014-03-13T17:53:13Z",
+    "updated": "2026-06-09T09:38:56Z",
+    "first_seen": "2026-06-09"
+  },
+  {
     "id": 8180677,
     "name": "libimobiledevice/libimobiledevice",
     "desc": "A cross-platform protocol library to communicate with iOS devices",
@@ -81154,6 +81334,25 @@
     "created": "2014-10-29T13:55:17Z",
     "updated": "2026-05-15T14:58:24Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 127671976,
+    "name": "rust-embedded/awesome-embedded-rust",
+    "desc": "Curated list of resources for Embedded and Low-level development in the Rust programming language",
+    "stars": 7919,
+    "url": "https://github.com/rust-embedded/awesome-embedded-rust",
+    "lang": "-",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "embedded",
+      "embedded-systems",
+      "libraries",
+      "rust"
+    ],
+    "created": "2018-04-01T21:17:15Z",
+    "updated": "2026-06-09T11:23:54Z",
+    "first_seen": "2026-06-09"
   },
   {
     "id": 22832533,
@@ -81277,6 +81476,32 @@
     "created": "2010-02-26T18:26:53Z",
     "updated": "2026-05-18T09:40:47Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 370209029,
+    "name": "nadermx/backgroundremover",
+    "desc": "Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.",
+    "stars": 7911,
+    "url": "https://github.com/nadermx/backgroundremover",
+    "lang": "Python",
+    "topics": [
+      "ai",
+      "background-removal",
+      "background-remover",
+      "backgroundremover",
+      "photo-editing",
+      "python",
+      "pytorch",
+      "remove-background",
+      "remove-background-image",
+      "remove-background-video",
+      "removebackground",
+      "video",
+      "video-editing"
+    ],
+    "created": "2021-05-24T02:49:23Z",
+    "updated": "2026-06-09T07:33:42Z",
+    "first_seen": "2026-06-09"
   },
   {
     "id": 448262991,
@@ -99143,6 +99368,26 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 142885098,
+    "name": "ProxymanApp/Proxyman",
+    "desc": "The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅",
+    "stars": 6838,
+    "url": "https://github.com/ProxymanApp/Proxyman",
+    "lang": "-",
+    "topics": [
+      "debugging-tool",
+      "ios",
+      "macos",
+      "proxy",
+      "proxy-server",
+      "proxyman",
+      "web-debugging-proxy"
+    ],
+    "created": "2018-07-30T14:14:16Z",
+    "updated": "2026-06-09T07:51:01Z",
+    "first_seen": "2026-06-09"
+  },
+  {
     "id": 180797229,
     "name": "Ji4n1ng/OpenInTerminal",
     "desc": "✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.",
@@ -99869,6 +100114,25 @@
     "created": "2016-11-08T19:35:50Z",
     "updated": "2026-05-18T11:58:10Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 43098215,
+    "name": "deepchem/deepchem",
+    "desc": "Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology",
+    "stars": 6793,
+    "url": "https://github.com/deepchem/deepchem",
+    "lang": "Python",
+    "topics": [
+      "biology",
+      "deep-learning",
+      "drug-discovery",
+      "hacktoberfest",
+      "materials-science",
+      "quantum-chemistry"
+    ],
+    "created": "2015-09-24T23:20:28Z",
+    "updated": "2026-06-09T04:44:12Z",
+    "first_seen": "2026-06-09"
   },
   {
     "id": 47997753,
@@ -102529,6 +102793,35 @@
     "created": "2017-02-13T00:58:41Z",
     "updated": "2026-05-18T08:51:32Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 507610,
+    "name": "processone/ejabberd",
+    "desc": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)",
+    "stars": 6683,
+    "url": "https://github.com/processone/ejabberd",
+    "lang": "Erlang",
+    "topics": [
+      "chat",
+      "ejabberd",
+      "erlang",
+      "groupchat",
+      "iot",
+      "jabber",
+      "matrix",
+      "messaging",
+      "mqtt",
+      "pubsub",
+      "server",
+      "sip",
+      "stun",
+      "turn",
+      "voip",
+      "xmpp"
+    ],
+    "created": "2010-02-08T10:37:25Z",
+    "updated": "2026-06-08T16:38:08Z",
+    "first_seen": "2026-06-09"
   },
   {
     "id": 3802828,
@@ -108595,6 +108888,18 @@
     "created": "2024-10-03T09:25:45Z",
     "updated": "2026-05-31T09:16:18Z",
     "first_seen": "2026-05-31"
+  },
+  {
+    "id": 1553944,
+    "name": "wireservice/csvkit",
+    "desc": "A suite of utilities for converting to and working with CSV, the king of tabular file formats.",
+    "stars": 6386,
+    "url": "https://github.com/wireservice/csvkit",
+    "lang": "Python",
+    "topics": [],
+    "created": "2011-04-01T03:00:30Z",
+    "updated": "2026-06-08T23:53:31Z",
+    "first_seen": "2026-06-09"
   },
   {
     "id": 1104370536,
@@ -124972,6 +125277,32 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 1088705108,
+    "name": "adongwanai/AgentGuide",
+    "desc": "https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成",
+    "stars": 5732,
+    "url": "https://github.com/adongwanai/AgentGuide",
+    "lang": "HTML",
+    "topics": [
+      "agenticrag",
+      "ai-agent",
+      "crewai",
+      "graphrag",
+      "grpo",
+      "interview",
+      "job-hunting",
+      "langchain",
+      "llm",
+      "multi-agent",
+      "rag",
+      "sft",
+      "tutorial"
+    ],
+    "created": "2025-11-03T10:46:38Z",
+    "updated": "2026-06-09T11:04:51Z",
+    "first_seen": "2026-06-09"
+  },
+  {
     "id": 5219382,
     "name": "rack/rack-attack",
     "desc": "Rack middleware for blocking & throttling",
@@ -139187,6 +139518,28 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 55781523,
+    "name": "opencv/opencv-python",
+    "desc": "Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.",
+    "stars": 5286,
+    "url": "https://github.com/opencv/opencv-python",
+    "lang": "Python",
+    "topics": [
+      "manylinux",
+      "opencv",
+      "opencv-contrib-python",
+      "opencv-python",
+      "precompiled",
+      "pypi",
+      "python",
+      "python-3",
+      "wheel"
+    ],
+    "created": "2016-04-08T13:36:40Z",
+    "updated": "2026-06-09T09:06:26Z",
+    "first_seen": "2026-06-09"
+  },
+  {
     "id": 319960543,
     "name": "unjs/ofetch",
     "desc": "😱 A better fetch API. Works everywhere.",
@@ -145983,6 +146336,37 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 1193909050,
+    "name": "ogulcancelik/herdr",
+    "desc": "agent multiplexer that lives in your terminal.",
+    "stars": 5111,
+    "url": "https://github.com/ogulcancelik/herdr",
+    "lang": "Rust",
+    "topics": [
+      "agent",
+      "agent-orchestration",
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "coding-agents",
+      "developer-tools",
+      "devtools",
+      "multiplexer",
+      "rust",
+      "terminal",
+      "terminal-multiplexer",
+      "terminal-ui",
+      "tmux",
+      "tui",
+      "workspace-manager"
+    ],
+    "created": "2026-03-27T17:54:33Z",
+    "updated": "2026-06-09T11:32:29Z",
+    "first_seen": "2026-06-09"
+  },
+  {
     "id": 971447302,
     "name": "cactus-compute/cactus",
     "desc": "Low-latency AI engine for mobile devices & wearables",
@@ -146436,6 +146820,22 @@
     "created": "2015-03-27T11:09:25Z",
     "updated": "2026-05-06T03:12:57Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 122036532,
+    "name": "walkccc/CLRS",
+    "desc": "📚 Solutions to Introduction to Algorithms Third Edition",
+    "stars": 5097,
+    "url": "https://github.com/walkccc/CLRS",
+    "lang": "Markdown",
+    "topics": [
+      "clrs",
+      "introduction-to-algorithms",
+      "solutions"
+    ],
+    "created": "2018-02-19T08:38:00Z",
+    "updated": "2026-06-08T23:46:17Z",
+    "first_seen": "2026-06-09"
   },
   {
     "id": 2721761,
@@ -147246,6 +147646,18 @@
     "created": "2011-09-10T12:51:59Z",
     "updated": "2026-05-18T16:24:01Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 1237031497,
+    "name": "simplifaisoul/osiris",
+    "desc": "Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative",
+    "stars": 5083,
+    "url": "https://github.com/simplifaisoul/osiris",
+    "lang": "TypeScript",
+    "topics": [],
+    "created": "2026-05-12T20:09:25Z",
+    "updated": "2026-06-09T11:16:26Z",
+    "first_seen": "2026-06-09"
   },
   {
     "id": 383777434,
@@ -148830,6 +149242,25 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 1010318950,
+    "name": "SWE-agent/mini-swe-agent",
+    "desc": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
+    "stars": 5043,
+    "url": "https://github.com/SWE-agent/mini-swe-agent",
+    "lang": "Python",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "agentic-ai-cli",
+      "ai",
+      "ai-agent",
+      "textual"
+    ],
+    "created": "2025-06-28T20:18:15Z",
+    "updated": "2026-06-09T08:37:22Z",
+    "first_seen": "2026-06-09"
+  },
+  {
     "id": 15733881,
     "name": "CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout",
     "desc": "UICollectionView replacement of UITableView. Do even more like Parallax Header, Sticky Section Header. Made for iOS 7.",
@@ -149026,6 +149457,28 @@
     "created": "2011-11-10T18:42:17Z",
     "updated": "2026-05-31T19:25:47Z",
     "first_seen": "2026-06-03"
+  },
+  {
+    "id": 1054512829,
+    "name": "vllm-project/vllm-omni",
+    "desc": "A framework for efficient model inference with omni-modality models",
+    "stars": 5038,
+    "url": "https://github.com/vllm-project/vllm-omni",
+    "lang": "Python",
+    "topics": [
+      "audio-generation",
+      "diffusion",
+      "image-generation",
+      "inference",
+      "model-serving",
+      "multimodal",
+      "pytorch",
+      "transformer",
+      "video-generation"
+    ],
+    "created": "2025-09-11T00:34:43Z",
+    "updated": "2026-06-09T11:28:54Z",
+    "first_seen": "2026-06-09"
   },
   {
     "id": 1446474,
@@ -149387,6 +149840,18 @@
     "created": "2022-03-17T06:05:30Z",
     "updated": "2026-05-18T22:49:30Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 1161025758,
+    "name": "TraderAlice/OpenAlice",
+    "desc": "Your one-person Wall Street. An AI trading agent covering equities, crypto, commodities, forex, and macro — from research through position entry, ongoing management, to exit.",
+    "stars": 5027,
+    "url": "https://github.com/TraderAlice/OpenAlice",
+    "lang": "TypeScript",
+    "topics": [],
+    "created": "2026-02-18T16:42:55Z",
+    "updated": "2026-06-09T10:48:10Z",
+    "first_seen": "2026-06-09"
   },
   {
     "id": 951115072,
@@ -150318,6 +150783,39 @@
     "created": "2025-12-03T11:01:12Z",
     "updated": "2026-06-03T12:22:54Z",
     "first_seen": "2026-06-03"
+  },
+  {
+    "id": 138796422,
+    "name": "CharlesPikachu/musicdl",
+    "desc": "Musicdl: A lightweight music downloader written in pure python. (轻量级无损音乐下载器，支持数十个音乐/有声读物平台，例如网易云音乐，QQ音乐，酷狗音乐，酷我音乐，咪咕音乐，千千静听，汽水音乐，Bilibili，街声，喜马拉雅，懒人听书，荔枝FM，蜻蜓FM，JOOX，TIDAL，YouTube，Apple Music，Spotify，Qobuz，SoundCloud等主流音乐平台)",
+    "stars": 5009,
+    "url": "https://github.com/CharlesPikachu/musicdl",
+    "lang": "Python",
+    "topics": [
+      "apple-music",
+      "bilibili",
+      "deezer",
+      "deezer-api",
+      "downloader",
+      "joox",
+      "kugou-music",
+      "kuwo",
+      "music",
+      "music-downloader",
+      "netease",
+      "netease-cloud-music",
+      "qianqian-music",
+      "qqmusic",
+      "soundcloud",
+      "tencent",
+      "tidal",
+      "tidal-api",
+      "tidalapi",
+      "youtube"
+    ],
+    "created": "2018-06-26T21:38:42Z",
+    "updated": "2026-06-09T10:14:41Z",
+    "first_seen": "2026-06-09"
   },
   {
     "id": 582432706,
