@@ -64025,6 +64025,25 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 548171339,
+    "name": "timschneeb/awesome-shizuku",
+    "desc": "Curated list of awesome Android apps making use of Shizuku",
+    "stars": 9196,
+    "url": "https://github.com/timschneeb/awesome-shizuku",
+    "lang": "Python",
+    "topics": [
+      "adb",
+      "android",
+      "android-mods",
+      "no-root",
+      "rootless",
+      "shizuku"
+    ],
+    "created": "2022-10-09T03:24:23Z",
+    "updated": "2026-06-10T11:50:27Z",
+    "first_seen": "2026-06-10"
+  },
+  {
     "id": 14224695,
     "name": "sequelpro/sequelpro",
     "desc": "MySQL/MariaDB database management for macOS",
@@ -65258,6 +65277,27 @@
     "created": "2021-05-18T22:42:37Z",
     "updated": "2026-05-18T19:36:39Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 265194554,
+    "name": "vitalik/django-ninja",
+    "desc": "💨  Fast, Async-ready, Openapi, type hints based framework for building APIs",
+    "stars": 9085,
+    "url": "https://github.com/vitalik/django-ninja",
+    "lang": "Python",
+    "topics": [
+      "django",
+      "django-ninja",
+      "openapi",
+      "pydantic",
+      "python",
+      "rest-api",
+      "swagger",
+      "swagger-ui"
+    ],
+    "created": "2020-05-19T08:48:53Z",
+    "updated": "2026-06-09T15:53:04Z",
+    "first_seen": "2026-06-10"
   },
   {
     "id": 28693376,
@@ -67253,6 +67293,18 @@
     "created": "2017-07-23T14:28:08Z",
     "updated": "2026-06-07T09:39:59Z",
     "first_seen": "2026-06-07"
+  },
+  {
+    "id": 60349380,
+    "name": "godotengine/godot-demo-projects",
+    "desc": "Demonstration and Template Projects",
+    "stars": 8934,
+    "url": "https://github.com/godotengine/godot-demo-projects",
+    "lang": "GDScript",
+    "topics": [],
+    "created": "2016-06-03T13:22:28Z",
+    "updated": "2026-06-10T09:05:26Z",
+    "first_seen": "2026-06-10"
   },
   {
     "id": 734957,
@@ -70100,6 +70152,24 @@
     "created": "2017-07-05T21:17:16Z",
     "updated": "2026-05-18T13:59:48Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 705222810,
+    "name": "MrNeRF/awesome-3D-gaussian-splatting",
+    "desc": "Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.",
+    "stars": 8682,
+    "url": "https://github.com/MrNeRF/awesome-3D-gaussian-splatting",
+    "lang": "HTML",
+    "topics": [
+      "3d-gaussian-splatting",
+      "3dgs",
+      "gaussian-splatting",
+      "nerf",
+      "neural-rendering"
+    ],
+    "created": "2023-10-15T12:08:17Z",
+    "updated": "2026-06-10T11:25:50Z",
+    "first_seen": "2026-06-10"
   },
   {
     "id": 93159992,
@@ -75359,6 +75429,39 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 215689781,
+    "name": "yangzongzhuan/RuoYi",
+    "desc": ":tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用",
+    "stars": 8329,
+    "url": "https://github.com/yangzongzhuan/RuoYi",
+    "lang": "HTML",
+    "topics": [
+      "activiti",
+      "bootstrap",
+      "bootstrap-table",
+      "druid",
+      "hplus",
+      "hutool",
+      "java",
+      "jquery",
+      "layer",
+      "layui",
+      "mybatis",
+      "mybatisplus",
+      "pagehelper",
+      "quartz",
+      "shiro",
+      "spring",
+      "springboot",
+      "swagger",
+      "thymeleaf",
+      "velocity"
+    ],
+    "created": "2019-10-17T02:51:07Z",
+    "updated": "2026-06-10T09:34:46Z",
+    "first_seen": "2026-06-10"
+  },
+  {
     "id": 173009358,
     "name": "oapi-codegen/oapi-codegen",
     "desc": "Generate Go client and server boilerplate from OpenAPI 3 specifications",
@@ -79133,6 +79236,26 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 52710065,
+    "name": "all-contributors/allcontributors.org",
+    "desc": "✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨",
+    "stars": 8054,
+    "url": "https://github.com/all-contributors/allcontributors.org",
+    "lang": "MDX",
+    "topics": [
+      "acknowledgements",
+      "all-contributors",
+      "contributors",
+      "open-source-tooling",
+      "opensource",
+      "opensource-management",
+      "recognition"
+    ],
+    "created": "2016-02-28T07:29:02Z",
+    "updated": "2026-06-09T15:46:24Z",
+    "first_seen": "2026-06-10"
+  },
+  {
     "id": 738491,
     "name": "facebook/facebook-ios-sdk",
     "desc": "Used to integrate the Facebook Platform with your iOS & tvOS apps.",
@@ -81464,6 +81587,22 @@
     "created": "2023-04-09T09:00:13Z",
     "updated": "2026-05-18T14:00:30Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 948663423,
+    "name": "shaxiu/XianyuAutoAgent",
+    "desc": "智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。",
+    "stars": 7913,
+    "url": "https://github.com/shaxiu/XianyuAutoAgent",
+    "lang": "Python",
+    "topics": [
+      "agent",
+      "chatbot",
+      "llm"
+    ],
+    "created": "2025-03-14T18:22:25Z",
+    "updated": "2026-06-10T09:42:29Z",
+    "first_seen": "2026-06-10"
   },
   {
     "id": 537699,
@@ -85335,6 +85474,25 @@
     "created": "2015-03-31T05:08:38Z",
     "updated": "2026-05-18T12:39:31Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 1216954187,
+    "name": "ConardLi/garden-skills",
+    "desc": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+    "stars": 7677,
+    "url": "https://github.com/ConardLi/garden-skills",
+    "lang": "CSS",
+    "topics": [
+      "agent",
+      "claude",
+      "gpt-image-2",
+      "rag",
+      "skills",
+      "web-design"
+    ],
+    "created": "2026-04-21T11:56:17Z",
+    "updated": "2026-06-10T11:11:44Z",
+    "first_seen": "2026-06-10"
   },
   {
     "id": 599293758,
@@ -92594,6 +92752,28 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 4946406,
+    "name": "mher/flower",
+    "desc": "Real-time monitor and web admin for Celery distributed task queue",
+    "stars": 7190,
+    "url": "https://github.com/mher/flower",
+    "lang": "Python",
+    "topics": [
+      "administration",
+      "asynchronous",
+      "celery",
+      "monitoring",
+      "python",
+      "rabbitmq",
+      "redis",
+      "task-queue",
+      "workers"
+    ],
+    "created": "2012-07-08T13:35:09Z",
+    "updated": "2026-06-10T10:55:45Z",
+    "first_seen": "2026-06-10"
+  },
+  {
     "id": 26390092,
     "name": "deepstreamIO/deepstream.io",
     "desc": "deepstream.io server",
@@ -97508,6 +97688,18 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 801880448,
+    "name": "AnswerDotAI/fasthtml",
+    "desc": "The fastest way to create an HTML app",
+    "stars": 6947,
+    "url": "https://github.com/AnswerDotAI/fasthtml",
+    "lang": "Jupyter Notebook",
+    "topics": [],
+    "created": "2024-05-17T05:16:59Z",
+    "updated": "2026-06-10T08:43:07Z",
+    "first_seen": "2026-06-10"
+  },
+  {
     "id": 71729669,
     "name": "detekt/detekt",
     "desc": "Static code analysis for Kotlin",
@@ -100525,6 +100717,31 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 326610757,
+    "name": "RapidAI/RapidOCR",
+    "desc": "📄 Awesome OCR multiple programing languages toolkits based on ONNX Runtime, OpenVINO, MNN, PaddlePaddle, TensorRT and PyTorch.",
+    "stars": 6783,
+    "url": "https://github.com/RapidAI/RapidOCR",
+    "lang": "Python",
+    "topics": [
+      "chineseocr",
+      "crnn",
+      "dbnet",
+      "easyocr",
+      "mnn",
+      "ocr",
+      "onnxocr",
+      "onnxruntime",
+      "openvino",
+      "paddleocr",
+      "rapidocr",
+      "tensorrt"
+    ],
+    "created": "2021-01-04T08:02:09Z",
+    "updated": "2026-06-10T04:44:40Z",
+    "first_seen": "2026-06-10"
+  },
+  {
     "id": 24650236,
     "name": "google/lovefield",
     "desc": "Lovefield is a relational database for web apps. Written in JavaScript, works cross-browser. Provides SQL-like APIs that are fast, safe, and easy to use.",
@@ -102305,6 +102522,23 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 1193082155,
+    "name": "revfactory/harness",
+    "desc": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+    "stars": 6711,
+    "url": "https://github.com/revfactory/harness",
+    "lang": "HTML",
+    "topics": [
+      "claude-code",
+      "claude-code-plugin",
+      "harness",
+      "harness-engineering"
+    ],
+    "created": "2026-03-26T21:22:07Z",
+    "updated": "2026-06-10T11:31:39Z",
+    "first_seen": "2026-06-10"
+  },
+  {
     "id": 396856161,
     "name": "authzed/spicedb",
     "desc": "Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data",
@@ -102642,6 +102876,24 @@
     "created": "2008-03-31T20:20:41Z",
     "updated": "2026-05-18T09:26:36Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 28681142,
+    "name": "CTFd/CTFd",
+    "desc": "CTFs as you need them",
+    "stars": 6693,
+    "url": "https://github.com/CTFd/CTFd",
+    "lang": "Python",
+    "topics": [
+      "ctf",
+      "ctfd",
+      "education",
+      "flask",
+      "security"
+    ],
+    "created": "2015-01-01T05:36:55Z",
+    "updated": "2026-06-10T02:59:22Z",
+    "first_seen": "2026-06-10"
   },
   {
     "id": 12968763,
@@ -103785,6 +104037,30 @@
     "created": "2019-11-06T09:03:31Z",
     "updated": "2026-05-18T21:30:40Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 433037416,
+    "name": "yangzongzhuan/RuoYi-Vue3",
+    "desc": ":tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统",
+    "stars": 6624,
+    "url": "https://github.com/yangzongzhuan/RuoYi-Vue3",
+    "lang": "Vue",
+    "topics": [
+      "admin",
+      "element-plus",
+      "element-ui",
+      "vite",
+      "vite2",
+      "vue",
+      "vue-admin",
+      "vue-element-admin",
+      "vue-router",
+      "vue3",
+      "vue3-admin"
+    ],
+    "created": "2021-11-29T12:39:57Z",
+    "updated": "2026-06-10T11:49:56Z",
+    "first_seen": "2026-06-10"
   },
   {
     "id": 710425233,
@@ -106488,6 +106764,22 @@
     "created": "2013-07-28T21:46:36Z",
     "updated": "2026-05-14T08:20:02Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 17527989,
+    "name": "rust-lang/rfcs",
+    "desc": "RFCs for changes to Rust",
+    "stars": 6497,
+    "url": "https://github.com/rust-lang/rfcs",
+    "lang": "Markdown",
+    "topics": [
+      "rfc",
+      "rfc-process",
+      "rust"
+    ],
+    "created": "2014-03-07T21:29:00Z",
+    "updated": "2026-06-10T10:15:18Z",
+    "first_seen": "2026-06-10"
   },
   {
     "id": 7922549,
@@ -110504,6 +110796,18 @@
     "first_seen": "2026-06-03"
   },
   {
+    "id": 342388745,
+    "name": "facebookresearch/Kats",
+    "desc": "Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends. ",
+    "stars": 6307,
+    "url": "https://github.com/facebookresearch/Kats",
+    "lang": "Python",
+    "topics": [],
+    "created": "2021-02-25T21:51:06Z",
+    "updated": "2026-06-09T19:30:19Z",
+    "first_seen": "2026-06-10"
+  },
+  {
     "id": 78369010,
     "name": "webslides/WebSlides",
     "desc": "Create HTML presentations in seconds —",
@@ -112158,6 +112462,23 @@
     "created": "2015-12-29T09:23:05Z",
     "updated": "2026-05-18T19:58:29Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 379916997,
+    "name": "jd-opensource/micro-app",
+    "desc": "A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架",
+    "stars": 6228,
+    "url": "https://github.com/jd-opensource/micro-app",
+    "lang": "CSS",
+    "topics": [
+      "javascript",
+      "micro-frontend",
+      "microapp",
+      "webcomponents"
+    ],
+    "created": "2021-06-24T12:26:23Z",
+    "updated": "2026-06-10T11:37:36Z",
+    "first_seen": "2026-06-10"
   },
   {
     "id": 349490770,
@@ -120510,6 +120831,32 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 318182014,
+    "name": "al-one/hass-xiaomi-miot",
+    "desc": "Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成",
+    "stars": 5908,
+    "url": "https://github.com/al-one/hass-xiaomi-miot",
+    "lang": "Python",
+    "topics": [
+      "custom-component",
+      "hass",
+      "home-assistant",
+      "home-assistant-integration",
+      "homeassistant",
+      "iot",
+      "miio",
+      "miot",
+      "miot-spec",
+      "smart-home",
+      "xiaoai",
+      "xiaomi",
+      "xiaomi-miot"
+    ],
+    "created": "2020-12-03T12:13:13Z",
+    "updated": "2026-06-10T10:42:39Z",
+    "first_seen": "2026-06-10"
+  },
+  {
     "id": 47674847,
     "name": "jvalen/pixel-art-react",
     "desc": "Pixel art animation and drawing web app powered by React",
@@ -122386,6 +122733,18 @@
     "created": "2020-07-28T08:27:19Z",
     "updated": "2026-05-17T12:09:39Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 225267585,
+    "name": "missing-semester/missing-semester",
+    "desc": "The Missing Semester of Your CS Education 📚",
+    "stars": 5833,
+    "url": "https://github.com/missing-semester/missing-semester",
+    "lang": "CSS",
+    "topics": [],
+    "created": "2019-12-02T02:25:14Z",
+    "updated": "2026-06-10T11:44:44Z",
+    "first_seen": "2026-06-10"
   },
   {
     "id": 54614238,
@@ -143990,6 +144349,23 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 726734569,
+    "name": "hect0x7/JMComic-APK",
+    "desc": "防迷路 | 禁漫天堂APK | 禁漫APP安卓安装包 | jm天堂 | 回家 | GitHub Actions | JMComic3 | JMComic2",
+    "stars": 5173,
+    "url": "https://github.com/hect0x7/JMComic-APK",
+    "lang": "Python",
+    "topics": [
+      "18comic",
+      "apk",
+      "github-actions",
+      "jmcomic"
+    ],
+    "created": "2023-12-03T08:24:16Z",
+    "updated": "2026-06-10T11:35:34Z",
+    "first_seen": "2026-06-10"
+  },
+  {
     "id": 4523235,
     "name": "asciidoctor/asciidoctor",
     "desc": ":gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.",
@@ -148912,6 +149288,36 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 397179336,
+    "name": "tencentmusic/cube-studio",
+    "desc": "cube studio开源云原生一站式机器学习/深度学习/大模型AI平台，mlops算法链路全流程，算力租赁平台，notebook在线开发，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务VGPU虚拟化，边缘计算，标注平台自动化标注，deepseek等大模型sft微调/奖励模型/强化学习训练，vllm/ollama/mindie大模型多机推理，私有知识库，AI模型市场，支持国产cpu/gpu/npu 昇腾生态，支持RDMA，支持pytorch/tf/mxnet/deepspeed/paddle/colossalai/horovod/ray/volcano等分布式",
+    "stars": 5051,
+    "url": "https://github.com/tencentmusic/cube-studio",
+    "lang": "Python",
+    "topics": [
+      "ai",
+      "aihub",
+      "argo",
+      "automl",
+      "deepseek",
+      "gpt",
+      "inference",
+      "kubeflow",
+      "kubernetes",
+      "llmops",
+      "mlops",
+      "notebook",
+      "pipeline",
+      "pytorch",
+      "spark",
+      "vgpu",
+      "workflow"
+    ],
+    "created": "2021-08-17T08:54:14Z",
+    "updated": "2026-06-10T03:40:01Z",
+    "first_seen": "2026-06-10"
+  },
+  {
     "id": 1018559767,
     "name": "shareAI-lab/Kode-CLI",
     "desc": "Kode CLI — Design for post-human workflows. One unit agent for every human & computer task.",
@@ -150170,6 +150576,39 @@
     "first_seen": "2026-06-08"
   },
   {
+    "id": 689777286,
+    "name": "plastic-labs/honcho",
+    "desc": " Memory library for building stateful agents",
+    "stars": 5023,
+    "url": "https://github.com/plastic-labs/honcho",
+    "lang": "Python",
+    "topics": [
+      "agent-memory",
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "anthropic",
+      "context-engineering",
+      "continual-learning",
+      "embeddings",
+      "fastapi",
+      "langchain",
+      "llm",
+      "long-term-memory",
+      "memory",
+      "openai",
+      "personalization",
+      "python",
+      "rag",
+      "state-management",
+      "typescript",
+      "vector-database"
+    ],
+    "created": "2023-09-10T21:29:54Z",
+    "updated": "2026-06-10T10:14:29Z",
+    "first_seen": "2026-06-10"
+  },
+  {
     "id": 8757552,
     "name": "Ardour/ardour",
     "desc": "Mirror of Ardour Source Code",
@@ -150816,6 +151255,36 @@
     "created": "2018-06-26T21:38:42Z",
     "updated": "2026-06-09T10:14:41Z",
     "first_seen": "2026-06-09"
+  },
+  {
+    "id": 1075623312,
+    "name": "InterceptSuite/ProxyBridge",
+    "desc": "Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy",
+    "stars": 5009,
+    "url": "https://github.com/InterceptSuite/ProxyBridge",
+    "lang": "C",
+    "topics": [
+      "c",
+      "cybersecurity",
+      "http3",
+      "httpproxy",
+      "linux",
+      "linux-proxy",
+      "macos",
+      "macos-app",
+      "macos-proxy",
+      "proxifier",
+      "proxifier-alternative",
+      "proxyclient",
+      "tcp",
+      "thick-client",
+      "udp",
+      "windivert",
+      "windows"
+    ],
+    "created": "2025-10-13T18:51:59Z",
+    "updated": "2026-06-10T11:11:17Z",
+    "first_seen": "2026-06-10"
   },
   {
     "id": 582432706,
