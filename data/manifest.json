@@ -60845,6 +60845,26 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 139205847,
+    "name": "nasa-jpl/open-source-rover",
+    "desc": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
+    "stars": 9435,
+    "url": "https://github.com/nasa-jpl/open-source-rover",
+    "lang": "Prolog",
+    "topics": [
+      "diy",
+      "hardware",
+      "mars",
+      "mars-rover",
+      "open-source",
+      "robot",
+      "robotics"
+    ],
+    "created": "2018-06-29T23:57:16Z",
+    "updated": "2026-06-10T22:45:19Z",
+    "first_seen": "2026-06-11"
+  },
+  {
     "id": 158025849,
     "name": "AutoDarkMode/Windows-Auto-Night-Mode",
     "desc": "Automatically switches between the dark and light theme of Windows 10 and Windows 11",
@@ -62763,6 +62783,39 @@
     "created": "2023-03-15T14:15:50Z",
     "updated": "2026-05-18T05:27:32Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 19606299,
+    "name": "platformio/platformio-core",
+    "desc": "Your Gateway to Embedded Software Development Excellence :alien:",
+    "stars": 9293,
+    "url": "https://github.com/platformio/platformio-core",
+    "lang": "Python",
+    "topics": [
+      "arduino",
+      "arm",
+      "avr",
+      "build-system",
+      "cmsis",
+      "debugging",
+      "embedded",
+      "esp32",
+      "esp8266",
+      "firmware",
+      "ide",
+      "iot",
+      "libraries",
+      "microcontroller",
+      "package-manager",
+      "platformio",
+      "risc-v",
+      "rtos",
+      "unit-testing",
+      "zephyr-rtos"
+    ],
+    "created": "2014-05-09T09:38:42Z",
+    "updated": "2026-06-11T12:23:51Z",
+    "first_seen": "2026-06-11"
   },
   {
     "id": 22234455,
@@ -65094,6 +65147,23 @@
     "created": "2019-01-21T12:52:02Z",
     "updated": "2026-05-18T06:56:09Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 1179046874,
+    "name": "nidhinjs/prompt-master",
+    "desc": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention",
+    "stars": 9100,
+    "url": "https://github.com/nidhinjs/prompt-master",
+    "lang": "-",
+    "topics": [
+      "claude-ai",
+      "claude-skills",
+      "llm",
+      "prompt-engineering"
+    ],
+    "created": "2026-03-11T16:25:43Z",
+    "updated": "2026-06-11T11:55:07Z",
+    "first_seen": "2026-06-11"
   },
   {
     "id": 14329321,
@@ -74011,6 +74081,39 @@
     "first_seen": "2026-06-02"
   },
   {
+    "id": 18376387,
+    "name": "NorthwoodsSoftware/GoJS",
+    "desc": "JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.",
+    "stars": 8440,
+    "url": "https://github.com/NorthwoodsSoftware/GoJS",
+    "lang": "HTML",
+    "topics": [
+      "canvas",
+      "chart",
+      "charts",
+      "data-visualization",
+      "diagram",
+      "es6",
+      "es6-modules",
+      "flowchart",
+      "gojs",
+      "graph",
+      "html",
+      "interactive-diagrams",
+      "javascript",
+      "javascript-library",
+      "layout",
+      "orgchart",
+      "svg",
+      "typescript",
+      "typescript-library",
+      "visualization"
+    ],
+    "created": "2014-04-02T18:18:40Z",
+    "updated": "2026-06-10T18:10:04Z",
+    "first_seen": "2026-06-11"
+  },
+  {
     "id": 6098927,
     "name": "robertkrimen/otto",
     "desc": "A JavaScript interpreter in Go (golang)",
@@ -82158,6 +82261,33 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 110684325,
+    "name": "polakowo/vectorbt",
+    "desc": "The backtesting engine that gives you an unfair advantage. Run thousands of trading ideas before others finish one.",
+    "stars": 7864,
+    "url": "https://github.com/polakowo/vectorbt",
+    "lang": "Python",
+    "topics": [
+      "algorithmic-trading",
+      "algorithmic-traiding",
+      "backtesting",
+      "cryptocurrency",
+      "data-science",
+      "data-visualization",
+      "finance",
+      "machine-learning",
+      "portfolio-optimization",
+      "quantitative-analysis",
+      "quantitative-finance",
+      "time-series",
+      "trading",
+      "trading-strategies"
+    ],
+    "created": "2017-11-14T11:56:32Z",
+    "updated": "2026-06-11T11:07:08Z",
+    "first_seen": "2026-06-11"
+  },
+  {
     "id": 29933948,
     "name": "fluent/fluent-bit",
     "desc": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
@@ -82526,6 +82656,21 @@
     "created": "2019-09-26T07:58:26Z",
     "updated": "2026-05-16T05:55:28Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 2114213,
+    "name": "PyMySQL/PyMySQL",
+    "desc": "MySQL client library for Python",
+    "stars": 7839,
+    "url": "https://github.com/PyMySQL/PyMySQL",
+    "lang": "Python",
+    "topics": [
+      "mysql",
+      "python"
+    ],
+    "created": "2011-07-27T17:38:47Z",
+    "updated": "2026-06-11T02:32:15Z",
+    "first_seen": "2026-06-11"
   },
   {
     "id": 82329147,
@@ -90969,6 +91114,18 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 1197198701,
+    "name": "k2-fsa/OmniVoice",
+    "desc": "High-Quality Voice Cloning TTS for 600+ Languages",
+    "stars": 7314,
+    "url": "https://github.com/k2-fsa/OmniVoice",
+    "lang": "Python",
+    "topics": [],
+    "created": "2026-03-31T12:00:45Z",
+    "updated": "2026-06-11T12:19:24Z",
+    "first_seen": "2026-06-11"
+  },
+  {
     "id": 277089,
     "name": "flyerhzm/bullet",
     "desc": "help to kill N+1 queries and unused eager loading",
@@ -94486,6 +94643,18 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 579557127,
+    "name": "kohya-ss/sd-scripts",
+    "desc": "",
+    "stars": 7116,
+    "url": "https://github.com/kohya-ss/sd-scripts",
+    "lang": "Python",
+    "topics": [],
+    "created": "2022-12-18T04:32:15Z",
+    "updated": "2026-06-11T12:14:19Z",
+    "first_seen": "2026-06-11"
+  },
+  {
     "id": 655492,
     "name": "magit/magit",
     "desc": "It's Magit! A Git Porcelain inside Emacs.",
@@ -97903,6 +98072,18 @@
     "created": "2020-05-01T04:29:10Z",
     "updated": "2026-05-18T21:21:14Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 1191170056,
+    "name": "TheTom/turboquant_plus",
+    "desc": "",
+    "stars": 6931,
+    "url": "https://github.com/TheTom/turboquant_plus",
+    "lang": "Python",
+    "topics": [],
+    "created": "2026-03-25T01:35:36Z",
+    "updated": "2026-06-11T06:52:15Z",
+    "first_seen": "2026-06-11"
   },
   {
     "id": 97627474,
@@ -105520,6 +105701,37 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 270530850,
+    "name": "vynect/venom",
+    "desc": "Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on artificial intelligence and all types of design architecture for WhatsApp.",
+    "stars": 6557,
+    "url": "https://github.com/vynect/venom",
+    "lang": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-bot",
+      "bot",
+      "bot-javascript",
+      "bot-typescript",
+      "chat",
+      "chatbot",
+      "framework",
+      "message",
+      "orkestral",
+      "puppeteer",
+      "sulla",
+      "venom",
+      "whatsapp",
+      "whatsapp-api",
+      "whatsapp-bot",
+      "zap-api",
+      "zap-bot"
+    ],
+    "created": "2020-06-08T04:41:41Z",
+    "updated": "2026-06-11T00:50:11Z",
+    "first_seen": "2026-06-11"
+  },
+  {
     "id": 17154573,
     "name": "php-pm/php-pm",
     "desc": "PPM is a process manager, supercharger and load balancer for modern PHP applications.",
@@ -112543,6 +112755,18 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 974473130,
+    "name": "nlweb-ai/NLWeb",
+    "desc": "Main reference implementation for NLWeb, implemented in Python.",
+    "stars": 6224,
+    "url": "https://github.com/nlweb-ai/NLWeb",
+    "lang": "Python",
+    "topics": [],
+    "created": "2025-04-28T20:44:02Z",
+    "updated": "2026-06-11T06:20:20Z",
+    "first_seen": "2026-06-11"
+  },
+  {
     "id": 169606323,
     "name": "instantpage/instant.page",
     "desc": "Make your site’s pages instant in 1 minute and improve your conversion rate by 1%",
@@ -114161,6 +114385,31 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 246509073,
+    "name": "PaddlePaddle/PaddleX",
+    "desc": "All-in-One Development Tool based on PaddlePaddle",
+    "stars": 6156,
+    "url": "https://github.com/PaddlePaddle/PaddleX",
+    "lang": "Python",
+    "topics": [
+      "ai-pipelines",
+      "classification",
+      "deployment",
+      "formula-recognition",
+      "layout-detection",
+      "object-detection",
+      "ocr",
+      "pdf2markdown",
+      "pp-chatocr",
+      "segmentation",
+      "speech-recognition",
+      "time-series"
+    ],
+    "created": "2020-03-11T07:58:44Z",
+    "updated": "2026-06-11T10:40:28Z",
+    "first_seen": "2026-06-11"
+  },
+  {
     "id": 88897663,
     "name": "Shopify/polaris-react",
     "desc": "Shopify's Polaris Design System - React implementation (Deprecated)",
@@ -114784,6 +115033,27 @@
     "created": "2024-02-28T09:43:12Z",
     "updated": "2026-05-31T15:04:58Z",
     "first_seen": "2026-05-31"
+  },
+  {
+    "id": 253849484,
+    "name": "argosopentech/argos-translate",
+    "desc": "Open-source offline translation library written in Python",
+    "stars": 6131,
+    "url": "https://github.com/argosopentech/argos-translate",
+    "lang": "Python",
+    "topics": [
+      "language-models",
+      "linux",
+      "machine-translation",
+      "nlp",
+      "open-source",
+      "python",
+      "transformers",
+      "translation"
+    ],
+    "created": "2020-04-07T16:22:23Z",
+    "updated": "2026-06-11T11:51:09Z",
+    "first_seen": "2026-06-11"
   },
   {
     "id": 79375056,
@@ -118434,6 +118704,18 @@
     "first_seen": "2026-01-01"
   },
   {
+    "id": 1068475197,
+    "name": "neuphonic/neutts",
+    "desc": "On-device TTS model by Neuphonic",
+    "stars": 5991,
+    "url": "https://github.com/neuphonic/neutts",
+    "lang": "Python",
+    "topics": [],
+    "created": "2025-10-02T12:48:55Z",
+    "updated": "2026-06-11T11:43:25Z",
+    "first_seen": "2026-06-11"
+  },
+  {
     "id": 74173698,
     "name": "paperswithcode/ai-deadlines",
     "desc": ":alarm_clock: AI conference deadline countdowns ",
@@ -119081,6 +119363,24 @@
     "created": "2018-07-04T01:14:03Z",
     "updated": "2026-05-18T08:21:20Z",
     "first_seen": "2026-01-01"
+  },
+  {
+    "id": 2703394,
+    "name": "coleifer/huey",
+    "desc": "a little task queue for python",
+    "stars": 5970,
+    "url": "https://github.com/coleifer/huey",
+    "lang": "Python",
+    "topics": [
+      "dank",
+      "python",
+      "queue",
+      "redis",
+      "task-queue"
+    ],
+    "created": "2011-11-03T16:39:43Z",
+    "updated": "2026-06-10T17:05:56Z",
+    "first_seen": "2026-06-11"
   },
   {
     "id": 206444,
@@ -150919,6 +151219,32 @@
     "first_seen": "2026-06-03"
   },
   {
+    "id": 787462297,
+    "name": "Blaizzy/mlx-vlm",
+    "desc": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
+    "stars": 5015,
+    "url": "https://github.com/Blaizzy/mlx-vlm",
+    "lang": "Python",
+    "topics": [
+      "apple-silicon",
+      "florence2",
+      "idefics",
+      "llava",
+      "llm",
+      "local-ai",
+      "mlx",
+      "molmo",
+      "paligemma",
+      "pixtral",
+      "vision-framework",
+      "vision-language-model",
+      "vision-transformer"
+    ],
+    "created": "2024-04-16T15:10:12Z",
+    "updated": "2026-06-11T11:05:37Z",
+    "first_seen": "2026-06-11"
+  },
+  {
     "id": 54681855,
     "name": "willianjusten/awesome-audio-visualization",
     "desc": "A curated list about Audio Visualization.",
@@ -151285,6 +151611,31 @@
     "created": "2025-10-13T18:51:59Z",
     "updated": "2026-06-10T11:11:17Z",
     "first_seen": "2026-06-10"
+  },
+  {
+    "id": 60436054,
+    "name": "RandyGaul/cute_headers",
+    "desc": "Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games",
+    "stars": 5009,
+    "url": "https://github.com/RandyGaul/cute_headers",
+    "lang": "C",
+    "topics": [
+      "audio",
+      "c",
+      "collision",
+      "collision-detection",
+      "compression",
+      "cross-platform",
+      "game",
+      "header",
+      "library",
+      "math",
+      "opengl",
+      "png"
+    ],
+    "created": "2016-06-05T00:19:59Z",
+    "updated": "2026-06-10T23:34:37Z",
+    "first_seen": "2026-06-11"
   },
   {
     "id": 582432706,
@@ -151657,6 +152008,60 @@
     "first_seen": "2026-06-04"
   },
   {
+    "id": 281073868,
+    "name": "baserow/baserow",
+    "desc": "Build databases, automations, apps & agents with AI — no code.  Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.",
+    "stars": 5002,
+    "url": "https://github.com/baserow/baserow",
+    "lang": "Python",
+    "topics": [
+      "airtable",
+      "airtable-alternative",
+      "airtable-replacement",
+      "application-builder",
+      "automations",
+      "dashboards",
+      "database",
+      "low-code",
+      "no-code",
+      "no-code-database",
+      "no-code-platform",
+      "online-database",
+      "postgresql",
+      "restful-api",
+      "self-hosted",
+      "spreadsheet"
+    ],
+    "created": "2020-07-20T09:32:04Z",
+    "updated": "2026-06-11T12:22:29Z",
+    "first_seen": "2026-06-11"
+  },
+  {
+    "id": 974157595,
+    "name": "ModelEngine-Group/nexent",
+    "desc": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes.",
+    "stars": 5002,
+    "url": "https://github.com/ModelEngine-Group/nexent",
+    "lang": "Python",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-rag",
+      "agentic-workflow",
+      "ai",
+      "harness",
+      "harness-engineering",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "rag"
+    ],
+    "created": "2025-04-28T10:44:33Z",
+    "updated": "2026-06-11T11:52:27Z",
+    "first_seen": "2026-06-11"
+  },
+  {
     "id": 4710876,
     "name": "Trinea/android-common",
     "desc": "Android common lib, include ImageCache, HttpCache, DropDownListView, DownloadManager, Utils and so on",
@@ -151788,5 +152193,33 @@
     "created": "2026-03-14T16:28:39Z",
     "updated": "2026-06-05T09:32:03Z",
     "first_seen": "2026-06-05"
+  },
+  {
+    "id": 348788771,
+    "name": "mathesar-foundation/mathesar",
+    "desc": "An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgres access control.",
+    "stars": 5000,
+    "url": "https://github.com/mathesar-foundation/mathesar",
+    "lang": "Svelte",
+    "topics": [
+      "airtable-alternative",
+      "automatic-api",
+      "database-access",
+      "database-gui",
+      "database-management",
+      "db-admin",
+      "django",
+      "javascript",
+      "postgres",
+      "postgresql",
+      "postgresql-database",
+      "python",
+      "svelte",
+      "sveltejs",
+      "typescript"
+    ],
+    "created": "2021-03-17T17:04:53Z",
+    "updated": "2026-06-11T06:54:07Z",
+    "first_seen": "2026-06-11"
   }
 ]
