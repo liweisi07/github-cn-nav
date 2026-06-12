@@ -1,302 +1,302 @@
 [
   {
     "repo": "pewdiepie-archdaemon/odysseus",
-    "surge_5d": 29157,
-    "star_increment": 29157,
+    "surge_5d": 30277,
+    "star_increment": 30277,
     "rank": 1
   },
   {
     "repo": "nousresearch/hermes-agent",
-    "surge_5d": 13860,
-    "star_increment": 13860,
+    "surge_5d": 14853,
+    "star_increment": 14853,
     "rank": 2
   },
   {
     "repo": "chopratejas/headroom",
-    "surge_5d": 11287,
-    "star_increment": 11287,
+    "surge_5d": 12632,
+    "star_increment": 12632,
     "rank": 3
   },
   {
-    "repo": "microsoft/markitdown",
-    "surge_5d": 10487,
-    "star_increment": 10487,
+    "repo": "mattpocock/skills",
+    "surge_5d": 11680,
+    "star_increment": 11680,
     "rank": 4
   },
   {
-    "repo": "mattpocock/skills",
-    "surge_5d": 10344,
-    "star_increment": 10344,
+    "repo": "microsoft/markitdown",
+    "surge_5d": 11408,
+    "star_increment": 11408,
     "rank": 5
   },
   {
     "repo": "leonxlnx/taste-skill",
-    "surge_5d": 9770,
-    "star_increment": 9770,
+    "surge_5d": 10577,
+    "star_increment": 10577,
     "rank": 6
   },
   {
     "repo": "colbymchenry/codegraph",
-    "surge_5d": 9688,
-    "star_increment": 9688,
+    "surge_5d": 10418,
+    "star_increment": 10418,
     "rank": 7
+  },
+  {
+    "repo": "farion1231/cc-switch",
+    "surge_5d": 10240,
+    "star_increment": 10240,
+    "rank": 8
+  },
+  {
+    "repo": "obra/superpowers",
+    "surge_5d": 10058,
+    "star_increment": 10058,
+    "rank": 9
   },
   {
     "repo": "juliocesarfort/public-pentesting-reports",
     "surge_5d": 9578,
     "star_increment": 9578,
-    "rank": 8
+    "rank": 10
+  },
+  {
+    "repo": "nasa-jpl/open-source-rover",
+    "surge_5d": 9437,
+    "star_increment": 9437,
+    "rank": 11
   },
   {
     "repo": "troxler/awesome-css-frameworks",
     "surge_5d": 9372,
     "star_increment": 9372,
-    "rank": 9
-  },
-  {
-    "repo": "farion1231/cc-switch",
-    "surge_5d": 9368,
-    "star_increment": 9368,
-    "rank": 10
-  },
-  {
-    "repo": "mrexodia/ida-pro-mcp",
-    "surge_5d": 9286,
-    "star_increment": 9286,
-    "rank": 11
-  },
-  {
-    "repo": "timschneeb/awesome-shizuku",
-    "surge_5d": 9212,
-    "star_increment": 9212,
     "rank": 12
   },
   {
-    "repo": "langchain-ai/local-deep-researcher",
-    "surge_5d": 9210,
-    "star_increment": 9210,
+    "repo": "platformio/platformio-core",
+    "surge_5d": 9293,
+    "star_increment": 9293,
     "rank": 13
   },
   {
-    "repo": "vitalik/django-ninja",
-    "surge_5d": 9087,
-    "star_increment": 9087,
+    "repo": "timschneeb/awesome-shizuku",
+    "surge_5d": 9224,
+    "star_increment": 9224,
     "rank": 14
   },
   {
-    "repo": "octoprint/octoprint",
-    "surge_5d": 9005,
-    "star_increment": 9005,
+    "repo": "langchain-ai/local-deep-researcher",
+    "surge_5d": 9212,
+    "star_increment": 9212,
     "rank": 15
   },
   {
-    "repo": "nvidia/apex",
-    "surge_5d": 8969,
-    "star_increment": 8969,
+    "repo": "nidhinjs/prompt-master",
+    "surge_5d": 9133,
+    "star_increment": 9133,
     "rank": 16
   },
   {
-    "repo": "microsoft/ufo",
-    "surge_5d": 8954,
-    "star_increment": 8954,
+    "repo": "vitalik/django-ninja",
+    "surge_5d": 9090,
+    "star_increment": 9090,
     "rank": 17
   },
   {
-    "repo": "godotengine/godot-demo-projects",
-    "surge_5d": 8946,
-    "star_increment": 8946,
+    "repo": "nvidia/apex",
+    "surge_5d": 8970,
+    "star_increment": 8970,
     "rank": 18
   },
   {
-    "repo": "zhoutaoo/springcloud",
-    "surge_5d": 8935,
-    "star_increment": 8935,
+    "repo": "godotengine/godot-demo-projects",
+    "surge_5d": 8954,
+    "star_increment": 8954,
     "rank": 19
   },
   {
     "repo": "we5ter/scanners-box",
-    "surge_5d": 8933,
-    "star_increment": 8933,
+    "surge_5d": 8935,
+    "star_increment": 8935,
     "rank": 20
   },
   {
-    "repo": "davidsonfellipe/awesome-wpo",
-    "surge_5d": 8929,
-    "star_increment": 8929,
+    "repo": "zhoutaoo/springcloud",
+    "surge_5d": 8934,
+    "star_increment": 8934,
     "rank": 21
   },
   {
-    "repo": "sohutv/cachecloud",
-    "surge_5d": 8853,
-    "star_increment": 8853,
+    "repo": "davidsonfellipe/awesome-wpo",
+    "surge_5d": 8931,
+    "star_increment": 8931,
     "rank": 22
   },
   {
-    "repo": "obra/superpowers",
-    "surge_5d": 8851,
-    "star_increment": 8851,
+    "repo": "harry0703/moneyprinterturbo",
+    "surge_5d": 8901,
+    "star_increment": 8901,
     "rank": 23
   },
   {
-    "repo": "azat-io/you-dont-know-js-ru",
-    "surge_5d": 8777,
-    "star_increment": 8777,
+    "repo": "sohutv/cachecloud",
+    "surge_5d": 8852,
+    "star_increment": 8852,
     "rank": 24
   },
   {
     "repo": "mage-ai/mage-ai",
-    "surge_5d": 8749,
-    "star_increment": 8749,
+    "surge_5d": 8750,
+    "star_increment": 8750,
     "rank": 25
   },
   {
-    "repo": "mic-dkfz/nnunet",
-    "surge_5d": 8514,
-    "star_increment": 8514,
+    "repo": "nhivp/awesome-embedded",
+    "surge_5d": 8705,
+    "star_increment": 8705,
     "rank": 26
   },
   {
-    "repo": "microsoft/presidio",
-    "surge_5d": 8498,
-    "star_increment": 8498,
+    "repo": "mrnerf/awesome-3d-gaussian-splatting",
+    "surge_5d": 8686,
+    "star_increment": 8686,
     "rank": 27
   },
   {
-    "repo": "patroni/patroni",
-    "surge_5d": 8488,
-    "star_increment": 8488,
+    "repo": "microsoft/presidio",
+    "surge_5d": 8576,
+    "star_increment": 8576,
     "rank": 28
   },
   {
-    "repo": "mouredev/roadmap-retos-programacion",
-    "surge_5d": 8360,
-    "star_increment": 8360,
+    "repo": "funaudiollm/sensevoice",
+    "surge_5d": 8544,
+    "star_increment": 8544,
     "rank": 29
   },
   {
-    "repo": "primefaces/primereact",
-    "surge_5d": 8314,
-    "star_increment": 8314,
+    "repo": "multica-ai/andrej-karpathy-skills",
+    "surge_5d": 8464,
+    "star_increment": 8464,
     "rank": 30
   },
   {
-    "repo": "unicity-astrid/sdk-js",
-    "surge_5d": 8255,
-    "star_increment": 8255,
+    "repo": "northwoodssoftware/gojs",
+    "surge_5d": 8443,
+    "star_increment": 8443,
     "rank": 31
   },
   {
-    "repo": "lmcinnes/umap",
-    "surge_5d": 8201,
-    "star_increment": 8201,
+    "repo": "addyosmani/agent-skills",
+    "surge_5d": 8391,
+    "star_increment": 8391,
     "rank": 32
   },
   {
-    "repo": "cybertimon/rapidraw",
-    "surge_5d": 8151,
-    "star_increment": 8151,
+    "repo": "getsurfboard/surfboard",
+    "surge_5d": 8383,
+    "star_increment": 8383,
     "rank": 33
   },
   {
-    "repo": "harry0703/moneyprinterturbo",
-    "surge_5d": 8083,
-    "star_increment": 8083,
+    "repo": "yangzongzhuan/ruoyi",
+    "surge_5d": 8334,
+    "star_increment": 8334,
     "rank": 34
   },
   {
-    "repo": "shenweichen/deepctr",
-    "surge_5d": 8034,
-    "star_increment": 8034,
+    "repo": "lum1104/understand-anything",
+    "surge_5d": 8228,
+    "star_increment": 8228,
     "rank": 35
+  },
+  {
+    "repo": "nvlabs/sana",
+    "surge_5d": 8214,
+    "star_increment": 8214,
+    "rank": 36
+  },
+  {
+    "repo": "google-deepmind/alphafold3",
+    "surge_5d": 8212,
+    "star_increment": 8212,
+    "rank": 37
+  },
+  {
+    "repo": "lmcinnes/umap",
+    "surge_5d": 8205,
+    "star_increment": 8205,
+    "rank": 38
+  },
+  {
+    "repo": "openatx/uiautomator2",
+    "surge_5d": 8137,
+    "star_increment": 8137,
+    "rank": 39
+  },
+  {
+    "repo": "all-contributors/allcontributors.org",
+    "surge_5d": 8058,
+    "star_increment": 8058,
+    "rank": 40
+  },
+  {
+    "repo": "score-spec/spec",
+    "surge_5d": 8050,
+    "star_increment": 8050,
+    "rank": 41
+  },
+  {
+    "repo": "thinkgem/jeesite",
+    "surge_5d": 8041,
+    "star_increment": 8041,
+    "rank": 42
+  },
+  {
+    "repo": "shenweichen/deepctr",
+    "surge_5d": 8035,
+    "star_increment": 8035,
+    "rank": 43
   },
   {
     "repo": "getpaseo/paseo",
     "surge_5d": 8016,
     "star_increment": 8016,
-    "rank": 36
-  },
-  {
-    "repo": "upsonic/upsonic",
-    "surge_5d": 7875,
-    "star_increment": 7875,
-    "rank": 37
-  },
-  {
-    "repo": "sphinx-doc/sphinx",
-    "surge_5d": 7866,
-    "star_increment": 7866,
-    "rank": 38
-  },
-  {
-    "repo": "utkarshdalal/gamenative",
-    "surge_5d": 7826,
-    "star_increment": 7826,
-    "rank": 39
-  },
-  {
-    "repo": "multica-ai/andrej-karpathy-skills",
-    "surge_5d": 7786,
-    "star_increment": 7786,
-    "rank": 40
-  },
-  {
-    "repo": "eooce/nodejs-argo",
-    "surge_5d": 7763,
-    "star_increment": 7763,
-    "rank": 41
-  },
-  {
-    "repo": "companion-inc/feynman",
-    "surge_5d": 7746,
-    "star_increment": 7746,
-    "rank": 42
-  },
-  {
-    "repo": "abbodi1406/vcredist",
-    "surge_5d": 7739,
-    "star_increment": 7739,
-    "rank": 43
-  },
-  {
-    "repo": "dmtrkovalenko/fff",
-    "surge_5d": 7721,
-    "star_increment": 7721,
     "rank": 44
   },
   {
-    "repo": "getagentseal/codeburn",
-    "surge_5d": 7707,
-    "star_increment": 7707,
+    "repo": "jazzband/pip-tools",
+    "surge_5d": 8006,
+    "star_increment": 8006,
     "rank": 45
   },
   {
-    "repo": "awesome-opencode/awesome-opencode",
-    "surge_5d": 7681,
-    "star_increment": 7681,
+    "repo": "shaxiu/xianyuautoagent",
+    "surge_5d": 7943,
+    "star_increment": 7943,
     "rank": 46
   },
   {
-    "repo": "alteryx/featuretools",
-    "surge_5d": 7655,
-    "star_increment": 7655,
+    "repo": "joerick/pyinstrument",
+    "surge_5d": 7929,
+    "star_increment": 7929,
     "rank": 47
   },
   {
-    "repo": "2fastlabs/agent-squad",
-    "surge_5d": 7649,
-    "star_increment": 7649,
+    "repo": "rust-embedded/awesome-embedded-rust",
+    "surge_5d": 7919,
+    "star_increment": 7919,
     "rank": 48
   },
   {
-    "repo": "colinleung-nilocat/unityurptoonlitshaderexample",
-    "surge_5d": 7647,
-    "star_increment": 7647,
+    "repo": "nadermx/backgroundremover",
+    "surge_5d": 7918,
+    "star_increment": 7918,
     "rank": 49
   },
   {
-    "repo": "mengxi-ream/read-frog",
-    "surge_5d": 7588,
-    "star_increment": 7588,
+    "repo": "upsonic/upsonic",
+    "surge_5d": 7877,
+    "star_increment": 7877,
     "rank": 50
   }
 ]
