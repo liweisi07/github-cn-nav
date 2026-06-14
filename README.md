@@ -6,7 +6,7 @@
 
 ⏱️ 三分钟扫一眼，比你刷三年 Trending 有用。
 
-👉 [在线浏览](https://SoulSpark-CN.github.io/github-cn-nav) | [下载离线版](https://github.com/SoulSpark-CN/github-cn-nav/releases/latest/download/standalone.html)
+👉 [在线浏览]([https://SoulSpark-CN.github.io/github-cn-nav](https://github.com/liweisi07/github-cn-nav)) | [下载离线版](https://github.com/SoulSpark-CN/github-cn-nav/releases/latest/download/standalone.html)
 
 ⚠️ 本仓库不是 GitHub 官方项目，是一个社区维护的中文开源导航站。
 
